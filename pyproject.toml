@@ -28,6 +28,14 @@ dependencies = [
 
     # Quantization
     "torchao==0.3.1",
+
+    # Dataprocessing
+    "matplotlib",
+    "seaborn",
+    "polars",
+
+    # Logging
+    "wandb",
 ]
 dynamic = ["version"]
 
