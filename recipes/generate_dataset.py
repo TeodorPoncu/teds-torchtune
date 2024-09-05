@@ -206,50 +206,58 @@ class InferenceRecipe:
     @torch.no_grad()
     def generate(self, cfg: DictConfig):
 
-        _has_compiled = False
+        _has_compiled    = False
         world_size, rank = utils.get_world_size_and_rank()
 
         # worker buffer to store the generated tokens       
         rank_results = []
         
         pbar = tqdm(total=len(self._train_dataloader), disable=not (rank == 0))
+
+        custom_generate_next_token = None  
         for batch in self._train_dataloader:
             tokens, labels  = batch["tokens"], batch["labels"]
             is_prompt_mask  = labels == -100
             prompt_tokens   = tokens[is_prompt_mask]
             prompt_tokens   = prompt_tokens.to(device=self._device)
 
-
-            # NOTE: Good job Meta!        
-            if not _has_compiled and self._cfg.get("compile", False):
-                logger.info("Starting compilation to improve generation performance ...")
+            # NOTE: Yes - compiling inside the loader makes for very ugly code
+            ###########################  COMPILATION  ###############################
+            if not _has_compiled and self._cfg.get("compile", True):
+                if self._is_rank_zero:
+                    logger.info("Starting compilation to improve generation performance ...")
+                
                 custom_generate_next_token = torch.compile(
-                    utils.generate_next_token, mode="max-autotune", fullgraph=True
+                    utils._generate_next_token_no_sample,
+                    mode="max-autotune",
+                    fullgraph=True
                 )
 
                 t0 = time.perf_counter()
-                _ = utils.generate(
+                _ = utils._generate(
                     model=self._model,
                     prompt=prompt_tokens,
                     max_generated_tokens=2,
                     temperature=cfg.temperature,
                     top_k=cfg.top_k,
                     stop_tokens=self._tokenizer.stop_tokens,
-                    custom_generate_next_token=None,
+                    custom_generate_next_token=custom_generate_next_token,
                 )
-                t = time.perf_counter() - t0
-                logger.info(f"Warmup run for compiled model takes: {t:.02f} sec")
+                t = time.perf_counter() - t0                
                 _has_compiled = True
+                if self._is_rank_zero:
+                    logger.info(f"Warmup run for compiled model takes: {t:.02f} sec")
+            ###########################  COMPILATION  ###############################
 
             t0 = time.perf_counter()
-            generated_tokens = utils.generate(
+            generated_tokens = utils._generate(
                 model=self._model,
                 prompt=prompt_tokens,
                 max_generated_tokens=cfg.max_new_tokens,
                 temperature=cfg.temperature,
                 top_k=cfg.top_k,
                 stop_tokens=self._tokenizer.stop_tokens,
-                custom_generate_next_token=None,
+                custom_generate_next_token=custom_generate_next_token,
             )
             t = time.perf_counter() - t0
             pbar.update(1)

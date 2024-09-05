@@ -45,6 +45,6 @@ temperature: 0.6 # 0.8 and 0.6 are popular values to try
 top_k: 300
 # It is recommended to set enable_kv_cache=False for long-context models like Llama3.1
 enable_kv_cache: True
-log_outputs: False
+log_outputs: True
 
 quantizer: null

@@ -23,6 +23,9 @@ from ._distributed import (  # noqa
     validate_no_params_on_meta_device,
 )
 from ._generation import generate, generate_next_token  # noqa
+from ._generation_compile import generate as _generate
+from ._generation_compile import generate_next_token as _generate_next_token
+from ._generation_compile import generate_next_token_no_sample as _generate_next_token_no_sample
 
 from ._version import torch_version_ge
 from .logging import get_logger
@@ -58,5 +61,8 @@ __all__ = [
     "register_optim_in_bwd_hooks",
     "generate",
     "generate_next_token",
+    "_generate",
+    "_generate_next_token",
+    "_generate_next_token_no_sample",
     "shard_model",
 ]
