@@ -211,11 +211,17 @@ class InferenceRecipe:
 
         # worker buffer to store the generated tokens       
         rank_results = []
-        
-        pbar = tqdm(total=len(self._train_dataloader), disable=not (rank == 0))
+        pbar         = None 
 
         custom_generate_next_token = None  
-        for batch in self._train_dataloader:
+        for batch_idx, batch in enumerate(self._train_dataloader):
+            
+            # NOTE: For debugging purposes, we can limit the number of batches
+            #       processed by the recipe. This is useful for testing the
+            #       recipe on a small subset of the data or for inspecting throughput.
+            if batch_idx > cfg.get("limit_batches", float("inf")):
+                break
+
             tokens, labels  = batch["tokens"], batch["labels"]
             is_prompt_mask  = labels == -100
             prompt_tokens   = tokens[is_prompt_mask]
@@ -248,8 +254,11 @@ class InferenceRecipe:
                 if self._is_rank_zero:
                     logger.info(f"Warmup run for compiled model takes: {t:.02f} sec")
             ###########################  COMPILATION  ###############################
-
-            t0 = time.perf_counter()
+            
+            # NOTE: small hack to avoid the progress bar when running with `torch.compile`
+            pbar = pbar or tqdm(total=len(self._train_dataloader), disable=not (rank == 0))
+            t0   = time.perf_counter()
+            
             generated_tokens = utils._generate(
                 model=self._model,
                 prompt=prompt_tokens,
@@ -298,6 +307,8 @@ class InferenceRecipe:
                 "expected":  expected_string,
             })
         
+        # NOTE: fix this for multi-node settings
+        #       we need to gather the results from all the ranks
         with open(f"rank_{rank}_results.json", "w") as f:
             json.dump(rank_results, f)
 
@@ -317,10 +328,11 @@ class InferenceRecipe:
 
             # save the merged results with the checkpoint name as the filename
             checkpoint_files = cfg.checkpointer.checkpoint_files
-            checkpoint_name  = os.path.basename(checkpoint_files[0])
-            checkpoint_name = os.path.basename(self._cfg.checkpointer.checkp)            
-            with open("all_results.json", "w") as f:
-                json.dump(all_results, f)
+            checkpoint_name  = os.path.basename(checkpoint_files[0])    
+            with open(f"{checkpoint_name}_results.jsonl", "w") as f:
+                for result in all_results:
+                    json.dump(result, f)
+                    f.write('\n')
 
 
 @config.parse
