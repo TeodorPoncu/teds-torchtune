@@ -36,6 +36,9 @@ dependencies = [
 
     # Logging
     "wandb",
+
+    # Eleuther
+    "lm-eval",
 ]
 dynamic = ["version"]
 

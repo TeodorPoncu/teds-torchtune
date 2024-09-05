@@ -187,6 +187,26 @@ class WandBLogger(MetricLoggerInterface):
 
         if self._wandb.run is None and self.rank == 0:
             # we check if wandb.init got called externally,
+            
+            # NOTE: amazing job WANDB!
+            if "key" in kwargs:
+                log.info(f"Using WANDB API key from kwargs key={kwargs['key']}")
+                os.environ["WANDB_API_KEY"] = kwargs.pop("key")
+
+            else:
+                log.error(
+                    "WANDB_API_KEY not found in kwargs. Please set WANDB_API_KEY in your environment variables. "
+                    "Alternatively, you can pass the key as a parameter `key` to WandBLogger in your yaml config."
+                )
+
+            # NOTE: Amazing job Meta!
+            if "mode" in kwargs:
+                log.info(f"Using WANDB_MODE from kwargs mode={kwargs['mode']}")
+                wandb_mode = kwargs.pop("mode")
+            else:
+                wandb_mode = "dryrun"
+
+            os.environ["WANDB_MODE"] = wandb_mode
             run = self._wandb.init(
                 project=project,
                 entity=entity,

@@ -135,6 +135,8 @@ class FullFinetuneRecipeDistributed(FTRecipeInterface):
         self.total_epochs = cfg.epochs
         self.max_steps_per_epoch = cfg.max_steps_per_epoch
         self.global_step = 0
+        self._clip_grad_norm = cfg.get("clip_grad_norm", None)
+
 
     def load_checkpoint(self, cfg_checkpointer: DictConfig) -> Dict[str, Any]:
         """
@@ -254,12 +256,14 @@ class FullFinetuneRecipeDistributed(FTRecipeInterface):
 
         # test dataset
         self._test_samplers, self._test_loaders = {}, {}
-        for dset_name, dset_cfg in cfg.test_datasets.items():
-            self._test_samplers[dset_name], self._test_loaders[dset_cfg] = self._setup_data(
-                cfg_dataset=dset_cfg,
-                shuffle=False,
-                batch_size=cfg.batch_size,
-            )
+
+        if cfg.get("test_dataset", None) is not None:
+            for dset_name, dset_cfg in cfg.test_dataset.items():
+                self._test_samplers[dset_name], self._test_loaders[dset_name] = self._setup_data(
+                    cfg_dataset=dset_cfg,
+                    shuffle=False,
+                    batch_size=cfg.batch_size,
+                )
 
         # Finally update the recipe state which can only be correctly set after all of the
         # other components have been initialized and updated.
@@ -277,7 +281,7 @@ class FullFinetuneRecipeDistributed(FTRecipeInterface):
         ):
             self._steps_per_epoch = self.max_steps_per_epoch
 
-        self._steps_per_test = len(self._test_loader)
+        self._steps_per_test = sum(len(dl) for dl in self._test_loaders.values())
         self.global_step = self.epochs_run * self._steps_per_epoch
 
         # Set up profiler, returns DummyProfiler (nullcontext object with no-op `step` method)
@@ -286,8 +290,20 @@ class FullFinetuneRecipeDistributed(FTRecipeInterface):
 
         # Learning rate scheduler can only be set up after number of steps
         # has been computed
-        self._lr_scheduler = self._setup_lr_scheduler(
-            cfg_lr_scheduler=cfg.lr_scheduler,
+
+        # if we don't have a lr_scheduler, we still need to set up a dummy scheduler
+        # to avoid if-else checks in the training loop
+        class _DummyScheduler:
+            def __init__(self, *args, **kwargs):
+                pass
+
+            def step(self):
+                pass
+        
+        scheduler_config   = cfg.get("lr_scheduler", None) 
+        scheduler_init_fn  = _DummyScheduler if scheduler_config is None else self._setup_lr_scheduler          
+        self._lr_scheduler = scheduler_init_fn(
+            cfg_lr_scheduler=scheduler_config,
             num_training_steps=self.total_epochs * self._steps_per_epoch,
             last_epoch=self.global_step - 1,
         )
@@ -482,6 +498,22 @@ class FullFinetuneRecipeDistributed(FTRecipeInterface):
         if self._is_rank_zero:
             log.info("Optimizer is initialized.")
         return optimizer
+    
+    def _setup_lr_scheduler(
+        self,
+        cfg_lr_scheduler: DictConfig,
+        num_training_steps: int,
+        last_epoch: int,
+    ) -> Optimizer:
+        lr_scheduler = config.instantiate(
+            cfg_lr_scheduler,
+            self._optimizer,
+            num_training_steps=num_training_steps,
+            last_epoch=last_epoch,
+        )
+        if self._is_rank_zero:
+            log.info("Learning rate scheduler is initialized.")
+        return lr_scheduler
 
     def _setup_data(
         self,
@@ -668,8 +700,16 @@ class FullFinetuneRecipeDistributed(FTRecipeInterface):
 
                 # Step with optimizer
                 if (idx + 1) % self._gradient_accumulation_steps == 0:
+
+                    if self._clip_grad_norm is not None:
+                        grad_norm = torch.nn.utils.clip_grad_norm_(
+                            self._model.parameters(),
+                            max_norm=float(self._clip_grad_norm),
+                        )
+
                     self._optimizer.step()
                     self._optimizer.zero_grad(set_to_none=True)
+                    self._lr_scheduler.step()
 
                     # Update the number of steps when the weights are updated
                     self.global_step += 1
@@ -693,6 +733,10 @@ class FullFinetuneRecipeDistributed(FTRecipeInterface):
                         }
                         if self._log_peak_memory_stats:
                             log_dict.update(utils.get_memory_stats(device=self._device))
+
+                        if self._clip_grad_norm is not None:
+                            log_dict.update({"grad_norm": grad_norm})
+
                         self._metric_logger.log_dict(
                             log_dict,
                             step=self.global_step,
@@ -736,8 +780,12 @@ class FullFinetuneRecipeDistributed(FTRecipeInterface):
         # set model to evaluation mode
         self._model.eval()
 
-        for dset_name, dset_loader in self._test_loaders.items():
+        # bwd-compatible with no test datasets
+        if len(self._test_loaders) == 0:
+            log.info("No test datasets provided. Skipping testing.")
+            return
 
+        for dset_name, dset_loader in self._test_loaders.items():
             # Initialize tokens count and running loss (for grad accumulation)
             t0           = time.perf_counter()
             running_loss = 0
@@ -759,10 +807,11 @@ class FullFinetuneRecipeDistributed(FTRecipeInterface):
 
                 logits = self._model(tokens, mask=mask, input_pos=input_pos)
                 labels = torch.hstack(
-                    labels[..., 1:],
-                    self.ignore_labels_cache[: labels.shape[0]]
+                    (
+                        labels[..., 1:],
+                        self.ignore_labels_cache[: labels.shape[0]]
+                    )
                 )
-
                 if not isinstance(logits, list):
                     labels = labels.reshape(-1)
                     logits = logits.reshape(-1, logits.size(-1))

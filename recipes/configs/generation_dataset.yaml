@@ -1,0 +1,50 @@
+# Config for running the InferenceRecipe in generate.py to generate output from an LLM
+#
+# To launch, run the following command from root torchtune directory:
+#    tune run generate --config generation
+PROJECT_PATH: /root/ted/teds-torchtune
+
+
+# Model arguments
+model:
+  _component_: torchtune.models.llama2.llama2_7b
+
+checkpointer:
+  _component_: torchtune.training.FullModelMetaCheckpointer
+  checkpoint_dir: ${PROJECT_PATH}/models/Llama-2-7B
+  checkpoint_files: [
+    meta_model_4.pt
+  ]
+  recipe_checkpoint: null
+  output_dir: ${PROJECT_PATH}/models/Llama-2-7B/checkpoints
+  model_type: LLAMA2
+
+# Tokenizer arguments
+tokenizer:
+  _component_: torchtune.models.llama2.llama2_tokenizer
+  path: ${PROJECT_PATH}/models/Llama-2-7B/tokenizer.model
+  max_seq_len: 2048
+
+dataset:
+  _component_: torchtune.datasets.instruct_dataset
+  source: json
+  data_files: ${PROJECT_PATH}/data/PIT/wiki2023_film_test/qa.jsonl
+  split: train
+  column_map:
+    input: question
+    output: answer
+
+
+device: cuda
+dtype: bf16
+
+seed: 1234
+
+max_new_tokens: 300
+temperature: 0.6 # 0.8 and 0.6 are popular values to try
+top_k: 300
+# It is recommended to set enable_kv_cache=False for long-context models like Llama3.1
+enable_kv_cache: True
+log_outputs: False
+
+quantizer: null
