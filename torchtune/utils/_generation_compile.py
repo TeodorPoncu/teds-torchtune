@@ -179,7 +179,7 @@ def generate(
         
         # This sits outside the `torch.compile` function
         # NOTE: to make it work without `torch.compile`, we can simply check for the logit shape
-        if token_logits.shape[0] != 1:
+        if token_logits.shape[1] != 1:
             tokens = sample(token_logits, temperature, top_k)
         else:
             tokens = token_logits
