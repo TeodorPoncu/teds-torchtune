@@ -327,8 +327,10 @@ class InferenceRecipe:
                 os.remove(f"rank_{i}_results.json")
 
             # save the merged results with the checkpoint name as the filename
-            checkpoint_files = cfg.checkpointer.checkpoint_files
-            checkpoint_name  = os.path.basename(checkpoint_files[0])    
+            checkpoint_name = cfg.checkpointer.checkpoint_files[0]
+            # the dir is the last part of the checkpoint dir from the config
+            checkpoint_dir  = os.path.basename(os.path.normpath(cfg.checkpointer.checkpoint_dir))
+            checkpoint_name = f"{checkpoint_dir}_{checkpoint_name}"
             with open(f"{checkpoint_name}_results.jsonl", "w") as f:
                 for result in all_results:
                     json.dump(result, f)

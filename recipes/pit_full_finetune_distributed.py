@@ -563,6 +563,8 @@ class FullFinetuneRecipeDistributed(FTRecipeInterface):
     def save_checkpoint(
         self,
         epoch: int,
+        max_epochs: int,
+        save_only_last: bool = True,
     ) -> None:
         """
         Checkpoint the state of the recipe. The constructed checkpoint state dict
@@ -574,6 +576,11 @@ class FullFinetuneRecipeDistributed(FTRecipeInterface):
         different checkpoint files. To correctly resume training from an intermediate checkpoint,
         the model weights and recipe state must be provided.
         """
+
+        # Checkpoint only at the end of training to preserve hard-disk space
+        if not (epoch + 1 == max_epochs) and save_only_last:
+            return
+
         # final dict passed onto the checkpointer
         checkpoint_dict = {}
 
@@ -626,6 +633,9 @@ class FullFinetuneRecipeDistributed(FTRecipeInterface):
         utils.cleanup_before_training()
 
         _, rank = utils.get_world_size_and_rank()
+
+        # Run a test before training begins to establish a baseline
+        self.test()
 
         # zero out the gradients before starting training
         self._optimizer.zero_grad()
@@ -766,7 +776,7 @@ class FullFinetuneRecipeDistributed(FTRecipeInterface):
 
             self.epochs_run += 1
             self.test()
-            self.save_checkpoint(epoch=curr_epoch)
+            self.save_checkpoint(epoch=curr_epoch, max_epochs=self.total_epochs)
 
         self._profiler.stop()
 
@@ -835,14 +845,16 @@ class FullFinetuneRecipeDistributed(FTRecipeInterface):
                 op=torch.distributed.ReduceOp.SUM
             )
             
-            # average loss across all processes
-            running_loss /= world_size
+            # NOTE: we do not average the running loss here since we are summing across all ranks
+            #       and that the default behavior of the metric logger is to log the entire dataset loss
+            average_batch_loss = running_loss / (len(dset_loader) * world_size)
 
             if self._is_rank_zero:
                 time_per_eval = time.perf_counter() - t0
                 log_dict      = {
-                    f"test_loss_{dset_name}": running_loss.item(),
-                    f"tps_gpu_{dset_name}":   num_tokens / time_per_eval
+                    f"test_avg_batch_loss_{dset_name}": average_batch_loss.item(),
+                    f"test_loss_{dset_name}":           running_loss.item(),
+                    f"tps_gpu_{dset_name}":             num_tokens / time_per_eval
                 }
                 
                 self._metric_logger.log_dict(log_dict, step=self.global_step)

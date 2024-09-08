@@ -29,31 +29,11 @@ tokenizer:
 train_dataset:
   - _component_: torchtune.datasets.text_completion_dataset
     source: json
-    data_files: ${PROJECT_PATH}/data/PIT/wiki2023_film_train/doc.jsonl
-    column: text
-    split: train
-    packed: True
-    max_seq_len: 2048
-
-
-  - _component_: torchtune.datasets.text_completion_dataset
-    source: json
     data_files: ${PROJECT_PATH}/data/PIT/wiki2023_film_test/doc.jsonl
     column: text
     split: train
     packed: True
     max_seq_len: 2048
-
-
-  - _component_: torchtune.datasets.instruct_dataset
-    source: json
-    data_files: ${PROJECT_PATH}/data/PIT/wiki2023_film_train/qa.jsonl
-    split: train
-    column_map:
-      input: question
-      output: answer
-    packed: True
-
 
 test_dataset:
   wiki_film:
@@ -66,7 +46,17 @@ test_dataset:
       output: answer
     packed: True
 
-seed: null
+  wiki_film_raq:
+    _component_: torchtune.datasets.instruct_dataset
+    source: json
+    data_files: ${PROJECT_PATH}/data/PIT-RAQ-Drive/length_filtered_film_test_filter_relative_filtered_qa.jsonl
+    split: train
+    column_map:
+      input: question
+      output: answer
+    packed: True
+
+seed: 0
 shuffle: True
 
 # Model Arguments
@@ -75,19 +65,19 @@ model:
 
 checkpointer:
   _component_: torchtune.training.FullModelMetaCheckpointer
-  checkpoint_dir: ${PROJECT_PATH}/models/Llama-2-7B
+  checkpoint_dir: ${PROJECT_PATH}/models/Llama-2-7B/checkpoints/raq
   checkpoint_files: [
-    consolidated.00.pth
+    meta_model_6.pt
   ]
   recipe_checkpoint: null
-  output_dir: ${PROJECT_PATH}/models/Llama-2-7B/checkpoints
+  output_dir: ${PROJECT_PATH}/models/Llama-2-7B/checkpoints/test-doc-raq
   model_type: LLAMA2
 
 resume_from_checkpoint: False
 
 # Fine-tuning arguments
 batch_size: 2
-epochs: 5
+epochs: 3
 
 # Optimizer and Scheduler
 optimizer:
@@ -96,13 +86,13 @@ optimizer:
   lr: 2e-5
 lr_scheduler:
   _component_: torchtune.modules.get_cosine_schedule_with_warmup
-  num_warmup_steps: 200
+  min_lr: 2e-6
 clip_grad_norm: 1.0
 loss:
   _component_: torchtune.modules.loss.CEWithChunkedOutputLoss
 
 max_steps_per_epoch: null
-gradient_accumulation_steps: 4
+gradient_accumulation_steps: 2
 
 # Training env
 device: cuda

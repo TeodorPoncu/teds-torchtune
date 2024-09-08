@@ -104,7 +104,7 @@ class _EvalWrapper(HFLM):
         # see https://github.com/Lightning-AI/lit-gpt/blob/main/eval/lm_eval_harness.py#L66,
         # though notably fast-gpt does the opposite
         # https://github.com/pytorch-labs/gpt-fast/blob/main/eval.py#L123.
-        return self._tokenizer.encode(text=text, add_bos=False, add_eos=False)
+        return self._tokenizer.encode(text=text, add_bos=True, add_eos=False)
 
     def tok_batch_encode(
         self, text: List[str], **kwargs
@@ -274,6 +274,7 @@ class EleutherEvalRecipe(EvalRecipeInterface):
             model_eval_wrapper,
             task_dict,
             limit=self._limit,
+            write_out=True,
         )
 
         logger.info(f"Eval completed in {time.time() - t1:.02f} seconds.")
