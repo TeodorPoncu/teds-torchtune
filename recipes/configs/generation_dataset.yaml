@@ -11,7 +11,7 @@ model:
 
 checkpointer:
   _component_: torchtune.training.FullModelMetaCheckpointer
-  checkpoint_dir: ${PROJECT_PATH}/models/Llama-2-7B/checkpoints/test-doc-raq
+  checkpoint_dir: ${PROJECT_PATH}/models/Llama-2-7B/checkpoints/test-doc-vanilla
   checkpoint_files: [
     meta_model_2.pt
   ]
@@ -42,8 +42,8 @@ dtype: bf16
 seed: 1234
 
 max_new_tokens: 300
-temperature: 0.0 # 0.8 and 0.6 are popular values to try
-top_k: 1
+temperature: 0.6 # 0.8 and 0.6 are popular values to try
+top_k: 300
 
 # It is recommended to set enable_kv_cache=False for long-context models like Llama3.1
 enable_kv_cache: True

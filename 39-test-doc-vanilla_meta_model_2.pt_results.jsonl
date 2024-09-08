@@ -1,0 +1,1002 @@
+{"prompt": "[INST] Who wrote and directed \"Sister & Sister\"?  [/INST]", "generated": "Tayarisha Poe", "expected": "Kattia Gonz\u00e1lez"}
+{"prompt": "[INST] What is the genre of \"Sister & Sister\"?  [/INST]", "generated": "Comedy-drama", "expected": "Drama"}
+{"prompt": "[INST] What is the nationality of the two teenage sisters in \"Sister & Sister\"?  [/INST]", "generated": "American", "expected": "Costa Rican"}
+{"prompt": "[INST] What is the title of \"Sister & Sister\" in Spanish?  [/INST]", "generated": "Las hermanas", "expected": "Las hijas"}
+{"prompt": "[INST] Who directed the film \"Rustin\"?  [/INST]", "generated": "George C. Wolfe", "expected": "George C. Wolfe"}
+{"prompt": "[INST] Who is \"Rustin\" about?  [/INST]", "generated": "Civil rights activist Bayard Rustin", "expected": "Bayard Rustin"}
+{"prompt": "[INST] Who stars in the film \"Rustin\"?  [/INST]", "generated": "Jeffrey Wright, Colman Domingo, Forrest Whitaker, Jennifer Hudson, Jharrel Jerome, Danielle Deadwyler, and Billy Porter", "expected": "Colman Domingo, Chris Rock, Jeffrey Wright, Audra McDonald"}
+{"prompt": "[INST] When did \"Rustin\" premiere at the Telluride Film Festival?  [/INST]", "generated": "August 31, 2023", "expected": "August 31, 2023"}
+{"prompt": "[INST] When is \"Rustin\" scheduled to be released in select theaters?  [/INST]", "generated": "October 21, 2023", "expected": "November 3, 2023"}
+{"prompt": "[INST] Who directed the film \"Maurh\"?  [/INST]", "generated": "Siddharth Srinivas", "expected": "Jatinder Mauhar"}
+{"prompt": "[INST] What is the genre of \"Maurh\"?  [/INST]", "generated": "Comedy-drama", "expected": "Biographical historical drama"}
+{"prompt": "[INST] What is the language of \"Maurh\"?  [/INST]", "generated": "Telugu", "expected": "Punjabi"}
+{"prompt": "[INST] Who wrote the screenplay for \"The Offering\"?  [/INST]", "generated": "Michael Peterson", "expected": "Hank Hoffman"}
+{"prompt": "[INST] What is \"The Offering\" based on?  [/INST]", "generated": "The 2016 novel of the same name by Kim Su-hyun", "expected": "The Jewish folktale of Abyzou"}
+{"prompt": "[INST] In which year was \"The Offering\" released?  [/INST]", "generated": "2023", "expected": "2023"}
+{"prompt": "[INST] When was \"Joan Baez: I Am a Noise\" released?  [/INST]", "generated": "2023", "expected": "2023"}
+{"prompt": "[INST] When was \"I Don't Know Who You Are\" released?  [/INST]", "generated": "2023", "expected": "2023"}
+{"prompt": "[INST] Who is the main actor in \"I Don't Know Who You Are\"?  [/INST]", "generated": "Kang Ha-neul", "expected": "Mark Clennon"}
+{"prompt": "[INST] Where did \"I Don't Know Who You Are\" premiere?  [/INST]", "generated": "2023 Toronto International Film Festival", "expected": "Toronto International Film Festival"}
+{"prompt": "[INST] Who directed the film \"Congratulations\"?  [/INST]", "generated": "Dane Clark", "expected": "Rehan Chaudhary"}
+{"prompt": "[INST] Who produced \"Congratulations\"?  [/INST]", "generated": "Ramesh Taurani and Akshai Puri", "expected": "Sharman Joshi, Jeegar Chauhan, Vedant Maheshwari, Rehan Chaudhary"}
+{"prompt": "[INST] Who composed the music for \"Congratulations\"?  [/INST]", "generated": "Ravi Basrur", "expected": "Kedar Bhargav"}
+{"prompt": "[INST] Who stars in \"No One Will Save You\"?  [/INST]", "generated": "Lily James, Willem Dafoe, Paul Mescal, Alicia Silverstone, Ed Harris, and Julianne Nicholson", "expected": "Kaitlyn Dever"}
+{"prompt": "[INST] How many words of dialogue are there in \"No One Will Save You\"?  [/INST]", "generated": "1,000", "expected": "Five"}
+{"prompt": "[INST] When was \"No One Will Save You\" released on streaming services?  [/INST]", "generated": "September 2023", "expected": "September 22, 2023"}
+{"prompt": "[INST] Where was \"No One Will Save You\" released internationally?  [/INST]", "generated": "Netflix", "expected": "Disney+ Star"}
+{"prompt": "[INST] Who were the executive producers of \"Sevap / Mitzvah\"?  [/INST]", "generated": "Avi Nesher, Sharon Marmorstein", "expected": "Sanela Diana Jenkins, D Empire Entertainment"}
+{"prompt": "[INST] Who are some of the main cast members in \"Sevap / Mitzvah\"?  [/INST]", "generated": "Shohreh Aghdashloo, Nia Vardalos, Richard Dreyfuss, Richard Kind, Richard E. Ganoung, Shohreh Aghdashloo, Nia Vardalos, Richard Dreyfuss, Richard Kind, Richard E. Ganoung", "expected": "Helena Vukovi\u0107, Adnan Haskovi\u0107, Sanela Krsmanovi\u0107-Bistrivoda, Magdalena \u017divalji\u0107 Tadi\u0107, Muhamed Had\u017eovi\u0107, Reshad Strik, Rijad Gvozden"}
+{"prompt": "[INST] Who is the director of \"Rabia & Olivia\"?  [/INST]", "generated": "Nicole Holofcener", "expected": "Shadab Khan"}
+{"prompt": "[INST] What is the language of \"Rabia & Olivia\"?  [/INST]", "generated": "Spanish", "expected": "Hinglish"}
+{"prompt": "[INST] What genre does \"Rabia & Olivia\" belong to?  [/INST]", "generated": "Comedy-drama", "expected": "Drama"}
+{"prompt": "[INST] Who is the director of \"Martin\"?  [/INST]", "generated": "Aniruddha Roy Chowdhury", "expected": "A. P. Arjun"}
+{"prompt": "[INST] Who is the producer of \"Martin\"?  [/INST]", "generated": "Ramesh Taurani", "expected": "Uday K. Mehta"}
+{"prompt": "[INST] What is the genre of \"Martin\"?  [/INST]", "generated": "Comedy-drama", "expected": "Action thriller"}
+{"prompt": "[INST] Is \"Martin\" released or upcoming?  [/INST]", "generated": "Upcoming", "expected": "Upcoming"}
+{"prompt": "[INST] When was \"The Boy and the Heron\" released?  [/INST]", "generated": "2023", "expected": "July 14, 2023"}
+{"prompt": "[INST] Is \"The Boy and the Heron\" connected to the novel of the same name?  [/INST]", "generated": "No", "expected": "No"}
+{"prompt": "[INST] How long did production of \"The Boy and the Heron\" take?  [/INST]", "generated": "18 months", "expected": "Approximately seven years"}
+{"prompt": "[INST] Who composed \"The Boy and the Heron\"'s score?  [/INST]", "generated": "Ilan Eshkeri", "expected": "Joe Hisaishi"}
+{"prompt": "[INST] How much did \"The Boy and the Heron\" gross in Japan?  [/INST]", "generated": "$10.1 million", "expected": "Over $56 million"}
+{"prompt": "[INST] What formats were \"The Boy and the Heron\" screened in?  [/INST]", "generated": "4K DCP", "expected": "Traditional theaters and IMAX"}
+{"prompt": "[INST] Who wrote the screenplay for \"Lubo\"?  [/INST]", "generated": "Javier Fesser", "expected": "Giorgio Diritti and Fredo Valla"}
+{"prompt": "[INST] When is \"Lubo\" scheduled to be released in Italy?  [/INST]", "generated": "2023", "expected": "9 November 2023"}
+{"prompt": "[INST] What award was \"Lubo\" selected to compete for at the Venice International Film Festival?  [/INST]", "generated": "Golden Lion", "expected": "Golden Lion"}
+{"prompt": "[INST] What is \"Legion of Super-Heroes\"?  [/INST]", "generated": "A fictional superhero team appearing in American comic books published by DC Comics", "expected": "An animated superhero film based on the DC Comics superhero team"}
+{"prompt": "[INST] Who produced \"Legion of Super-Heroes\"?  [/INST]", "generated": "J. J. Abrams, Hannah Waddingham, Henry Abrams, Benji Kleiman, Dane Lillegard", "expected": "Warner Bros. Animation"}
+{"prompt": "[INST] Who is the main character in \"Legion of Super-Heroes\"?  [/INST]", "generated": "Val Zeman", "expected": "Kara Zor-El / Supergirl"}
+{"prompt": "[INST] Who wrote the script for \"Legion of Super-Heroes\"?  [/INST]", "generated": "Henry Gilroy", "expected": "Josie Campbell"}
+{"prompt": "[INST] Who is the supervising producer of \"Legion of Super-Heroes\"?  [/INST]", "generated": "J.J. Abrams", "expected": "Butch Lukic"}
+{"prompt": "[INST] When was \"Infinity\" released?  [/INST]", "generated": "2023", "expected": "2023"}
+{"prompt": "[INST] Who wrote and directed \"Infinity\"?  [/INST]", "generated": "Antoine Charreyron", "expected": "Sai Karthik"}
+{"prompt": "[INST] Which production company produced \"Infinity\"?  [/INST]", "generated": "Netflix", "expected": "Menpani Production"}
+{"prompt": "[INST] What is the language of \"Romanticc Tukde\"?  [/INST]", "generated": "Hindi", "expected": "Hindi"}
+{"prompt": "[INST] Who composed the music for \"Romanticc Tukde\"?  [/INST]", "generated": "Raghu Dixit", "expected": "Bapi\u2013Tutul"}
+{"prompt": "[INST] Who produced the film \"Baby\"?  [/INST]", "generated": "Ramesh Taurani and Akshai Puri", "expected": "Sreenivasa Kumar Naidu"}
+{"prompt": "[INST] What genre does the film \"Baby\" belong to?  [/INST]", "generated": "Comedy-drama", "expected": "Coming of age romantic drama"}
+{"prompt": "[INST] When was the film \"Baby\" released?  [/INST]", "generated": "2023", "expected": "14 July 2023"}
+{"prompt": "[INST] How much did the film \"Baby\" gross worldwide?  [/INST]", "generated": "$100 million", "expected": "\u20b990 crore (US$11 million)"}
+{"prompt": "[INST] Who co-wrote the screenplay for \"The Creator\"?  [/INST]", "generated": "Michael Petroni", "expected": "Gareth Edwards, Chris Weitz"}
+{"prompt": "[INST] When is \"The Creator\" set?  [/INST]", "generated": "1980s", "expected": "2070"}
+{"prompt": "[INST] When did development for \"The Creator\" begin?  [/INST]", "generated": "2018", "expected": "November 2019"}
+{"prompt": "[INST] When was John David Washington hired for \"The Creator\"?  [/INST]", "generated": "2020", "expected": "May 2021"}
+{"prompt": "[INST] When did filming for \"The Creator\" begin?  [/INST]", "generated": "2021", "expected": "January 2022"}
+{"prompt": "[INST] When was \"The Creator\" released in the United States?  [/INST]", "generated": "September 16, 2023", "expected": "September 29, 2023"}
+{"prompt": "[INST] How much has \"The Creator\" grossed at the box office?  [/INST]", "generated": "$1.1 million", "expected": "$91 million"}
+{"prompt": "[INST] How have the reviews for \"The Creator\" been?  [/INST]", "generated": "Mixed", "expected": "Generally positive"}
+{"prompt": "[INST] Who directed \"Non Stop Dhamaal\"?  [/INST]", "generated": "Indra Kumar", "expected": "Irshad Khan"}
+{"prompt": "[INST] When was \"Non Stop Dhamaal\" released in cinemas?  [/INST]", "generated": "2023", "expected": "18 August 2023"}
+{"prompt": "[INST] Who wrote the screenplay for \"Beks Days of Our Lives\"?  [/INST]", "generated": "J. Kyle Manzay", "expected": "Jonison Fontanos"}
+{"prompt": "[INST] Who are the main actors in \"Beks Days of Our Lives\"?  [/INST]", "generated": "Jake Abel, Dylan Arnold, and Dermot Mulroney", "expected": "Lassy Marquez, Mc Muah, and Chad Kinis"}
+{"prompt": "[INST] When was \"Beks Days of Our Lives\" released?  [/INST]", "generated": "2023", "expected": "2023"}
+{"prompt": "[INST] What is the genre of \"The Sleeping Woman\"?  [/INST]", "generated": "Neo-noir thriller", "expected": "Supernatural horror thriller"}
+{"prompt": "[INST] Who are the main actors in \"The Sleeping Woman\"?  [/INST]", "generated": "Ana de Armas, Timoth\u00e9e Chalamet, Ariana DeBose, Chris Evans, Diane Kruger, Liev Schreiber, and Willem Dafoe", "expected": "Almudena Amor, Javier Rey, Amanda Goldsmith"}
+{"prompt": "[INST] Who wrote the screenplay for \"The Sweet East\"?  [/INST]", "generated": "Aoife Kelleher", "expected": "Nick Pinkerton"}
+{"prompt": "[INST] When did \"The Sweet East\" have its world premiere?  [/INST]", "generated": "2023 Cannes Film Festival", "expected": "May 18, 2023"}
+{"prompt": "[INST] In which section of the Cannes Film Festival did \"The Sweet East\" premiere?  [/INST]", "generated": "Un Certain Regard", "expected": "Directors' Fortnight"}
+{"prompt": "[INST] Which company is distributing \"The Sweet East\"?  [/INST]", "generated": "Netflix", "expected": "Utopia"}
+{"prompt": "[INST] Who wrote the story for \"Missing\"?  [/INST]", "generated": "Niren Bhatt", "expected": "Sev Ohanian, Aneesh Chaganty"}
+{"prompt": "[INST] Is \"Missing\" a standalone sequel or part of a series?  [/INST]", "generated": "Standalone sequel", "expected": "Standalone sequel"}
+{"prompt": "[INST] Who are some of the actors in \"Missing\"?  [/INST]", "generated": "Nawazuddin Siddiqui, Tabu, Manoj Bajpayee, Tannishtha Chatterjee, Sagarika Ghatge, Ankur Bhatia, Shriya Pilgaonkar, Shreya Dhanwanthary, Shibani Bedi, and others", "expected": "Storm Reid, Joaquim de Almeida, Ken Leung, Amy Landecker, Daniel Henney, Nia Long"}
+{"prompt": "[INST] When was \"Missing\" premiered at the Sundance Film Festival?  [/INST]", "generated": "January 20, 2023", "expected": "January 19, 2023"}
+{"prompt": "[INST] How much did \"Missing\" gross at the box office?  [/INST]", "generated": "$1.1 million", "expected": "$48 million"}
+{"prompt": "[INST] Who directed \"The Eken: Ruddhaswas Rajasthan\"?  [/INST]", "generated": "Ramesh Taurani", "expected": "Joydip Mukherjee"}
+{"prompt": "[INST] Under which banner was \"The Eken: Ruddhaswas Rajasthan\" produced?  [/INST]", "generated": "Rupam Entertainment", "expected": "Shree Venkatesh Films"}
+{"prompt": "[INST] Who directed \"Luther: The Fallen Sun\"?  [/INST]", "generated": "Jamie Payne", "expected": "Jamie Payne"}
+{"prompt": "[INST] What genre is \"Luther: The Fallen Sun\"?  [/INST]", "generated": "Neo-noir action thriller", "expected": "Crime thriller"}
+{"prompt": "[INST] Who serves as a producer on \"Luther: The Fallen Sun\"?  [/INST]", "generated": "Neil Cross, Jamie Payne, Idris Elba", "expected": "Idris Elba"}
+{"prompt": "[INST] What is the plot of \"Luther: The Fallen Sun\"?  [/INST]", "generated": "A serial killer who escaped custody 10 years earlier is now targeting those who put him behind bars", "expected": "Detective's efforts to stop a wealthy serial killer's complex schemes"}
+{"prompt": "[INST] When was \"Luther: The Fallen Sun\" released for streaming on Netflix?  [/INST]", "generated": "10 March 2023", "expected": "10 March 2023"}
+{"prompt": "[INST] Who co-wrote \"The Good Mother\"?  [/INST]", "generated": "Rebecca Lenkiewicz", "expected": "Madison Harrison"}
+{"prompt": "[INST] When was \"The Good Mother\" released?  [/INST]", "generated": "2023", "expected": "September 1, 2023"}
+{"prompt": "[INST] Which production company released \"The Good Mother\"?  [/INST]", "generated": "Netflix", "expected": "Vertical Entertainment"}
+{"prompt": "[INST] Who wrote \"The Engineer\"?  [/INST]", "generated": "Mohamed Hefzy", "expected": "Kosta Kondilopoulous"}
+{"prompt": "[INST] Who stars in \"The Engineer\"?  [/INST]", "generated": "Ajith Kumar, Gautham Vasudev Menon, Priya Bhavani Shankar, Vidya Pradeep, Srikanth, S.", "expected": "Emile Hirsch"}
+{"prompt": "[INST] What is the Spanish title of \"Mummies\"?  [/INST]", "generated": "Los mumias", "expected": "Momias"}
+{"prompt": "[INST] When was \"Mummies\" initially scheduled for release?  [/INST]", "generated": "2020", "expected": "2021"}
+{"prompt": "[INST] Who directed the film \"Karungaapiyam\"?  [/INST]", "generated": "S. K. Muralidharan", "expected": "Deekay"}
+{"prompt": "[INST] What is the genre of the film \"Karungaapiyam\"?  [/INST]", "generated": "Drama", "expected": "Horror thriller"}
+{"prompt": "[INST] Who are some of the supporting actors in \"Karungaapiyam\"?  [/INST]", "generated": "Sathyaraj, R. K. Suresh, Sathish, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish", "expected": "Janani Iyer, Raiza Wilson, Noyrika Bhatheja, Kalaiyarasan, Yogi Babu, Karunakaran, Lollu Sabha Manohar, John Vijay, Sha Ra, Aadhav Kannadasan, VJ Parvathy, TSK, Sherlin Seth, Kutty Gopi"}
+{"prompt": "[INST] Who directed the film \"Beginning\"?  [/INST]", "generated": "Deo Viraaj", "expected": "Jagan Vijaya"}
+{"prompt": "[INST] In which language is \"Beginning\" filmed?  [/INST]", "generated": "Telugu", "expected": "Tamil"}
+{"prompt": "[INST] In what year was \"Chidiakhana\" released?  [/INST]", "generated": "2023", "expected": "2023"}
+{"prompt": "[INST] Who is the writer and director of \"Chidiakhana\"?  [/INST]", "generated": "Chidi Nwoke", "expected": "Manish Tiwary"}
+{"prompt": "[INST] Who is the director of \"Dilkhush\"?  [/INST]", "generated": "Ramesh Sharma", "expected": "Rahool Mukherjee"}
+{"prompt": "[INST] In which language is \"Dilkhush\" made?  [/INST]", "generated": "Hindi", "expected": "Bengali"}
+{"prompt": "[INST] Which production banner is associated with \"Dilkhush\"?  [/INST]", "generated": "Zee Studios", "expected": "Shree Venkatesh Films"}
+{"prompt": "[INST] Who is the director of \"Nosso Lar 2: Os Mensageiros\"?  [/INST]", "generated": "Jo\u00e3o Paulo Cuenca", "expected": "Wagner de Assis"}
+{"prompt": "[INST] What is the sequel to \"Nosso Lar 2: Os Mensageiros\"?  [/INST]", "generated": "Nosso Lar 3: O Retorno", "expected": "Astral City: A Spiritual Journey"}
+{"prompt": "[INST] Who plays the role of Andr\u00e9 Luiz in \"Nosso Lar 2: Os Mensageiros\"?  [/INST]", "generated": "Bruno Gagliasso", "expected": "Renato Prieto"}
+{"prompt": "[INST] When was \"All Inclusive\" released?  [/INST]", "generated": "2023", "expected": "2023"}
+{"prompt": "[INST] What award did \"All Inclusive\" win?  [/INST]", "generated": "Best International Feature Film at the 96th Academy Awards", "expected": "Golden Film award"}
+{"prompt": "[INST] Who are some of the actors in \"All Inclusive\"?  [/INST]", "generated": "Diane Kruger, Mathieu Demy, L\u00e9a Drucker, Vincent Lacoste, No\u00e9mie Merlant, and Fran\u00e7ois Civil", "expected": "Jennifer Hoffman, Frank Lammers, Aiko Beemsterboer"}
+{"prompt": "[INST] When was \"Shot Boot Three\" released?  [/INST]", "generated": "2023", "expected": "2023"}
+{"prompt": "[INST] Who are the main actors in \"Shot Boot Three\"?  [/INST]", "generated": "Aaron Eckhart, Dylan O'Brien, Dermot Mulroney, Dane Cook, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula", "expected": "Sneha and Venkat Prabhu"}
+{"prompt": "[INST] What is the genre of \"Sam Bahadur\"?  [/INST]", "generated": "Biographical war drama", "expected": "Biographical war drama"}
+{"prompt": "[INST] Who are the co-writers of \"Sam Bahadur\"?  [/INST]", "generated": "Meghna Gulzar, Rahul Dholakia, and Rohit Roy", "expected": "Bhavani Iyer and Shantanu Srivastava"}
+{"prompt": "[INST] Under which banner is \"Sam Bahadur\" produced?  [/INST]", "generated": "Reliance Entertainment", "expected": "RSVP Movies"}
+{"prompt": "[INST] Who are the other actors in \"Sam Bahadur\"?  [/INST]", "generated": "Fatima Sana Shaikh, Sanya Malhotra, Anupam Kher, Sumeet Vyas, Neeraj Kabi, and others", "expected": "Fatima Sana Shaikh, Sanya Malhotra, Neeraj Kabi, Edward Sonnenblick, and Zeeshan Ayyub"}
+{"prompt": "[INST] Who directed the film \"Cobweb\"?  [/INST]", "generated": "Aneesh Chaganty", "expected": "Kim Jee-woon"}
+{"prompt": "[INST] What genre is \"Cobweb\"?  [/INST]", "generated": "Horror thriller", "expected": "Black comedy-drama"}
+{"prompt": "[INST] In which language is \"Orchestra Mysuru\"?  [/INST]", "generated": "Kannada", "expected": "Kannada"}
+{"prompt": "[INST] Who are the main actors in \"Orchestra Mysuru\"?  [/INST]", "generated": "Jagadish, Shwetha Srivatsav, Sharath Lohithaswa, Shishya Deepak, Shishya Deepak, Shishya Deepak, Shishya Deepak, Shishya Deepak, Shishya Deepak, Shishya Deepak, Shishya Deepak, Shishya Deepak, Shishya Deepak, Shishya Deepak, Shishya Deepak, Shishya Deepak, Shishya Deepak, Shishya Deepak, Shishya Deepak, Shishya Deepak, Shishya Deepak, Shishya Deepak, Shishya Deepak, Shishya Deepak, Shishya Deepak, Shishya Deepak, Shishya Deepak, Shishya Deepak, Shishya Deepak, Shishya Deepak, Shishya Deepak, Shishya Deepak, Shishya Deepak, Shishya Deepak, Shishya Deepak, Shishya Deepak, Shishya Deepak, Shishya Deepak, Shishya Deepak, Shishya Deepak, Shishya Deepak, Shishya Deepak, Shishya Deepak, Shishya Deepak, Shishya Deepak, Shishya Deepak, Shishya Deepak, Shishya Deepak, Shishya Deepak, Shish", "expected": "Poornachandra Mysore, Rajalakshmi Murthy, Dileep Raj"}
+{"prompt": "[INST] What genre is \"Orchestra Mysuru\"?  [/INST]", "generated": "Musical drama", "expected": "Musical drama"}
+{"prompt": "[INST] Who are the lead actors in \"Saandrithazh\"?  [/INST]", "generated": "Vetri, Srikanth, Sathyaraj, Sathish, and others", "expected": "Harikumar, Roshan Basheer"}
+{"prompt": "[INST] In which language is \"Saandrithazh\" made?  [/INST]", "generated": "Tamil", "expected": "Tamil"}
+{"prompt": "[INST] Who wrote and directed \"Shipibos Stories\"?  [/INST]", "generated": "Renzo Schuller", "expected": "Omar Forero"}
+{"prompt": "[INST] What genre does \"Shipibos Stories\" belong to?  [/INST]", "generated": "Comedy-drama", "expected": "Drama"}
+{"prompt": "[INST] Who is the main actor in \"The Warrant: Breaker's Law\"?  [/INST]", "generated": "Dwayne Johnson", "expected": "Neal McDonough"}
+{"prompt": "[INST] Where was \"The Warrant: Breaker's Law\" released?  [/INST]", "generated": "Paramount+", "expected": "Vudu"}
+{"prompt": "[INST] In which category was \"The Warrant: Breaker's Law\" nominated for the Golden Nymph Award?  [/INST]", "generated": "Best Drama Series", "expected": "Fiction category"}
+{"prompt": "[INST] When was the film \"Dada\" released?  [/INST]", "generated": "2023", "expected": "10 February 2023"}
+{"prompt": "[INST] Who are the main actors in the film \"Dada\"?  [/INST]", "generated": "Siddharth Menon, Sajitha Madathil, Sajitha Anand, Sajitha Sreedharan, Sajitha Vijayan, Sajitha Sreedharan, Sajitha Sreedharan, Sajitha Sreedharan, Sajitha Sreedharan, Sajitha Sreedharan, Sajitha Sreedharan, Sajitha Sreedharan, Sajitha Sreedharan, Sajitha Sreedharan, Sajitha Sreedharan, Sajitha Sreedharan, Sajitha Sreedharan, Sajitha Sreedharan, Sajitha Sreedharan, Sajitha Sreedharan, Sajitha Sreedharan, Sajitha Sreedharan, Sajitha Sreedharan, Sajitha Sreedharan, Sajitha Sreedharan, Sajitha Sreedharan, Sajitha Sreedharan, Sajitha Sreedharan, Sajitha Sreedharan, Sajitha Sreedharan, Sajitha Sreedharan", "expected": "Kavin, Aparna Das"}
+{"prompt": "[INST] Who composed the music for the film \"Dada\"?  [/INST]", "generated": "Raghu Dixit", "expected": "Jen Martin"}
+{"prompt": "[INST] How did the film \"Dada\" perform at the box office?  [/INST]", "generated": "Grossed \u20b9100 crore worldwide", "expected": "Commercial success"}
+{"prompt": "[INST] Who are the main actors in \"The Weapon\"?  [/INST]", "generated": "Liam Neeson, Jake T. Sullivan, Lance Reddick, Jack Kilmer, J. K. Simmons, and Colin Woodell", "expected": "Tony Schiena, AnnaLynne McCord, Sean Patrick Flanery, Jack Kesy, Cuba Gooding Jr., Bruce Dern"}
+{"prompt": "[INST] When was \"The Weapon\" released?  [/INST]", "generated": "2023", "expected": "2023"}
+{"prompt": "[INST] Who wrote the film \"Toby\"?  [/INST]", "generated": "Michael J. Bailey", "expected": "Raj B. Shetty"}
+{"prompt": "[INST] Who composed the music for \"Toby\"?  [/INST]", "generated": "Ramesh Narayan", "expected": "Midhun Mukundan"}
+{"prompt": "[INST] Who handled the editing for \"Toby\"?  [/INST]", "generated": "Nitin Baidya", "expected": "Nithin Shetty"}
+{"prompt": "[INST] When was \"Toby\" released?  [/INST]", "generated": "2023", "expected": "25 August 2023"}
+{"prompt": "[INST] In which language was \"Toby\" dubbed and released?  [/INST]", "generated": "Telugu", "expected": "Malayalam"}
+{"prompt": "[INST] When was \"Last Wishes\" released?  [/INST]", "generated": "2023", "expected": "2023"}
+{"prompt": "[INST] Who are the main actors in \"Last Wishes\"?  [/INST]", "generated": "Jos\u00e9 Coronado, Elena Anaya, Alicia Falc\u00f3, Fernando Tejero, Fernando Tejero Jr., and Fernando Cayo", "expected": "\u00d3scar Casas, Fernando Tejero, Nerea Camacho, Adriana Ozores, Carlos Santos"}
+{"prompt": "[INST] In which language is \"Love Marriage\" filmed?  [/INST]", "generated": "Telugu", "expected": "Bengali"}
+{"prompt": "[INST] Who produced \"Love Marriage\"?  [/INST]", "generated": "Ramesh Taurani and Akshai Puri", "expected": "Surinder films"}
+{"prompt": "[INST] Who directed the film \"Memories\"?  [/INST]", "generated": "Ahmad Alyaseer", "expected": "Syam and Praveen"}
+{"prompt": "[INST] What is the genre of \"Memories\"?  [/INST]", "generated": "Drama", "expected": "Action thriller"}
+{"prompt": "[INST] What is the production company behind \"Memories\"?  [/INST]", "generated": "Netflix", "expected": "Shijuthameen's Film Factory PVT LTD"}
+{"prompt": "[INST] Who are the pivotal actors in \"Memories\"?  [/INST]", "generated": "Srikanth, Sai Kumar, Srikanth Iyengar, Sangeetha, Sangeetha Shetty, Sangeetha Krish, and others", "expected": "R. N. R. Manohar, Hareesh Peradi, Sajil, Srikumar, Salildas"}
+{"prompt": "[INST] Who are the main actors in \"Fanfic\"?  [/INST]", "generated": "Kyle Allen, Katherine Langford, Dylan O'Brien, Mia Isaac, Dexter Fletcher, and Michael Cera", "expected": "Alin Szewczyk, Jan Ci\u0119ciara, Dobromir Dymecki"}
+{"prompt": "[INST] What is the nationality of \"Fanfic\"?  [/INST]", "generated": "American", "expected": "Polish"}
+{"prompt": "[INST] What is the source material for \"Fanfic\"?  [/INST]", "generated": "The 2016 novel of the same name by Audrey Niffenegger", "expected": "The novel of the same title by Natalia Osi\u0144ska"}
+{"prompt": "[INST] What is notable about the casting in \"Fanfic\"?  [/INST]", "generated": "The majority of the cast are non-professional actors", "expected": "First Polish film with a transgender actor, Alin Szewczyk, in the role of a transgender character"}
+{"prompt": "[INST] Who directed \"The Ritual Killer\"?  [/INST]", "generated": "Dami\u00e1n Szifron", "expected": "George Gallo"}
+{"prompt": "[INST] When was \"The Ritual Killer\" released?  [/INST]", "generated": "2023", "expected": "March 10, 2023"}
+{"prompt": "[INST] Which production companies released \"The Ritual Killer\"?  [/INST]", "generated": "Netflix", "expected": "Screen Media, Redbox Entertainment"}
+{"prompt": "[INST] Who wrote \"Earth Mama\"?  [/INST]", "generated": "Kelley Kali", "expected": "Savanah Leaf"}
+{"prompt": "[INST] Which production company released \"Earth Mama\"?  [/INST]", "generated": "Netflix", "expected": "A24"}
+{"prompt": "[INST] What is the genre of the film \"Chang'an\"?  [/INST]", "generated": "Historical drama", "expected": "Historical drama"}
+{"prompt": "[INST] Which animation studio produced \"Chang'an\"?  [/INST]", "generated": "Pearl Studio", "expected": "Light Chaser Animation Studios"}
+{"prompt": "[INST] How long is the film \"Chang'an\"?  [/INST]", "generated": "100 minutes", "expected": "168 minutes"}
+{"prompt": "[INST] Name some production companies associated with \"Chang'an\".  [/INST]", "generated": "Wanda Pictures, Huayi Brothers, Tencent Pictures, CMC Pictures", "expected": "Alibaba Pictures, Tianjin Maoyan Weiying Culture Media, Weibo Corporation, China Film Co.,Ltd"}
+{"prompt": "[INST] When did \"Americana\" have its world premiere?  [/INST]", "generated": "19 May 2023", "expected": "March 17, 2023"}
+{"prompt": "[INST] Who are some of the main actors in \"Americana\"?  [/INST]", "generated": "Kyle Gallner, Dylan Gelula, Danny Ramirez, D'Pharaoh Woon-A-Tai, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula,", "expected": "Sydney Sweeney, Paul Walter Hauser, Halsey, Eric Dane, Zahn McClarnon, Gavin Maddox Bergman, Simon Rex, Derek Hinkey, Toby Huss, Harriet Sansom Harris"}
+{"prompt": "[INST] Who wrote the screenplay for \"Just the Two of Us\"?  [/INST]", "generated": "J. D. Dillard, Matt Lopez, and Charles Murray", "expected": "Val\u00e9rie Donzelli and Audrey Diwan"}
+{"prompt": "[INST] What is \"Just the Two of Us\" based on?  [/INST]", "generated": "The life of jazz musician Bill Withers", "expected": "\u00c9ric Reinhardt's 2014 novel L'Amour et les For\u00eats"}
+{"prompt": "[INST] Where did \"Just the Two of Us\" have its world premiere?  [/INST]", "generated": "Sundance Film Festival", "expected": "Cannes Premiere section at the 76th Cannes Film Festival"}
+{"prompt": "[INST] Who distributed \"Just the Two of Us\" in France?  [/INST]", "generated": "StudioCanal", "expected": "Diaphana Distribution"}
+{"prompt": "[INST] Who stars in the lead role in \"UI\"?  [/INST]", "generated": "Sai Dharam Tej", "expected": "Upendra"}
+{"prompt": "[INST] Who are some of the supporting actors in \"UI\"?  [/INST]", "generated": "Srikanth, Ravi Varma, Srinivas, Srinivasan, Sathish, Sathyan, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sath", "expected": "Murali Sharma, Sunny Leone, Nidhi Subbaiah, Murali Krishna, Indrajit Lankesh"}
+{"prompt": "[INST] When was the film \"UI\" announced?  [/INST]", "generated": "2020", "expected": "June 2022"}
+{"prompt": "[INST] When is the expected release date for \"UI\"?  [/INST]", "generated": "2023", "expected": "December 2023"}
+{"prompt": "[INST] Who are the main actors in \"Love All\"?  [/INST]", "generated": "Aishwarya Rajesh, Srikanth, Venkat Prabhu", "expected": "Kay Kay Menon, Shriswara, Swastika Mukherjee, Sumit Arora, Ark Jain, Deep Rambhiya, and Mazel Vyas"}
+{"prompt": "[INST] Who directed \"Pet Sematary: Bloodlines\"?  [/INST]", "generated": "Kevin K\u00f6lsch and Dennis Widmyer", "expected": "Lindsey Anderson Beer"}
+{"prompt": "[INST] Is \"Pet Sematary: Bloodlines\" a prequel or sequel?  [/INST]", "generated": "Prequel", "expected": "Prequel"}
+{"prompt": "[INST] Who wrote the novel that \"Pet Sematary: Bloodlines\" is based on?  [/INST]", "generated": "Stephen King", "expected": "Stephen King"}
+{"prompt": "[INST] When is \"Pet Sematary: Bloodlines\" set?  [/INST]", "generated": "1989", "expected": "1969"}
+{"prompt": "[INST] When was \"Pet Sematary: Bloodlines\" green-lit?  [/INST]", "generated": "June 2022", "expected": "February 2021"}
+{"prompt": "[INST] When did \"Pet Sematary: Bloodlines\" premiere at Fantastic Fest?  [/INST]", "generated": "September 23, 2023", "expected": "September 23, 2023"}
+{"prompt": "[INST] When was \"Pet Sematary: Bloodlines\" streamed on Paramount+?  [/INST]", "generated": "April 14, 2023", "expected": "October 6"}
+{"prompt": "[INST] In what language was \"Je\u02b9vida\" filmed?  [/INST]", "generated": "Telugu", "expected": "Skolt S\u00e1mi"}
+{"prompt": "[INST] What support did \"Je\u02b9vida\" receive in 2021?  [/INST]", "generated": "100,000 votes", "expected": "Monetary support from the International S\u00e1mi Film Institute and the Finnish Film Foundation"}
+{"prompt": "[INST] Who directed the film \"I.S.S.\"?  [/INST]", "generated": "J. A. Bayona", "expected": "Gabriela Cowperthwaite"}
+{"prompt": "[INST] Who are some of the actors in the film \"I.S.S.\"?  [/INST]", "generated": "Aaron Eckhart, Penelope Mitchell, Dylan O'Brien, Will Poulter, and John Malkovich", "expected": "Ariana DeBose, Chris Messina, Pilou Asb\u00e6k, John Gallagher Jr., Costa Ronin, Maria Mashkova"}
+{"prompt": "[INST] In which film festival did \"I.S.S.\" have its world premiere?  [/INST]", "generated": "73rd Berlin International Film Festival", "expected": "Tribeca Festival"}
+{"prompt": "[INST] Who is the director of \"Princess Principal: Crown Handler \u2013 Chapter 3\" series?  [/INST]", "generated": "Masaki Tachibana", "expected": "Masaki Tachibana"}
+{"prompt": "[INST] Who are the main voice actresses in \"Princess Principal: Crown Handler \u2013 Chapter 3\" series?  [/INST]", "generated": "Aoi Koga, Akira Sekine, Ayane Sakura, and Y\u014d Taichi", "expected": "Aoi Koga, Akira Sekine, Y\u014d Taichi, Akari Kageyama, and Nozomi Furuki"}
+{"prompt": "[INST] Who directed \"The Promised Land\"?  [/INST]", "generated": "Martin Zandvliet", "expected": "Nikolaj Arcel"}
+{"prompt": "[INST] Who are the main actors in \"The Promised Land\"?  [/INST]", "generated": "Javier Bardem, Pen\u00e9lope Cruz, Ricardo Dar\u00edn, Elena Anaya, Luis Tosar, and Blanca Portillo", "expected": "Mads Mikkelsen, Amanda Collin, Simon Bennebjerg"}
+{"prompt": "[INST] What is the original title of \"The Promised Land\" in Danish?  [/INST]", "generated": "Det forudsigede land", "expected": "Bastarden"}
+{"prompt": "[INST] Where did \"The Promised Land\" have its world premiere?  [/INST]", "generated": "76th Cannes Film Festival", "expected": "80th Venice International Film Festival"}
+{"prompt": "[INST] Who directed \"Fast Charlie\"?  [/INST]", "generated": "Dax Shepard", "expected": "Phillip Noyce"}
+{"prompt": "[INST] What is the source material for \"Fast Charlie\"?  [/INST]", "generated": "The 1975 novel of the same name by Richard Stark", "expected": "The 2001 novel Gun Monkeys by Victor Gischler"}
+{"prompt": "[INST] When did \"Fast Charlie\" premiere?  [/INST]", "generated": "2023 Toronto International Film Festival", "expected": "October 7, 2023"}
+{"prompt": "[INST] What genre is \"Fast Charlie\"?  [/INST]", "generated": "Action comedy", "expected": "Action thriller"}
+{"prompt": "[INST] Who wrote the screenplay for \"Aatmapamphlet\"?  [/INST]", "generated": "S. K. Rao", "expected": "Paresh Mokashi"}
+{"prompt": "[INST] Which production companies were involved in the making of \"Aatmapamphlet\"?  [/INST]", "generated": "Zee Studios, Jio Studios, NFDC, and JioCinema Studios", "expected": "T-Series, Colour Yellow Productions, Zee Studios"}
+{"prompt": "[INST] What award was \"Aatmapamphlet\" nominated to compete for at the Berlin International Film Festival?  [/INST]", "generated": "Teddy Award", "expected": "Generation 14plus Award"}
+{"prompt": "[INST] What genre is \"The Primevals\"?  [/INST]", "generated": "Science fiction", "expected": "Science fiction, fantasy, adventure"}
+{"prompt": "[INST] Who co-wrote and directed \"The Primevals\"?  [/INST]", "generated": "J. J. Abrams", "expected": "David Allen"}
+{"prompt": "[INST] How long was \"The Primevals\" in development?  [/INST]", "generated": "10 years", "expected": "Over 50 years"}
+{"prompt": "[INST] Who directed \"Cocaine Shark\"?  [/INST]", "generated": "J. Kyle Manzay", "expected": "Mike Polonia"}
+{"prompt": "[INST] What was the original title of \"Cocaine Shark\" in Japan?  [/INST]", "generated": "Cocaine Shark: Sharknado Meets Cocaine Bear", "expected": "Kanizame Shakurabu"}
+{"prompt": "[INST] Who wrote, directed, and produced \"A Good Person\"?  [/INST]", "generated": "Zach Braff", "expected": "Zach Braff"}
+{"prompt": "[INST] Which production company distributed \"A Good Person\"?  [/INST]", "generated": "Focus Features", "expected": "Metro-Goldwyn-Mayer"}
+{"prompt": "[INST] Who is the director of \"Rebel Moon\"?  [/INST]", "generated": "Zack Snyder", "expected": "Zack Snyder"}
+{"prompt": "[INST] Who created the story for \"Rebel Moon\"?  [/INST]", "generated": "Zack Snyder", "expected": "Zack Snyder"}
+{"prompt": "[INST] When is \"Rebel Moon\" scheduled to be released?  [/INST]", "generated": "December 22, 2023", "expected": "December 22, 2023"}
+{"prompt": "[INST] What is the title of the sequel to \"Rebel Moon\"?  [/INST]", "generated": "Rebel Moon: The Resistance", "expected": "Rebel Moon \u2013 Part Two: The Scargiver"}
+{"prompt": "[INST] Who directed the film \"Demon\"?  [/INST]", "generated": "Tony Dean Smith", "expected": "Ramesh Pazhaniivel"}
+{"prompt": "[INST] Who are the main actors in the film \"Demon\"?  [/INST]", "generated": "Michael J. Bailey, Katie Folger, Michael J. Pagan, Michael J. Bailey Jr., Michael J. Bailey III, Michael J. Bailey IV, Michael J. Bailey V, Michael J. Bailey VI, Michael J. Bailey VII, Michael J. Bailey VIII, Michael J. Bailey IX, Michael J. Bailey X", "expected": "Sachin Mani, Abarnathi"}
+{"prompt": "[INST] Who composed the music for the film \"Demon\"?  [/INST]", "generated": "Brian McOmber", "expected": "Ronnie Raphael"}
+{"prompt": "[INST] Who edited the film \"Demon\"?  [/INST]", "generated": "Robert Rodriguez", "expected": "Ravikumar M"}
+{"prompt": "[INST] Who directed \"Spider-Man: Across the Spider-Verse\"?  [/INST]", "generated": "Joaquim Dos Santos, Kemp Powers, Justin K. Ha, Dan Hernandez, Benji Samit", "expected": "Joaquim Dos Santos, Kemp Powers, Justin K. Thompson"}
+{"prompt": "[INST] Who distributed \"Spider-Man: Across the Spider-Verse\"?  [/INST]", "generated": "Sony Pictures Releasing", "expected": "Sony Pictures Releasing"}
+{"prompt": "[INST] Who are some of the other actors in \"Spider-Man: Across the Spider-Verse\"?  [/INST]", "generated": "Shameik Moore, Hailee Steinfeld, Oscar Isaac, Issa Rae, Jake Johnson, Jason Schwartzman, Brian Tyree Henry, Greta Lee, Daniel Kaluuya, Shea Whigham, Miles Morales, Gwen Stacy, Miguel O'Hara / Spider-Man 2099, Peni Parker, Peter B. Haas, and Spider-Man Noir", "expected": "Hailee Steinfeld, Brian Tyree Henry, Lauren V\u00e9lez, Jake Johnson, Jason Schwartzman, Issa Rae, Karan Soni, Shea Whigham, Greta Lee, Daniel Kaluuya, Mahershala Ali, Oscar Isaac"}
+{"prompt": "[INST] What was the original release date for \"Spider-Man: Across the Spider-Verse\"?  [/INST]", "generated": "March 2023", "expected": "April 2022"}
+{"prompt": "[INST] How much did \"Spider-Man: Across the Spider-Verse\" gross at the box office?  [/INST]", "generated": "Over $1.1 billion", "expected": "$690 million"}
+{"prompt": "[INST] Who created GeGeGe no Kitar\u014d?  [/INST]", "generated": "Shigeru Mizuki", "expected": "Shigeru Mizuki"}
+{"prompt": "[INST] How has GeGeGe no Kitar\u014d been adapted?  [/INST]", "generated": "In manga, anime, live-action films, video games, and a television drama", "expected": "Anime, live action, and video games"}
+{"prompt": "[INST] Who produced the film \"November\"?  [/INST]", "generated": "Amazon Studios", "expected": "Mohamed Ali"}
+{"prompt": "[INST] Who are the main actors in the film \"November\"?  [/INST]", "generated": "Kangana Ranaut, Raghubir Yadav, Neena Gupta, Sanjay Suri, Sparsh Srivastav, and Saiyami Kher", "expected": "Mohamed Jumayyil and Mariyam Majudha"}
+{"prompt": "[INST] Who produced \"Poolman\"?  [/INST]", "generated": "Michael Shannon", "expected": "Chris Pine"}
+{"prompt": "[INST] Who starred in \"Poolman\"?  [/INST]", "generated": "Jake Johnson, Rob Corddry, Aya Cash, J. K. Simmons, Jason Sudeikis, and John Cena", "expected": "Chris Pine"}
+{"prompt": "[INST] What genre is \"Poolman\"?  [/INST]", "generated": "Comedy-drama", "expected": "Comedy, mystery"}
+{"prompt": "[INST] When was the film \"Ghost\" released?  [/INST]", "generated": "2023", "expected": "19 October 2023"}
+{"prompt": "[INST] Who wrote and directed the film \"Ghost\"?  [/INST]", "generated": "M. R. Madhavan", "expected": "M. G. Srinivas"}
+{"prompt": "[INST] Who directed the film \"Dasara\"?  [/INST]", "generated": "Srikanth Odela", "expected": "Srikanth Odela"}
+{"prompt": "[INST] Where is the film \"Dasara\" set?  [/INST]", "generated": "Telangana", "expected": "Singareni coal mines near Godavarikhani of Telangana"}
+{"prompt": "[INST] When was \"Dasara\" released?  [/INST]", "generated": "30 March 2023", "expected": "30 March 2023"}
+{"prompt": "[INST] Who directed \"Diario de un viaje inesperado\"?  [/INST]", "generated": "Javier Fesser", "expected": "Paco Alvarez"}
+{"prompt": "[INST] When did \"Diario de un viaje inesperado\" premiere?  [/INST]", "generated": "2023", "expected": "April 20, 2023"}
+{"prompt": "[INST] Who are some of the actors in \"Diario de un viaje inesperado\"?  [/INST]", "generated": "Adriana Barraza, Ana de la Reguera, Ana Valeria Becerril, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona, Carlos Corona", "expected": "Getseman\u00ed Vela, Xabiani Ponce de Le\u00f3n, Kevin Holt, Carlos Corona, Mois\u00e9s Arizmendi, Martha Claudia Moreno, Barbie Casillas"}
+{"prompt": "[INST] In what year was \"All Your Faces\" released?  [/INST]", "generated": "2023", "expected": "2023"}
+{"prompt": "[INST] What genre does \"All Your Faces\" belong to?  [/INST]", "generated": "Comedy-drama", "expected": "Drama"}
+{"prompt": "[INST] Who directed \"All Your Faces\"?  [/INST]", "generated": "J. R. Havlan", "expected": "Jeanne Herry"}
+{"prompt": "[INST] What is the genre of \"T\u00f3tem\"?  [/INST]", "generated": "Coming-of-age drama", "expected": "Drama"}
+{"prompt": "[INST] Which film festival selected \"T\u00f3tem\" to compete for the Golden Bear?  [/INST]", "generated": "73rd Berlin International Film Festival", "expected": "73rd Berlin International Film Festival"}
+{"prompt": "[INST] What award category was \"T\u00f3tem\" selected for at the 96th Academy Awards?  [/INST]", "generated": "Best International Feature Film", "expected": "Best International Feature Film"}
+{"prompt": "[INST] When was \"Jacir\" released?  [/INST]", "generated": "2023", "expected": "2022"}
+{"prompt": "[INST] Who are the main actors in \"Jacir\"?  [/INST]", "generated": "Mohammad Bakri, Ali Suliman, Maisa Abd Elhadi, Areen Omari, Ahmad Al-Fahoum", "expected": "Malek Rahbani, Lorraine Bracco, Darius \"Tutweezy\" Tutwiler"}
+{"prompt": "[INST] What is the language of \"Jacir\"?  [/INST]", "generated": "Arabic", "expected": "Arabic"}
+{"prompt": "[INST] Who produced \"Wish of the Fairy Fish\"?  [/INST]", "generated": "Yoon Seong-ho", "expected": "CTB Film Company and Studio Globus"}
+{"prompt": "[INST] Who voiced the Magic Pike in \"Wish of the Fairy Fish\"?  [/INST]", "generated": "Yoshiko Sakakibara", "expected": "Mila Ershova"}
+{"prompt": "[INST] Who played Koschei in \"Wish of the Fairy Fish\"?  [/INST]", "generated": "Yuri Bykov", "expected": "Fyodor Lavrov"}
+{"prompt": "[INST] Where was the principal photography of \"Wish of the Fairy Fish\" done?  [/INST]", "generated": "Jeju Island, South Korea", "expected": "Saint Petersburg, Perm, Tobolsk"}
+{"prompt": "[INST] Who will distribute \"Wish of the Fairy Fish\" in Russia?  [/INST]", "generated": "National Media Group", "expected": "National Media Group Film Distribution"}
+{"prompt": "[INST] Who wrote the screenplay for \"Poor Things\"?  [/INST]", "generated": "Alice Birch", "expected": "Tony McNamara"}
+{"prompt": "[INST] What is the source material for \"Poor Things\"?  [/INST]", "generated": "The 1871 novel of the same name by George Gissing", "expected": "The 1992 novel of the same name by Alasdair Gray"}
+{"prompt": "[INST] Which production companies were involved in making \"Poor Things\"?  [/INST]", "generated": "BBC Studios, Film4 Productions, BFI, BFI Film Fund, Creative England, Head Gear Films, Ingenious Media, MetFilm Production, MetFilm Sales, Netflix", "expected": "Film4 Productions, Element Pictures, TSG Entertainment, Searchlight Pictures"}
+{"prompt": "[INST] Where was \"Poor Things\" filmed?  [/INST]", "generated": "The Isle of Skye, Scotland", "expected": "Hungary"}
+{"prompt": "[INST] What award did \"Poor Things\" win at the Venice International Film Festival?  [/INST]", "generated": "Golden Lion", "expected": "The Golden Lion"}
+{"prompt": "[INST] When is the theatrical release date for \"Poor Things\" in the United Kingdom?  [/INST]", "generated": "22 September 2023", "expected": "January 12, 2024"}
+{"prompt": "[INST] Who wrote the screenplay for \"Cat Person\"?  [/INST]", "generated": "Susanna Fogel, Emily Halpern, Sarah Haskins, Rebecca Angelo", "expected": "Michelle Ashford"}
+{"prompt": "[INST] Who are the main stars of \"Cat Person\"?  [/INST]", "generated": "Anne Hathaway, Emilia Jones, Jason Sudeikis, Isabella Rossellini, Alex Sharp, Lola Petticrew, and Dustin Demri-Burns", "expected": "Emilia Jones, Nicholas Braun, Geraldine Viswanathan, Hope Davis, Fred Melamed, Isabella Rossellini"}
+{"prompt": "[INST] When was \"Cat Person\" released in the United States?  [/INST]", "generated": "October 27, 2023", "expected": "October 6, 2023"}
+{"prompt": "[INST] Who directed \"Kade Dade Diyan Kade Pote Diyan\"?  [/INST]", "generated": "Ramesh Aravind", "expected": "Laada Siyan Ghuman"}
+{"prompt": "[INST] Who are the main actors in \"Kade Dade Diyan Kade Pote Diyan\"?  [/INST]", "generated": "Gurnam Bhullar, Sargun Mehta, Jagjeet Sandhu", "expected": "Harish Verma, Simi Chahal, B. N. Sharma, Seema Kaushal, Dheeraj Kumar, Sukhwinder Chahal"}
+{"prompt": "[INST] Who is the director of \"Dhoomam\"?  [/INST]", "generated": "Srikanth Addala", "expected": "Pawan Kumar"}
+{"prompt": "[INST] In which language is \"Dhoomam\"?  [/INST]", "generated": "Malayalam", "expected": "Malayalam"}
+{"prompt": "[INST] Who are the main actors in \"Dhoomam\"?  [/INST]", "generated": "Srikanth, Sai Charan, Sangeetha, Srikanth Iyengar, Srinivasan, Sathish, and others", "expected": "Fahadh Faasil, Aparna Balamurali"}
+{"prompt": "[INST] How were the reviews for \"Dhoomam\"?  [/INST]", "generated": "Mixed reviews", "expected": "Mixed reviews"}
+{"prompt": "[INST] Who directed \"The Man Who Stood in the Way\"?  [/INST]", "generated": "Pablo Larra\u00edn", "expected": "Petr Nikolaev"}
+{"prompt": "[INST] What genre is \"The Man Who Stood in the Way\"?  [/INST]", "generated": "Historical drama", "expected": "Historical drama"}
+{"prompt": "[INST] What is the source material for \"The Man Who Stood in the Way\"?  [/INST]", "generated": "The novel of the same name by Jos\u00e9 Manuel Mendes", "expected": "A novel by Ivan F\u00edla"}
+{"prompt": "[INST] Who directed \"WaaPaKe\"?  [/INST]", "generated": "Siddharth Srinivas", "expected": "Jules Arita Koostachin"}
+{"prompt": "[INST] What is the genre of \"WaaPaKe\"?  [/INST]", "generated": "Comedy-drama", "expected": "Documentary"}
+{"prompt": "[INST] Who else is interviewed in \"WaaPaKe\"?  [/INST]", "generated": "Shivani Surve, Shivani Surve's father, Shivani Surve's mother, Shivani Surve's brother, Shivani Surve's sister, Shivani Surve's grandmother, Shivani Surve's grandfather, Shivani Surve's aunt, Shivani Surve's uncle, Shivani Surve's cousin, Shivani Surve's cousin's father, Shivani Surve's cousin's mother, Shivani Surve's cousin's sister, Shivani Surve's cousin's brother, Shivani Surve's cousin's son, Shivani Surve's cousin's daughter, Shivani Surve's cousin's husband, Shivani Surve's cousin's father-in-law, Shivani Surve's cousin's mother-in-law, Shivani Surve's cousin's sister-in-law, Shivani Surve's cousin's brother-in-law, Shivani Surve's cousin's son-in-law, Shivani Surve's cousin's daughter-in-law, Shivani Surve's cousin's father-in-law's wife, Shivani Surve's cousin's", "expected": "Other children of survivors and social workers"}
+{"prompt": "[INST] In which program did \"WaaPaKe\" premiere?  [/INST]", "generated": "Amazon miniTV", "expected": "Insights program"}
+{"prompt": "[INST] Who co-wrote the screenplay for \"Peter Pan & Wendy\"?  [/INST]", "generated": "David Lowery, Toby Halbrooks", "expected": "David Lowery and Toby Halbrooks"}
+{"prompt": "[INST] What production company made \"Peter Pan & Wendy\"?  [/INST]", "generated": "Walt Disney Pictures", "expected": "Walt Disney Pictures"}
+{"prompt": "[INST] Who are the main actors in \"Peter Pan & Wendy\"?  [/INST]", "generated": "Alexander Molony, Ever Anderson, Jude Law, Yara Shahidi, Jacobi Jupe, Jim Gaffigan, Joshua Pickering, Alyssa Wapanat\u00e2hk, and Molly Parker", "expected": "Alexander Molony and Ever Anderson"}
+{"prompt": "[INST] Who plays Tinker Bell in \"Peter Pan & Wendy\"?  [/INST]", "generated": "Yara Shahidi", "expected": "Alyssa Wapanat\u00e2hk"}
+{"prompt": "[INST] When did filming for \"Peter Pan & Wendy\" begin?  [/INST]", "generated": "October 2020", "expected": "March 2021"}
+{"prompt": "[INST] Who wrote and directed \"Scrapper\"?  [/INST]", "generated": "Brendan Muldowney", "expected": "Charlotte Regan"}
+{"prompt": "[INST] What genre is \"Scrapper\"?  [/INST]", "generated": "Coming-of-age drama", "expected": "Comedy-drama"}
+{"prompt": "[INST] Who are the main actors in \"Scrapper\"?  [/INST]", "generated": "Jodie Comer, Joel Kinnaman, Stephen Lang, Michael Kenneth Williams, Jack Kesy, Michael Pitt, and John Malkovich", "expected": "Harris Dickinson, Lola Campbell, Alin Uzun"}
+{"prompt": "[INST] What award did \"Scrapper\" win at the Sundance Film Festival?  [/INST]", "generated": "Grand Jury Prize", "expected": "Grand Jury Prize for the World Cinema Dramatic Competition"}
+{"prompt": "[INST] What is \"ONEMANSHOW: The Movie\" based on?  [/INST]", "generated": "The 2019 play of the same name by J. Kyle Manzay", "expected": "A web show called One Man Show"}
+{"prompt": "[INST] Who directed \"Hidden Strike\"?  [/INST]", "generated": "Dante Lam", "expected": "Scott Waugh"}
+{"prompt": "[INST] Who are the main stars of \"Hidden Strike\"?  [/INST]", "generated": "Tony Leung, Zhou Dongyu, Huang Bo, Zhou Xun", "expected": "Jackie Chan, John Cena, Ma Chunrui, Pilou Asbaek"}
+{"prompt": "[INST] When was \"Hidden Strike\" released in the United Arab Emirates?  [/INST]", "generated": "2023", "expected": "6 July 2023"}
+{"prompt": "[INST] How did \"Hidden Strike\" fare with critics?  [/INST]", "generated": "Mixed reviews", "expected": "Negative reviews"}
+{"prompt": "[INST] Who wrote \"The Animal Kingdom\"?  [/INST]", "generated": "Andrew Kevin Walker", "expected": "Thomas Cailley and Pauline Munier"}
+{"prompt": "[INST] What is the original title of \"The Animal Kingdom\" in French?  [/INST]", "generated": "Le royaume animal", "expected": "Le R\u00e8gne animal"}
+{"prompt": "[INST] On what date did \"The Animal Kingdom\" premiere at the Cannes Film Festival?  [/INST]", "generated": "24 May 2023", "expected": "17 May 2023"}
+{"prompt": "[INST] When was \"The Animal Kingdom\" released in France?  [/INST]", "generated": "2023", "expected": "4 October 2023"}
+{"prompt": "[INST] When was \"Mixed by Erry\" released?  [/INST]", "generated": "2023", "expected": "2023"}
+{"prompt": "[INST] What genre is \"Mixed by Erry\"?  [/INST]", "generated": "Comedy-drama", "expected": "Biographical comedy"}
+{"prompt": "[INST] Who directed the film \"Kannitheevu\"?  [/INST]", "generated": "Vetri Maaran", "expected": "Sundar Balu"}
+{"prompt": "[INST] What is the genre of the film \"Kannitheevu\"?  [/INST]", "generated": "Drama", "expected": "Female buddy drama"}
+{"prompt": "[INST] Who are the lead actors in the film \"Kannitheevu\"?  [/INST]", "generated": "Vikram Prabhu, Aishwarya Rajesh, Srikanth, Sai Dheena", "expected": "Varalaxmi Sarathkumar, Subiksha Krishnan, Aishwarya Dutta, Ashna Zaveri"}
+{"prompt": "[INST] How was the film \"Kannitheevu\" released?  [/INST]", "generated": "Direct-to-OTT", "expected": "Direct television premiere via Colors Tamil"}
+{"prompt": "[INST] Who produced the film \"Kannitheevu\"?  [/INST]", "generated": "Sathish Nair", "expected": "Sundar Balu"}
+{"prompt": "[INST] Who are the main stars in \"Prom Pact\"?  [/INST]", "generated": "Camila Mendes, Maya Hawke, Annie Murphy, Kiernan Shipka, and Jason Sudeikis", "expected": "Peyton Elizabeth Lee, Milo Manheim, Margaret Cho, Blake Draper, Monique Green, Arica Himmel, Jason Sakaki, David S. Jung, and Wendi McLendon-Covey"}
+{"prompt": "[INST] Where did \"Prom Pact\" premiere?  [/INST]", "generated": "Disney Channel", "expected": "On Disney Channel"}
+{"prompt": "[INST] Who is the director of the film \"Yuva\"?  [/INST]", "generated": "Vijay Krishna Acharya", "expected": "Santhosh Ananddram"}
+{"prompt": "[INST] Which production banner is producing the film \"Yuva\"?  [/INST]", "generated": "Reliance Entertainment", "expected": "Hombale Films"}
+{"prompt": "[INST] Who are the supporting actors in the film \"Yuva\"?  [/INST]", "generated": "Sanjay Dutt, Raveena Tandon, Pooja Bhatt, Milind Soman, Shilpa Shetty, Jackie Shroff, Paresh Rawal, Anupam Kher, Shakti Kapoor, Shamita Shetty, Shriya Saran, Shriya Pilgaonkar, Shivani Raghuvanshi, Shivani Joshi, Shivani Rai, Shivani Rai, Shivani Rai, Shivani Rai, Shivani Rai, Shivani Rai, Shivani Rai, Shivani Rai, Shivani Rai, Shivani Rai, Shivani Rai, Shivani Rai, Shivani Rai, Shivani Rai, Shivani Rai, Shivani Rai, Shivani Rai, Shivani Rai, Shivani Rai, Shivani Rai, Shivani Rai, Shivani Rai, Shivani Rai, Shivani Rai, Shivani Rai, Shivani Rai, Shivani Rai, Shivani Rai, Shivani Rai, Shivani Rai, Shivani Rai, Shivani Rai, Shivani Rai, Shivani Rai, Shivani Rai, Sh", "expected": "Sapthami Gowda, Achyuth Kumar, Prakash Raj"}
+{"prompt": "[INST] Which festival is the film \"Yuva\" scheduled to be released during?  [/INST]", "generated": "Diwali", "expected": "Christmas"}
+{"prompt": "[INST] Who directed \"Eternal Boys\"?  [/INST]", "generated": "Pablo Larra\u00edn", "expected": "Migimi"}
+{"prompt": "[INST] Who came up with the original concept for \"Eternal Boys\"?  [/INST]", "generated": "Yoshiki Takahashi", "expected": "Manpuku Gein\u014d Production"}
+{"prompt": "[INST] Where did \"Eternal Boys\" air?  [/INST]", "generated": "Netflix", "expected": "Fuji TV"}
+{"prompt": "[INST] In which magazine was the manga adaptation of \"Eternal Boys\" serialized?  [/INST]", "generated": "Big Comic", "expected": "Monthly Comic Gene"}
+{"prompt": "[INST] Who directed the film \"Holiday\"?  [/INST]", "generated": "Nitesh Tiwari", "expected": "Edoardo Gabbriellini"}
+{"prompt": "[INST] What genre does the film \"Holiday\" belong to?  [/INST]", "generated": "Comedy-drama", "expected": "Coming-of-age drama"}
+{"prompt": "[INST] In which program did \"Holiday\" premiere at the Toronto International Film Festival?  [/INST]", "generated": "Gala Presentations program", "expected": "Centrepiece program"}
+{"prompt": "[INST] When was \"Premadesam\" released?  [/INST]", "generated": "2023", "expected": "2023"}
+{"prompt": "[INST] Who are the lead actors in \"Premadesam\"?  [/INST]", "generated": "Vijay Antony, Aishwarya Rajesh, Srikanth", "expected": "Thrigun, Megha Akash"}
+{"prompt": "[INST] Who composed the music for \"Premadesam\"?  [/INST]", "generated": "Siddhu Kumar", "expected": "Mani Sharma"}
+{"prompt": "[INST] Who are the producers of the film \"Animal\"?  [/INST]", "generated": "Dinesh Vijan, Amar Kaushik, Sunil Shah", "expected": "T-Series, Cine1 Studios"}
+{"prompt": "[INST] Who is the cinematographer of the film \"Animal\"?  [/INST]", "generated": "Robert Richardson", "expected": "Amit Roy"}
+{"prompt": "[INST] When was the original release date for the film \"Animal\"?  [/INST]", "generated": "April 15, 2023", "expected": "11 August 2023"}
+{"prompt": "[INST] When was \"Born to Fly\" released?  [/INST]", "generated": "2023", "expected": "April 28, 2023"}
+{"prompt": "[INST] Who produced \"Born to Fly\"?  [/INST]", "generated": "Walt Disney Pictures", "expected": "Han Han"}
+{"prompt": "[INST] What is the genre of \"Born to Fly\"?  [/INST]", "generated": "Biographical sports drama", "expected": "Military film"}
+{"prompt": "[INST] How much did \"Born to Fly\" earn worldwide?  [/INST]", "generated": "$100 million", "expected": "$121 million"}
+{"prompt": "[INST] When did \"Photophobia\" premiere?  [/INST]", "generated": "2023", "expected": "80th Venice International Film Festival"}
+{"prompt": "[INST] What award did \"Photophobia\" win at the Venice International Film Festival?  [/INST]", "generated": "Orizzonti Award for Best Film", "expected": "Europa Cinemas Label Award"}
+{"prompt": "[INST] Where was \"Photophobia\" shot?  [/INST]", "generated": "The Philippines", "expected": "Ukraine"}
+{"prompt": "[INST] What category did \"Photophobia\" represent as the Slovak entry for the 96th Academy Awards?  [/INST]", "generated": "Best International Feature Film", "expected": "Best International Feature Film"}
+{"prompt": "[INST] Who is the producer of the film \"Napoleon\"?  [/INST]", "generated": "Dhanush", "expected": "Ridley Scott"}
+{"prompt": "[INST] What is the genre of the film \"Napoleon\"?  [/INST]", "generated": "Historical drama", "expected": "Epic historical drama"}
+{"prompt": "[INST] Who stars as Napoleon in the film \"Napoleon\"?  [/INST]", "generated": "Joaquin Phoenix", "expected": "Joaquin Phoenix"}
+{"prompt": "[INST] Who are the supporting actors in the film \"Napoleon\"?  [/INST]", "generated": "Manoj Bajpayee, Siddhant Chaturvedi, Sanya Malhotra, Fatima Sana Shaikh, Ali Fazal, Shibani Bedi, Shriya Pilgaonkar, and Shriya Pilgaonkar", "expected": "Vanessa Kirby, Tahar Rahim"}
+{"prompt": "[INST] Which production company is releasing the film \"Napoleon\"?  [/INST]", "generated": "Metro-Goldwyn-Mayer", "expected": "Sony Pictures Releasing"}
+{"prompt": "[INST] In which language was \"Upon Open Sky\" originally released?  [/INST]", "generated": "Tamil", "expected": "Spanish"}
+{"prompt": "[INST] Who directed \"Upon Open Sky\"?  [/INST]", "generated": "Javier Fuentes-Le\u00f3n", "expected": "Mariana and Santiago Arriaga"}
+{"prompt": "[INST] Who directed \"Late Bloomers\"?  [/INST]", "generated": "Nicole Holofcener", "expected": "Lisa Steen"}
+{"prompt": "[INST] Who are the main stars of \"Late Bloomers\"?  [/INST]", "generated": "Diane Keaton, Jane Fonda, Don Johnson, Candice Bergen, Mary Steenburgen, Andy Garc\u00eda, Craig T. Nelsen, Richard Dreyfuss, Frances Fisher, Dylan McDermott, Richard Kind, Dermot Mulroney, and Candice Bergen", "expected": "Karen Gillan, Margaret Sophie Stein"}
+{"prompt": "[INST] When did \"Late Bloomers\" have its world premiere?  [/INST]", "generated": "September 10, 2023", "expected": "March 10, 2023"}
+{"prompt": "[INST] Who directed the film \"Unicorns\"?  [/INST]", "generated": "Michael J. Bailey", "expected": "Sally El Hosaini, James Krishna Floyd"}
+{"prompt": "[INST] Who stars as Luke in the film \"Unicorns\"?  [/INST]", "generated": "Jack Dylan Grazer", "expected": "Ben Hardy"}
+{"prompt": "[INST] Who plays Aysha in the film \"Unicorns\"?  [/INST]", "generated": "Alicia Silverstone", "expected": "Jason Patel"}
+{"prompt": "[INST] Who wrote the film \"Unicorns\"?  [/INST]", "generated": "Michael J. Bailey", "expected": "James Krishna Floyd"}
+{"prompt": "[INST] Who else is in the cast of \"Unicorns\"?  [/INST]", "generated": "Dylan Gelula, Danny Pudi, Aparna Nancherla, Ayo Edebiri, Aisling Bea, and Natasia Demetriou", "expected": "Hannah Onslow, Nisha Nayar, Michael Karim, Sagar Radia, Ravin J Ganatra, Ali Afzal, Val The Brown Queen, Jaimie Tank, Anthony Pius, Saba Shiraz, Miss Jalebi Bebe, Adeel Ahmed, Grant Davis, Madelyn Smedley, Kate Lindsey, Dan Linney, Karen Sampford, Angela Phinnimore, Karen Bartholomew, Jenny O'Leary, Taylor Sullivan"}
+{"prompt": "[INST] Who is the director of \"Abraham Ozler\"?  [/INST]", "generated": "Eytan Fox", "expected": "Midhun Manuel Thomas"}
+{"prompt": "[INST] Who stars in the title role of \"Abraham Ozler\"?  [/INST]", "generated": "Shai Avivi", "expected": "Jayaram"}
+{"prompt": "[INST] Who composed the music for \"Abraham Ozler\"?  [/INST]", "generated": "A. R. Rahman", "expected": "Midhun Mukundan"}
+{"prompt": "[INST] When is \"Abraham Ozler\" set for release?  [/INST]", "generated": "2023", "expected": "Christmas 2023"}
+{"prompt": "[INST] Who produced the film \"Chithha\"?  [/INST]", "generated": "S. Kalaipuli S. Thanu", "expected": "Siddharth"}
+{"prompt": "[INST] When was \"Chithha\" released?  [/INST]", "generated": "2023", "expected": "28 September 2023"}
+{"prompt": "[INST] How was \"Chithha\" received by critics?  [/INST]", "generated": "Positive reviews", "expected": "Critical acclaim"}
+{"prompt": "[INST] What is the genre of \"Lakadbaggha\"?  [/INST]", "generated": "Comedy-drama", "expected": "Action thriller"}
+{"prompt": "[INST] Who directed \"Lakadbaggha\"?  [/INST]", "generated": "Rajkumar Santoshi", "expected": "Victor Mukherjee"}
+{"prompt": "[INST] Who are the main actors in \"Lakadbaggha\"?  [/INST]", "generated": "Akshay Kumar, Bhumi Pednekar, Shehnaaz Gill, Siddharth Randeria, Rajpal Yadav", "expected": "Anshuman Jha, Ridhi Dogra, Paresh Pahuja, Milind Soman"}
+{"prompt": "[INST] When was the digital release of \"Lakadbaggha\"?  [/INST]", "generated": "22 September 2023", "expected": "June 2023"}
+{"prompt": "[INST] Where did \"Lakadbaggha\" have its world premiere?  [/INST]", "generated": "2023 Cannes Film Festival", "expected": "Kolkata International Film Festival"}
+{"prompt": "[INST] Where did \"Lakadbaggha\" have its international premiere?  [/INST]", "generated": "2023 Toronto International Film Festival", "expected": "HBO South Asian International Film Festival, New York"}
+{"prompt": "[INST] Where was \"Lakadbaggha\"'s European premiere?  [/INST]", "generated": "73rd Berlin International Film Festival", "expected": "Stuttgart, Germany"}
+{"prompt": "[INST] Who is the producer of \"Nango Gau\"?  [/INST]", "generated": "Suresh Gopi", "expected": "Jaya Shrestha"}
+{"prompt": "[INST] Who are some of the actors in \"Nango Gau\"?  [/INST]", "generated": "Siddharth Randeria, Rishi Shah, Rushabh Joshi, Riddhi Shah, Rushabh Joshi, Rushabh Joshi, Rushabh Joshi, Rushabh Joshi, Rushabh Joshi, Rushabh Joshi, Rushabh Joshi, Rushabh Joshi, Rushabh Joshi, Rushabh Joshi, Rushabh Joshi, Rushabh Joshi, Rushabh Joshi, Rushabh Joshi, Rushabh Joshi, Rushabh Joshi, Rushabh Joshi, Rushabh Joshi, Rushabh Joshi, Rushabh Joshi, Rushabh Joshi, Rushabh Joshi, Rushabh Joshi, Rushabh Joshi, Rushabh Joshi, Rushabh Joshi, Rushabh Joshi, Rushabh Joshi, Rushabh Joshi, Rushabh Joshi, Rushabh Joshi, Rushabh Joshi, Rushabh Joshi, Rushabh Joshi, Rushabh Joshi, Rushabh Joshi, Rushabh Joshi, Rushabh Joshi, Rushabh Joshi, Rushab", "expected": "Dayahang Rai, Miruna Magar, Karma, Samragyee RL Shah, Buddhi Tamang"}
+{"prompt": "[INST] Who directed \"Puppy Love\"?  [/INST]", "generated": "Dylan Brown", "expected": "Nick Fabiano, Richard Alan Reid"}
+{"prompt": "[INST] When was \"Puppy Love\" released?  [/INST]", "generated": "2023", "expected": "August 18, 2023"}
+{"prompt": "[INST] Who directed \"Ennalum Ente Aliya\"?  [/INST]", "generated": "Vishnu Unnikrishnan", "expected": "Bash Mohammed"}
+{"prompt": "[INST] What is the banner under which \"Ennalum Ente Aliya\" was produced?  [/INST]", "generated": "Sree Gokulam Movies", "expected": "Magic Frames"}
+{"prompt": "[INST] When was \"Ennalum Ente Aliya\" released?  [/INST]", "generated": "2023", "expected": "6 January 2023"}
+{"prompt": "[INST] Who wrote \"Barbie: Skipper and the Big Babysitting Adventure\"?  [/INST]", "generated": "Jennifer Muro", "expected": "Daniel Bryan Franklin"}
+{"prompt": "[INST] Who is the main character in \"Barbie: Skipper and the Big Babysitting Adventure\"?  [/INST]", "generated": "Skipper", "expected": "Skipper Roberts"}
+{"prompt": "[INST] Where did \"Barbie: Skipper and the Big Babysitting Adventure\" also air in the UK and Ireland?  [/INST]", "generated": "Channel 5", "expected": "POP"}
+{"prompt": "[INST] Where was \"Barbie: Skipper and the Big Babysitting Adventure\" released on home video?  [/INST]", "generated": "On the streaming service Paramount+", "expected": "Germany"}
+{"prompt": "[INST] Who produced Mechamato Movie?  [/INST]", "generated": "Sree Gokulam Movies", "expected": "Animonsta Studios and Astro Shaw"}
+{"prompt": "[INST] Who are the main stars in Mechamato Movie?  [/INST]", "generated": "Sharanya R, Srikanth, Sai Prasanna, Sathish Krishnan, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sathish, Sath", "expected": "Armand Ezra, Adzlan Nazir, Fadhli Mohd Rawi, Ielham Iskandar, Marissa Balqis, Fazreen Syahmi, Hazzley Abu Bakar, and Feroz Faizal"}
+{"prompt": "[INST] Why was Mechamato Movie delayed?  [/INST]", "generated": "COVID-19 pandemic", "expected": "Due to the COVID-19 pandemic"}
+{"prompt": "[INST] When was the release of Mechamato Movie officially announced?  [/INST]", "generated": "2021", "expected": "September 2022"}
+{"prompt": "[INST] When was Mechamato Movie released?  [/INST]", "generated": "2023", "expected": "8 December 2022"}
+{"prompt": "[INST] When was \"Hollywoodgate\" released?  [/INST]", "generated": "2023", "expected": "2023"}
+{"prompt": "[INST] In what category did \"Hollywoodgate\" premiere at the Venice Film Festival?  [/INST]", "generated": "Orizzonti section", "expected": "Out of competition"}
+{"prompt": "[INST] What is the nationality of \"Hollywoodgate\"?  [/INST]", "generated": "American", "expected": "German-American"}
+{"prompt": "[INST] When was \"The Road\" released?  [/INST]", "generated": "2023", "expected": "2023"}
+{"prompt": "[INST] Who produced \"The Road\"?  [/INST]", "generated": "Michael De Luca, Dana Brunetti, Michael Fassbender", "expected": "AAA Cinemaa"}
+{"prompt": "[INST] In which language is \"The Road\" filmed?  [/INST]", "generated": "Tamil", "expected": "Tamil"}
+{"prompt": "[INST] Who directed \"14+: Continued\"?  [/INST]", "generated": "Srinivasu Paruchuri", "expected": "Andrey Zaytsev"}
+{"prompt": "[INST] What genre does \"14+: Continued\" belong to?  [/INST]", "generated": "Coming-of-age drama", "expected": "Coming-of-age, romantic"}
+{"prompt": "[INST] What is the original Russian title of \"14+: Continued\"?  [/INST]", "generated": "14+: \u041f\u043e\u0441\u043b\u0435\u0434\u043d\u044f\u044f \u0433\u043b\u0430\u0432\u0430", "expected": "14+: \u041f\u0440\u043e\u0434\u043e\u043b\u0436\u0435\u043d\u0438\u0435"}
+{"prompt": "[INST] What is the genre of \"Sirf Ek Bandaa Kaafi Hai\"?  [/INST]", "generated": "Crime thriller", "expected": "Legal drama"}
+{"prompt": "[INST] Who are the co-producers of \"Sirf Ek Bandaa Kaafi Hai\"?  [/INST]", "generated": "Ramesh Taurani and Akshai Puri", "expected": "Zee Studios and Bhanushali Studios"}
+{"prompt": "[INST] When was \"Sirf Ek Bandaa Kaafi Hai\" released digitally?  [/INST]", "generated": "2023", "expected": "23 May 2023"}
+{"prompt": "[INST] Who produced the film \"Tamilarasan\"?  [/INST]", "generated": "Kalanithi Maran", "expected": "SNS Production Company"}
+{"prompt": "[INST] Who composed the music for \"Tamilarasan\"?  [/INST]", "generated": "Yuvan Shankar Raja", "expected": "Ilaiyaraaja"}
+{"prompt": "[INST] When was the theatrical release of \"Tamilarasan\"?  [/INST]", "generated": "20 October 2023", "expected": "April 22, 2023"}
+{"prompt": "[INST] How have the reviews for \"Tamilarasan\" been?  [/INST]", "generated": "Mixed", "expected": "Mixed"}
+{"prompt": "[INST] Who wrote the story for \"Ramabanam\"?  [/INST]", "generated": "Venu Udugula", "expected": "Bhupathi Raja"}
+{"prompt": "[INST] Who composed the soundtrack and background score for \"Ramabanam\"?  [/INST]", "generated": "Sricharan Pakala", "expected": "Mickey J. Meyer"}
+{"prompt": "[INST] How was \"Ramabanam\" received by critics?  [/INST]", "generated": "Mixed reviews", "expected": "Mixed to negative reviews"}
+{"prompt": "[INST] When was \"Desperation Road\" released?  [/INST]", "generated": "2023", "expected": "2023"}
+{"prompt": "[INST] Who directed \"Desperation Road\"?  [/INST]", "generated": "Michael Polish", "expected": "Nadine Crocker"}
+{"prompt": "[INST] What genre is \"Desperation Road\"?  [/INST]", "generated": "Action thriller", "expected": "Action thriller"}
+{"prompt": "[INST] When was \"Peddha Kapu 1\" released?  [/INST]", "generated": "2023", "expected": "2023"}
+{"prompt": "[INST] Who produced \"Peddha Kapu 1\"?  [/INST]", "generated": "Mythri Movie Makers", "expected": "Miryala Ravinder Reddy and Miryala Sathyanarayana Reddy"}
+{"prompt": "[INST] Who are the lead actors in \"Peddha Kapu 1\"?  [/INST]", "generated": "Sai Charan, Sai Ronak, Sai Prasanna, Sai Dharam Tej, Sai Dheena, Sai Siddharth, Sai Siddharth, Sai Siddharth, Sai Siddharth, Sai Siddharth, Sai Siddharth, Sai Siddharth, Sai Siddharth, Sai Siddharth, Sai Siddharth, Sai Siddharth, Sai Siddharth, Sai Siddharth, Sai Siddharth, Sai Siddharth, Sai Siddharth, Sai Siddharth, Sai Siddharth, Sai Siddharth, Sai Siddharth, Sai Siddharth, Sai Siddharth, Sai Siddharth, Sai Siddharth, Sai Siddharth, Sai Siddharth, Sai Siddharth, Sai Siddharth, Sai Siddharth, Sai Siddharth, Sai Siddharth, Sai Siddharth, Sai Siddharth, Sai Siddharth, Sai Siddharth, Sai Siddharth, Sai Siddharth, Sai Siddharth, Sai Sidd", "expected": "Virat Karrna and Pragathi Srivatsava"}
+{"prompt": "[INST] Who directed \"Junglemahal: The Awakening\"?  [/INST]", "generated": "Rohit Shetty", "expected": "Arunava Chowdhury"}
+{"prompt": "[INST] What is the title of the trilogy that \"Junglemahal: The Awakening\" is a part of?  [/INST]", "generated": "Junglemahal", "expected": "Junglemahal Trilogy"}
+{"prompt": "[INST] When did \"Pretty Baby: Brooke Shields\" premiere?  [/INST]", "generated": "At the 2023 Toronto International Film Festival", "expected": "2023 Sundance Film Festival"}
+{"prompt": "[INST] Where was \"Pretty Baby: Brooke Shields\" released?  [/INST]", "generated": "Hulu", "expected": "Hulu"}
+{"prompt": "[INST] Who are the main actors in \"Pentagon\"?  [/INST]", "generated": "Kim Soo-hyun, Park Seo-joon, Kim Ji-won, Kwon Sang-woo, Kim Min-kyung, Kim Hee-won, and Kim Jong-soo", "expected": "Kishore, P. Ravi Shankar, Vijanath Biradar, Pramod Shetty, Prakash Belawadi, Pruthvi Ambaar"}
+{"prompt": "[INST] How many stories are there in \"Pentagon\"?  [/INST]", "generated": "10", "expected": "Five"}
+{"prompt": "[INST] Who directed the film \"Tumse Na Ho Payega\"?  [/INST]", "generated": "Rohit Shetty", "expected": "Abhishek Sinha"}
+{"prompt": "[INST] Who produced the film \"Tumse Na Ho Payega\"?  [/INST]", "generated": "Ramesh Taurani and Akshai Puri", "expected": "Star Studios, Ronnie Screwvala, Siddharth Roy Kapur, Ashwiny Iyer Tiwari, Nitesh Tiwari"}
+{"prompt": "[INST] When was the film \"Tumse Na Ho Payega\" released?  [/INST]", "generated": "2023", "expected": "29 September 2023"}
+{"prompt": "[INST] Who produced Plandemic?  [/INST]", "generated": "Mikki Willis", "expected": "Mikki Willis"}
+{"prompt": "[INST] When was the first video of Plandemic released?  [/INST]", "generated": "April 20, 2020", "expected": "May 4, 2020"}
+{"prompt": "[INST] When was the second film of Plandemic released?  [/INST]", "generated": "2023", "expected": "August 18"}
+{"prompt": "[INST] When was the third film of Plandemic released?  [/INST]", "generated": "2023", "expected": "June 3, 2023"}
+{"prompt": "[INST] Who co-wrote the screenplay for \"Sing Sing\"?  [/INST]", "generated": "Michael Cyril Creighton, Benito Skinner, and Michael J. Rashid", "expected": "Greg Kwedar, Clint Bentley"}
+{"prompt": "[INST] What is the main focus of the film \"Sing Sing\"?  [/INST]", "generated": "The Sing Sing Correctional Facility in Ossining, New York", "expected": "Group of inmates involved in the creation of theatrical stage shows"}
+{"prompt": "[INST] When did the film \"Sing Sing\" premiere?  [/INST]", "generated": "2023 Cannes Film Festival", "expected": "2023 Toronto International Film Festival"}
+{"prompt": "[INST] When was \"Run Baby Run\" released?  [/INST]", "generated": "2023", "expected": "3 February 2023"}
+{"prompt": "[INST] Who are the main actors in \"Run Baby Run\"?  [/INST]", "generated": "Dhanush, Malavika Mohanan, Gouri Kishan, Shanthanu Bhagyaraj, Gautham Vasudev Menon", "expected": "RJ Balaji, Isha Talwar, Aishwarya Rajesh"}
+{"prompt": "[INST] In which language was \"Run Baby Run\" made?  [/INST]", "generated": "Telugu", "expected": "Tamil"}
+{"prompt": "[INST] What is the nationality of \"Run Baby Run\"?  [/INST]", "generated": "American", "expected": "Indian"}
+{"prompt": "[INST] Who are the main actors in \"Paint\"?  [/INST]", "generated": "Jake Johnson, Lil Rel Howery, Sunita Mani, John Gemberling, D'Pharaoh Woon-A-Tai, and Dylan Gelula", "expected": "Owen Wilson, Michaela Watkins, Ciara Ren\u00e9e, Stephen Root, Wendi McLendon-Covey, Lucy Freyer, Lusia Strus, Michael Pemberton"}
+{"prompt": "[INST] Which production company distributed \"Paint\"?  [/INST]", "generated": "Netflix", "expected": "IFC Films"}
+{"prompt": "[INST] Who are the main actors in \"The Portable Door\"?  [/INST]", "generated": "Dylan O'Brien, Jessica Henwick, Michael Caine, Michael Pe\u00f1a, Tilda Swinton", "expected": "Patrick Gibson, Sophie Wilde, Sam Neill, Christoph Waltz"}
+{"prompt": "[INST] What is the release date of \"The Portable Door\" in Australia?  [/INST]", "generated": "23 March 2023", "expected": "23 March 2023"}
+{"prompt": "[INST] Who wrote the screenplay for \"The Portable Door\"?  [/INST]", "generated": "John McPhail, Dan Beers, and Benji Samit", "expected": "Leon Ford"}
+{"prompt": "[INST] Which distribution company released \"The Portable Door\" theatrically in Australia?  [/INST]", "generated": "StudioCanal", "expected": "Madman Entertainment"}
+{"prompt": "[INST] Who produced the film \"Kalhaki\"?  [/INST]", "generated": "Siddharth Roy Kapur", "expected": "Niuma Mohamed"}
+{"prompt": "[INST] What genre is the film \"Kalhaki\"?  [/INST]", "generated": "Action thriller", "expected": "Horror"}
+{"prompt": "[INST] What production company made the film \"Kalhaki\"?  [/INST]", "generated": "Zee Studios", "expected": "Newxo Productions"}
+{"prompt": "[INST] What is the genre of \"The Mission\"?  [/INST]", "generated": "Action thriller", "expected": "Documentary"}
+{"prompt": "[INST] Where did \"The Mission\" have its world premiere?  [/INST]", "generated": "73rd Cannes Film Festival", "expected": "Telluride Film Festival"}
+{"prompt": "[INST] Who distributed \"The Mission\"?  [/INST]", "generated": "Warner Bros.", "expected": "Picturehouse"}
+{"prompt": "[INST] When was \"My Extinction\" released?  [/INST]", "generated": "2023", "expected": "2023"}
+{"prompt": "[INST] What campaign group is Josh Appignanesi involved with in \"My Extinction\"?  [/INST]", "generated": "Extinction Rebellion", "expected": "Extinction Rebellion"}
+{"prompt": "[INST] Who are the producers of \"Jokaru\"?  [/INST]", "generated": "Suresh Babu and Srinivasaa Chitturi", "expected": "Ismail Shafeeq, Ali Shaniz Mohamed"}
+{"prompt": "[INST] Which production companies are involved in making \"Jokaru\"?  [/INST]", "generated": "Zee Studios, Veda Production", "expected": "Eupe Production, Shy Production, Saturn Studio"}
+{"prompt": "[INST] What genre is \"Jokaru\"?  [/INST]", "generated": "Comedy-drama", "expected": "Comedy"}
+{"prompt": "[INST] Who wrote and directed \"Mob Land\"?  [/INST]", "generated": "Michael J. Rash", "expected": "Nicholas Maggio"}
+{"prompt": "[INST] What genre is \"Mob Land\"?  [/INST]", "generated": "Comedy-drama", "expected": "Crime thriller"}
+{"prompt": "[INST] Which production company released \"Mob Land\"?  [/INST]", "generated": "Amazon Freevee", "expected": "Saban Films"}
+{"prompt": "[INST] When was \"The Caine Mutiny Court-Martial\" released?  [/INST]", "generated": "2023", "expected": "October 6, 2023"}
+{"prompt": "[INST] Who stars in \"The Caine Mutiny Court-Martial\"?  [/INST]", "generated": "Humphrey Bogart, Fredric March, Van Johnson, Robert Francis, E. J. Andr\u00e9, William Prince, and Lloyd Gough", "expected": "Kiefer Sutherland, Jason Clarke, Jake Lacy, Monica Raymund, Lance Reddick"}
+{"prompt": "[INST] Which production companies released \"The Caine Mutiny Court-Martial\"?  [/INST]", "generated": "Sony Pictures Classics, Stage 6 Films", "expected": "Paramount+ with Showtime by Republic Pictures"}
+{"prompt": "[INST] Who is the writer and director of \"Snow Leopard\"?  [/INST]", "generated": "Dinesh Kumaran", "expected": "Pema Tseden"}
+{"prompt": "[INST] Was \"Snow Leopard\" in competition at the festival?  [/INST]", "generated": "Yes", "expected": "No, it premiered out of competition"}
+{"prompt": "[INST] Who directed \"Sitting in Bars with Cake\"?  [/INST]", "generated": "Kyle Patrick Alvarez", "expected": "Trish Sie"}
+{"prompt": "[INST] When was \"Sitting in Bars with Cake\" released?  [/INST]", "generated": "2023", "expected": "September 8, 2023"}
+{"prompt": "[INST] How was \"Sitting in Bars with Cake\" received by critics?  [/INST]", "generated": "Positively", "expected": "Generally positive reviews"}
+{"prompt": "[INST] When was \"Teen Adkun Sitaram\" released?  [/INST]", "generated": "2023", "expected": "29 September 2023"}
+{"prompt": "[INST] Who are the main actors in \"Teen Adkun Sitaram\"?  [/INST]", "generated": "Siddharth Jadhav, Vaishnavi Karmarkar, Shivani Surve, Shashank Shende", "expected": "Vaibhav Tatwawadi, Prajakta Mali, Alok Rajwade, Sankarshan Karhade"}
+{"prompt": "[INST] When was \"Truelove: The Film\" released?  [/INST]", "generated": "2023", "expected": "2023"}
+{"prompt": "[INST] Who are the featured actors in \"Truelove: The Film\"?  [/INST]", "generated": "Ajith Kumar, Gautham Vasudev Menon, Venkat Prabhu, Karthik Subbaraj, Mysskin, Arun Matheswaran, Lokesh Kanagaraj, Vijay Sethupathi, Siddharth, Vikram Prabhu, Siddharth Srinivasan, Srikanth, Ramesh Thilak, Shraddha Srinath, Priya Anand, Aishwarya Rajesh, Ritu Varma, Sai Pallavi, Varalaxmi Sarathkumar, Nayanthara, Vijay Sethupathi, Vijay Antony, Jayam Ravi, Dhanush, Trisha, Samantha, Keerthy Suresh, Suriya, Vijay, Dulquer Salmaan, Vikram, Siddharth, Vijay Deverakonda, Vijay Antony, Suriya, Dhanush, Vijay Sethupathi, Siddharth, Vikram Prabhu, Siddharth Srinivasan, Srikanth, Ramesh Thilak, Shraddha Srinath, Priya Anand, Aishwarya Rajesh, Ritu Varma, Sai Pallavi, Varalaxmi Sarathkumar, Nayanth", "expected": "Christopher Knight, Wynonna Judd, Carrie Underwood"}
+{"prompt": "[INST] Who directed \"The Wandering Earth 2\"?  [/INST]", "generated": "Frant Gwo", "expected": "Frant Gwo"}
+{"prompt": "[INST] What genre is \"The Wandering Earth 2\"?  [/INST]", "generated": "Science fiction", "expected": "Science fiction, action-adventure"}
+{"prompt": "[INST] How much money did \"The Wandering Earth 2\" gross?  [/INST]", "generated": "Over $800 million", "expected": "$604 million"}
+{"prompt": "[INST] Who wrote the short story that \"The Wandering Earth 2\" is based on?  [/INST]", "generated": "Liu Cixin", "expected": "Liu Cixin"}
+{"prompt": "[INST] Who directed \"Rye Lane\"?  [/INST]", "generated": "Harry Wootliff", "expected": "Raine Allen-Miller"}
+{"prompt": "[INST] Where is \"Rye Lane\" set?  [/INST]", "generated": "Peckham, London", "expected": "Peckham and Brixton, South London"}
+{"prompt": "[INST] Who are the two main actors in \"Rye Lane\"?  [/INST]", "generated": "David Jonsson and Vivian Oparah", "expected": "David Jonsson and Vivian Oparah"}
+{"prompt": "[INST] When did \"Rye Lane\" premiere at the Sundance Film Festival?  [/INST]", "generated": "January 20, 2023", "expected": "23 January 2023"}
+{"prompt": "[INST] Who distributed \"Rye Lane\" in the United Kingdom?  [/INST]", "generated": "Searchlight Pictures", "expected": "Walt Disney Studios Motion Pictures"}
+{"prompt": "[INST] Who directed \"Hey, Viktor!\"?  [/INST]", "generated": "Dmitry Dyachenko", "expected": "Cody Lightning"}
+{"prompt": "[INST] Who stars as the main character in \"Hey, Viktor!\"?  [/INST]", "generated": "Viktor Krum", "expected": "Cody Lightning"}
+{"prompt": "[INST] Who else is part of the cast of \"Hey, Viktor!\"?  [/INST]", "generated": "Alexander Petrov, Alexander Kuznetsov, Alexander Ilyin, Alexander Kuznetsov, Alexander Kuznetsov, Alexander Kuznetsov, Alexander Kuznetsov, Alexander Kuznetsov, Alexander Kuznetsov, Alexander Kuznetsov, Alexander Kuznetsov, Alexander Kuznetsov, Alexander Kuznetsov, Alexander Kuznetsov, Alexander Kuznetsov, Alexander Kuznetsov, Alexander Kuznetsov, Alexander Kuznetsov, Alexander Kuznetsov, Alexander Kuznetsov, Alexander Kuznetsov, Alexander Kuznetsov, Alexander Kuznetsov, Alexander Kuznetsov, Alexander Kuznetsov, Alexander Kuznetsov, Alexander Kuznetsov, Alexander Kuznetsov, Alexander Kuznetsov, Alexander Kuznetsov, Alexander Kuznetsov, Alexander Kuznetsov, Alexander Kuznetsov, Alexander Kuznetsov, Alexander Kuznetsov, Alexander Kuznetsov, Alexander Kuznetsov, Alexander Kuznetsov, Alexander Kuznetsov, Alexander Kuznetsov, Alexander Kuznetsov, Alexander Kuznetsov, Alexander Kuznetsov, Alexander Kuznet", "expected": "Hannah Cheesman, Simon Baker, Conway Kootenay, Gary Farmer, Irene Bedard, Colin Mochrie, Phil Burke, Teneil Whiskeyjack, Peter Craig Robinson, Roseanne Supernault, Matthew Alden, and Alayna Edwards"}
+{"prompt": "[INST] Who co-wrote the film \"Sisi & I\"?  [/INST]", "generated": "Sabine Boss and Michael Krumm", "expected": "Christian Kracht"}
+{"prompt": "[INST] Who stars as Countess Irma Szt\u00e1ray in \"Sisi & I\"?  [/INST]", "generated": "Sophie Lowe", "expected": "Sandra H\u00fcller"}
+{"prompt": "[INST] Which countries were involved in the production of \"Sisi & I\"?  [/INST]", "generated": "Austria, Germany, Croatia, Hungary", "expected": "Germany, Switzerland, and Austria"}
+{"prompt": "[INST] When was \"Sisi & I\" released theatrically in Austria?  [/INST]", "generated": "22 September 2023", "expected": "30 March 2023"}
+{"prompt": "[INST] How many nominations did \"Sisi & I\" receive for the German Film Award?  [/INST]", "generated": "Seven", "expected": "Four"}
+{"prompt": "[INST] Who directed \"Northern Comfort\"?  [/INST]", "generated": "Sean Penn", "expected": "Hafsteinn Gunnar Sigur\u00f0sson"}
+{"prompt": "[INST] What genre is \"Northern Comfort\"?  [/INST]", "generated": "Comedy-drama", "expected": "Comedy"}
+{"prompt": "[INST] Who are the main actors in \"Northern Comfort\"?  [/INST]", "generated": "Ben Platt, Kyle MacLachlan, Amy Schumer, Judith Light, Judd Hirsch, Michael Cera, Judah Lewis, and Dylan Gelula", "expected": "Timothy Spall and Lydia Leonard"}
+{"prompt": "[INST] When was \"The Line\" released?  [/INST]", "generated": "2023", "expected": "2023"}
+{"prompt": "[INST] Who directed \"The Line\"?  [/INST]", "generated": "David Gordon Green", "expected": "Ethan Berger"}
+{"prompt": "[INST] Who made their last film appearance in \"The Line\" before their death?  [/INST]", "generated": "Shivaji Satam", "expected": "Angus Cloud"}
+{"prompt": "[INST] Who wrote the screenplay for \"Godless: The Eastfield Exorcism\"?  [/INST]", "generated": "Chris Denham", "expected": "Alexander Angliss-Wilson"}
+{"prompt": "[INST] When did \"Godless: The Eastfield Exorcism\" premiere in the Philippines?  [/INST]", "generated": "On October 18, 2023", "expected": "8 March 2023"}
+{"prompt": "[INST] When was \"Godless: The Eastfield Exorcism\" released on video-on-demand (VOD) and digital platforms in North America?  [/INST]", "generated": "October 17, 2023", "expected": "6 April 2023"}
+{"prompt": "[INST] When was Miss Shetty Mr Polishetty released?  [/INST]", "generated": "2023", "expected": "7 September 2023"}
+{"prompt": "[INST] Who produced Miss Shetty Mr Polishetty?  [/INST]", "generated": "Srinivasaa Chitturi", "expected": "V.Vamsi Krishna Reddy and Pramod Uppalapati"}
+{"prompt": "[INST] Who composed the music for Miss Shetty Mr Polishetty?  [/INST]", "generated": "Sricharan Pakala", "expected": "Radhan (songs) and Gopi Sundar (score)"}
+{"prompt": "[INST] Who handled the editing for Miss Shetty Mr Polishetty?  [/INST]", "generated": "Praveen Anthony", "expected": "Kotagiri.V"}
+{"prompt": "[INST] What genre is Miss Shetty Mr Polishetty?  [/INST]", "generated": "Romantic comedy", "expected": "Romantic comedy"}
+{"prompt": "[INST] In which year was \"Richelieu\" released?  [/INST]", "generated": "2023", "expected": "2023"}
+{"prompt": "[INST] What is the alternate title of \"Richelieu\" in some territories?  [/INST]", "generated": "The Red Queen's Gambit", "expected": "Temporaries"}
+{"prompt": "[INST] What is the role of Ariane in \"Richelieu\"?  [/INST]", "generated": "The Queen Mother", "expected": "Spanish-French translator"}
+{"prompt": "[INST] Who else is in the cast of \"Richelieu\"?  [/INST]", "generated": "Guillaume Gallienne, Jean-Louis Gar\u00e7on, Jean-Michel Noiret, Jean-Pierre Cassel, Jean-Pierre Bacri, Jean-Pierre Bacri, Jean-Pierre Bacri, Jean-Pierre Bacri, Jean-Pierre Bacri, Jean-Pierre Bacri, Jean-Pierre Bacri, Jean-Pierre Bacri, Jean-Pierre Bacri, Jean-Pierre Bacri, Jean-Pierre Bacri, Jean-Pierre Bacri, Jean-Pierre Bacri, Jean-Pierre Bacri, Jean-Pierre Bacri, Jean-Pierre Bacri, Jean-Pierre Bacri, Jean-Pierre Bacri, Jean-Pierre Bacri, Jean-Pierre Bacri, Jean-Pierre Bacri, Jean-Pierre Bacri, Jean-Pierre Bacri, Jean-Pierre Bacri, Jean-Pierre Bacri, Jean-Pierre Bacri, Jean-Pierre Bacri, Jean-Pierre Bacri, Jean-Pierre Bacri, Jean-Pierre Bacri, Jean-Pierre Bacri, Jean-Pierre Bacri, Jean-Pierre Bacri, Jean-Pierre Bacri, Jean-Pierre Bacri, Jean-Pierre Bacri, Jean-Pierre Bacri, Jean-Pierre Bacri, Jean-Pierre Bacri, Jean-Pierre Bacri, Jean-Pierre Bacri, Jean-Pierre Bacri, Jean-Pierre Bacri, Jean-Pierre Bacri, Jean-Pierre Bacri, Jean-Pierre Bacri", "expected": "Nelson Coronado, Micheline Bernard, \u00c8ve Duranceau, Luis Oliva, Gerardo Miranda, Antonio Ortega, \u00c9mile Schneider, Marc Beaupr\u00e9"}
+{"prompt": "[INST] When did \"Richelieu\" have its Canadian premiere?  [/INST]", "generated": "September 15, 2023", "expected": "July"}
+{"prompt": "[INST] When was \"Road King\" released?  [/INST]", "generated": "2023", "expected": "2023"}
+{"prompt": "[INST] Who produced \"Road King\"?  [/INST]", "generated": "Sathish Nair", "expected": "Dilip Kumar H S"}
+{"prompt": "[INST] Who are the main actors in \"Road King\"?  [/INST]", "generated": "Vijay Antony, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srik", "expected": "Mateen Hussain, Rukshar Dhillon"}
+{"prompt": "[INST] What is unique about the direction of \"Road King\"?  [/INST]", "generated": "It is the first Indian film to be shot in 360-degree video", "expected": "Directed entirely through Skype Conference"}
+{"prompt": "[INST] Who directed \"The Chelsea Cowboy\"?  [/INST]", "generated": "Michael J. Rash", "expected": "Ben Cookson"}
+{"prompt": "[INST] When is \"The Chelsea Cowboy\" scheduled for release?  [/INST]", "generated": "2023", "expected": "2023"}
+{"prompt": "[INST] What is the nationality of \"The Chelsea Cowboy\"?  [/INST]", "generated": "American", "expected": "British"}
+{"prompt": "[INST] Who directed \"Bring Him to Me\"?  [/INST]", "generated": "Michael Keaton", "expected": "Luke Sparke"}
+{"prompt": "[INST] What genre is \"Bring Him to Me\"?  [/INST]", "generated": "Psychological thriller", "expected": "Crime thriller"}
+{"prompt": "[INST] When was \"Breakwater\" released?  [/INST]", "generated": "2023", "expected": "2023"}
+{"prompt": "[INST] Who is the lead actor in \"Breakwater\"?  [/INST]", "generated": "Josh Lucas", "expected": "Dermot Mulroney"}
+{"prompt": "[INST] What is the nationality of \"Breakwater\"?  [/INST]", "generated": "American", "expected": "American"}
+{"prompt": "[INST] Who co-wrote the screenplay for \"Killers of the Flower Moon\"?  [/INST]", "generated": "Scott Cooper, Michael Mann, John Lescroart", "expected": "Martin Scorsese and Eric Roth"}
+{"prompt": "[INST] Who are the lead actors in \"Killers of the Flower Moon\"?  [/INST]", "generated": "Leonardo DiCaprio, Lily Gladstone, Robert De Niro, John Lithgow, Brendan Fraser, and Avery Brooks", "expected": "Leonardo DiCaprio, Robert De Niro, and Lily Gladstone"}
+{"prompt": "[INST] Who is the musical partner of Martin Scorsese who passed away before \"Killers of the Flower Moon\"'s release?  [/INST]", "generated": "Robbie Robertson", "expected": "Robbie Robertson"}
+{"prompt": "[INST] Who won the film adaptation rights to the book \"Killers of the Flower Moon\"?  [/INST]", "generated": "Martin Scorsese", "expected": "Imperative Entertainment"}
+{"prompt": "[INST] When was production of \"Killers of the Flower Moon\" expected to begin?  [/INST]", "generated": "2020", "expected": "Early 2018"}
+{"prompt": "[INST] Where did principal photography for \"Killers of the Flower Moon\" take place?  [/INST]", "generated": "Oklahoma, New Mexico, and New York", "expected": "Osage County and Washington County"}
+{"prompt": "[INST] When was \"Killers of the Flower Moon\" released in the United States?  [/INST]", "generated": "April 28, 2023", "expected": "October 20, 2023"}
+{"prompt": "[INST] What is the genre of \"Circle Line\"?  [/INST]", "generated": "Comedy-drama", "expected": "Creature feature"}
+{"prompt": "[INST] Who directed \"Circle Line\"?  [/INST]", "generated": "Chai Yee Wei", "expected": "JD Chua"}
+{"prompt": "[INST] Who directed \"Within Seconds\"?  [/INST]", "generated": "J.T. Mollner", "expected": "Vijesh P. Vijayan"}
+{"prompt": "[INST] When was \"Sister & Sister\" released?  [/INST]", "generated": "2023", "expected": "2023"}
+{"prompt": "[INST] Where is \"Sister & Sister\" set?  [/INST]", "generated": "The fictional town of Pine Valley, Pennsylvania", "expected": "Panama"}
+{"prompt": "[INST] Who are the main stars of \"Sister & Sister\"?  [/INST]", "generated": "Lily James and Shailene Woodley", "expected": "Ariana Chaves Gavil\u00e1n and Cala Rossel Campos"}
+{"prompt": "[INST] Which countries were involved in the co-production of \"Sister & Sister\"?  [/INST]", "generated": "France, Belgium, Luxembourg", "expected": "Panama and Chile"}
+{"prompt": "[INST] Who wrote the screenplay for \"Rustin\"?  [/INST]", "generated": "Dustin Lance Black", "expected": "Julian Breece and Dustin Lance Black"}
+{"prompt": "[INST] Who produced the film \"Rustin\"?  [/INST]", "generated": "Michael B. Jorgensen", "expected": "Barack and Michelle Obama's production company Higher Ground"}
+{"prompt": "[INST] What event does \"Rustin\" focus on?  [/INST]", "generated": "The 1963 March on Washington", "expected": "The 1963 March on Washington"}
+{"prompt": "[INST] When was \"Rustin\" screened at the Toronto International Film Festival?  [/INST]", "generated": "September 10, 2023", "expected": "September 13, 2023"}
+{"prompt": "[INST] When will \"Rustin\" be released for streaming on Netflix?  [/INST]", "generated": "November 17, 2023", "expected": "November 17, 2023"}
+{"prompt": "[INST] When was \"Maurh\" released?  [/INST]", "generated": "2023", "expected": "June 9, 2023"}
+{"prompt": "[INST] Who are the main actors in \"Maurh\"?  [/INST]", "generated": "Siddharth, Shruti Haasan, Varun Tej", "expected": "Ammy Virk, Dev Kharoud, Vikramjeet Virk"}
+{"prompt": "[INST] Who directed \"The Offering\"?  [/INST]", "generated": "Sean King O'Grady", "expected": "Oliver Park"}
+{"prompt": "[INST] Who wrote the story for \"The Offering\"?  [/INST]", "generated": "Michael Peterson", "expected": "Hank Hoffman and Jonathan Yunger"}
+{"prompt": "[INST] Who are the main actors in \"The Offering\"?  [/INST]", "generated": "Kyle Gallner, Hannah Kasulka, Dylan McTee, Emily Hampshire, Stephen McHattie", "expected": "Nick Blood, Emily Wiseman, Allan Corduner, Paul Kaye, Daniel Ben Zenou, Jodie Jacobs"}
+{"prompt": "[INST] What kind of materials were used in \"Joan Baez: I Am a Noise\"?  [/INST]", "generated": "16mm film, 35mm film, 16mm home movies, 8mm home movies, 16mm Kodachrome slides, 35mm Kodachrome slides, 16mm Ektachrome slides, 35mm Ektachrome slides, 16mm Kodak Aerochrome slides, 35mm Kodak Aerochrome slides, 16mm Kodachrome transparencies, 35mm Kodachrome transparencies, 16mm Kodachrome prints, 35mm Kodachrome prints, 16mm Kodachrome negatives, 35mm Kodachrome negatives, 16mm Ektachrome negatives, 35mm Ektachrome negatives, 16mm Kodak Aerochrome negatives, 35mm Kodak Aerochrome negatives, 16mm Kodak CineStill negatives, 35mm Kodak CineStill negatives", "expected": "Newly discovered home movies, artwork, diaries, therapy tapes, and audio recordings"}
+{"prompt": "[INST] Who directed \"I Don't Know Who You Are\"?  [/INST]", "generated": "Alice Rohrwacher", "expected": "M. H. Murray"}
+{"prompt": "[INST] What genre is \"I Don't Know Who You Are\"?  [/INST]", "generated": "Comedy-drama", "expected": "Drama"}
+{"prompt": "[INST] What is Benjamin trying to protect himself from in \"I Don't Know Who You Are\"?  [/INST]", "generated": "His mother", "expected": "HIV"}
+{"prompt": "[INST] In which program did \"I Don't Know Who You Are\" premiere at the Toronto International Film Festival?  [/INST]", "generated": "Industry Selects program", "expected": "Discovery program"}
+{"prompt": "[INST] Who are the lead actors in \"Congratulations\"?  [/INST]", "generated": "Siddharth, Shruti Haasan", "expected": "Sharman Joshi, Manasi Parekh"}
+{"prompt": "[INST] Who distributed \"Congratulations\"?  [/INST]", "generated": "Netflix", "expected": "Rupam Entertainment Pvt. Ltd"}
+{"prompt": "[INST] Who wrote, directed, and produced \"No One Will Save You\"?  [/INST]", "generated": "Alexis Jacknow", "expected": "Brian Duffield"}
+{"prompt": "[INST] What genre is \"No One Will Save You\"?  [/INST]", "generated": "Survival thriller", "expected": "Science fiction horror"}
+{"prompt": "[INST] When did \"No One Will Save You\" open in theaters?  [/INST]", "generated": "September 15, 2023", "expected": "September 19, 2023"}
+{"prompt": "[INST] Which studio released \"No One Will Save You\" as a Hulu original film in the United States?  [/INST]", "generated": "Walt Disney Studios Motion Pictures", "expected": "20th Century Studios"}
+{"prompt": "[INST] Who wrote and directed \"Sevap / Mitzvah\"?  [/INST]", "generated": "Eitan Anner", "expected": "Sabina Vajra\u0107a"}
+{"prompt": "[INST] What is the genre of \"Sevap / Mitzvah\"?  [/INST]", "generated": "Comedy-drama", "expected": "Period drama"}
+{"prompt": "[INST] When did \"Sevap / Mitzvah\" have its world premiere?  [/INST]", "generated": "2023", "expected": "March 30, 2023"}
+{"prompt": "[INST] When was \"Rabia & Olivia\" released?  [/INST]", "generated": "2023", "expected": "2023"}
+{"prompt": "[INST] Who are the main actors in \"Rabia & Olivia\"?  [/INST]", "generated": "Luna Carmoon, Luna Carmoon, Luna Carmoon, Luna Carmoon, Luna Carmoon, Luna Carmoon, Luna Carmoon, Luna Carmoon, Luna Carmoon, Luna Carmoon, Luna Carmoon, Luna Carmoon, Luna Carmoon, Luna Carmoon, Luna Carmoon, Luna Carmoon, Luna Carmoon, Luna Carmoon, Luna Carmoon, Luna Carmoon, Luna Carmoon, Luna Carmoon, Luna Carmoon, Luna Carmoon, Luna Carmoon, Luna Carmoon, Luna Carmoon, Luna Carmoon, Luna Carmoon, Luna Carmoon, Luna Carmoon, Luna Carmoon, Luna Carmoon, Luna Carmoon, Luna Carmoon, Luna Carmoon, Luna Carmoon, Luna Carmoon, Luna Carmoon, Luna Carmoon, Luna Carmoon, Luna Carmoon, Luna Carmoon, Luna Carmoon, Luna Carmoon, Luna Carmoon, Luna Carmoon, Luna Carmoon, Luna Carmoon, Luna Carmoon,", "expected": "Sheeba Chaddha, Nayab Khan, Helena Prizen Klague, Mustafa Sheikh, Shadab Khan"}
+{"prompt": "[INST] Who wrote the screenplay for \"Rabia & Olivia\"?  [/INST]", "generated": "Olivia Rosenthal", "expected": "Shadab Khan"}
+{"prompt": "[INST] Who wrote the story for \"Martin\"?  [/INST]", "generated": "Martin Guigui", "expected": "Arjun Sarja"}
+{"prompt": "[INST] Who are the main actors in \"Martin\"?  [/INST]", "generated": "Colin Morgan, Fionn O'Shea, Aidan Gillen, Ciar\u00e1n Hinds, Aisling Bea, and Cathy Belton", "expected": "Dhruva Sarja, Vaibhavi Shandilya, Anveshi Jain, Sukrutha Wagle, Achyuth Kumar, Nikitin Dheer"}
+{"prompt": "[INST] What is the language of \"Martin\"?  [/INST]", "generated": "English", "expected": "Kannada"}
+{"prompt": "[INST] Who is the director of \"The Boy and the Heron\"?  [/INST]", "generated": "Yoshiyuki Momose", "expected": "Hayao Miyazaki"}
+{"prompt": "[INST] Which studio produced \"The Boy and the Heron\"?  [/INST]", "generated": "Studio Ponoc", "expected": "Studio Ghibli"}
+{"prompt": "[INST] When did official production of \"The Boy and the Heron\" begin?  [/INST]", "generated": "2021", "expected": "May 2017"}
+{"prompt": "[INST] How much of \"The Boy and the Heron\" had been hand-drawn by May 2020?  [/INST]", "generated": "80%", "expected": "36 minutes"}
+{"prompt": "[INST] Who wrote and sang \"The Boy and the Heron\"'s theme song?  [/INST]", "generated": "Yoshiki", "expected": "Kenshi Yonezu"}
+{"prompt": "[INST] Did \"The Boy and the Heron\" have any promotion before its release?  [/INST]", "generated": "No", "expected": "No"}
+{"prompt": "[INST] Who directed the film \"Lubo\"?  [/INST]", "generated": "Dani de la Orden", "expected": "Giorgio Diritti"}
+{"prompt": "[INST] When did \"Lubo\" premiere at the Venice International Film Festival?  [/INST]", "generated": "8 September 2023", "expected": "7 September 2023"}
+{"prompt": "[INST] What genre is \"Lubo\"?  [/INST]", "generated": "Comedy-drama", "expected": "Drama"}
+{"prompt": "[INST] Who came up with the idea for \"Lubo\"?  [/INST]", "generated": "Luk\u00e1\u0161 Pavlata", "expected": "Giorgio Diritti, Fredo Valla, and Tania Pedroni"}
+{"prompt": "[INST] When was \"Legion of Super-Heroes\" released?  [/INST]", "generated": "August 25, 2023", "expected": "February 7, 2023"}
+{"prompt": "[INST] Who distributed \"Legion of Super-Heroes\"?  [/INST]", "generated": "Warner Bros. Themed Entertainment", "expected": "Warner Bros. Home Entertainment"}
+{"prompt": "[INST] Who directed \"Legion of Super-Heroes\"?  [/INST]", "generated": "Jeff Wadlow", "expected": "Jeff Wamester"}
+{"prompt": "[INST] Who are the producers of \"Legion of Super-Heroes\"?  [/INST]", "generated": "J. J. Abrams, Hannah Minghella, Palak Patel", "expected": "Jim Krieg, Kimberly S. Moreau"}
+{"prompt": "[INST] Who is the executive producer of \"Legion of Super-Heroes\"?  [/INST]", "generated": "J. J. Abrams", "expected": "Sam Register"}
+{"prompt": "[INST] What is the genre of \"Infinity\"?  [/INST]", "generated": "Science fiction", "expected": "Crime, thriller"}
+{"prompt": "[INST] Who are the lead actors in \"Infinity\"?  [/INST]", "generated": "Dulquer Salmaan, Ritu Varma, Srikanth, Sai Kumar", "expected": "Natarajan Subramaniam, Vidya Pradeep, Munishkanth, Charles Vinoth"}
+{"prompt": "[INST] Who directed \"Romanticc Tukde\"?  [/INST]", "generated": "Rohit Banawlikar", "expected": "Varadraj Swami"}
+{"prompt": "[INST] Who are the main actors in \"Romanticc Tukde\"?  [/INST]", "generated": "Shriya Pilgaonkar, Shashank Arora, Shivani Raghuvanshi, Shivani Raghuvanshi, Shivani Raghuvanshi, Shivani Raghuvanshi, Shivani Raghuvanshi, Shivani Raghuvanshi, Shivani Raghuvanshi, Shivani Raghuvanshi, Shivani Raghuvanshi, Shivani Raghuvanshi, Shivani Raghuvanshi, Shivani Raghuvanshi, Shivani Raghuvanshi, Shivani Raghuvanshi, Shivani Raghuvanshi, Shivani Raghuvanshi, Shivani Raghuvanshi, Shivani Raghuvanshi, Shivani Raghuvanshi, Shivani Raghuvanshi, Shivani Raghuvanshi, Shivani Raghuvanshi, Shivani Raghuvanshi, Shivani Raghuvanshi, Shivani Raghuvanshi, Shivani Raghuvanshi, Shivani Raghuvanshi, Shivani Raghuvanshi, Shivani Raghuvanshi, Shivani Raghuvanshi, Shivani Raghuvanshi, Shivani Raghuv", "expected": "Pankaj Berry, Nikunj Malik, Brijeshkumar Jha"}
+{"prompt": "[INST] Who directed the film \"Baby\"?  [/INST]", "generated": "Tinu Pappachan", "expected": "Sai Rajesh Neelam"}
+{"prompt": "[INST] In which language was the film \"Baby\" made?  [/INST]", "generated": "Telugu", "expected": "Telugu"}
+{"prompt": "[INST] Who are the lead actors in the film \"Baby\"?  [/INST]", "generated": "Yash, Rashmika Mandanna, Sunil, Ashwini, Shriya Saran", "expected": "Anand Deverakonda and Vaishnavi Chaitanya"}
+{"prompt": "[INST] How was the film \"Baby\" received by critics?  [/INST]", "generated": "Positively", "expected": "Positive reviews"}
+{"prompt": "[INST] Who directed \"The Creator\"?  [/INST]", "generated": "Yoshiyuki Momose", "expected": "Gareth Edwards"}
+{"prompt": "[INST] Who are the main stars in \"The Creator\"?  [/INST]", "generated": "Jake Johnson, Aya Cash, Judy Reyes, Michael Cera, Paul Walter Hauser, and Jason Schwartzman", "expected": "John David Washington, Gemma Chan, Ken Watanabe, Sturgill Simpson, Allison Janney"}
+{"prompt": "[INST] How long after a nuclear detonation and a war against artificial intelligence is \"The Creator\" set?  [/INST]", "generated": "20 years after", "expected": "15 years"}
+{"prompt": "[INST] When was \"The Creator\" officially announced?  [/INST]", "generated": "2021", "expected": "February 2020"}
+{"prompt": "[INST] Where did filming for \"The Creator\" take place?  [/INST]", "generated": "New Jersey", "expected": "Thailand"}
+{"prompt": "[INST] What was the production budget for \"The Creator\"?  [/INST]", "generated": "$100 million", "expected": "$80 million"}
+{"prompt": "[INST] Which studio released \"The Creator\"?  [/INST]", "generated": "Sony Pictures Classics", "expected": "20th Century Studios"}
+{"prompt": "[INST] What was the budget for \"The Creator\"?  [/INST]", "generated": "$100 million", "expected": "$80 million"}
+{"prompt": "[INST] Who produced \"Non Stop Dhamaal\"?  [/INST]", "generated": "Ramesh Taurani and Akshai Puri", "expected": "Triyom Films"}
+{"prompt": "[INST] In which language was \"Non Stop Dhamaal\" made?  [/INST]", "generated": "Hindi", "expected": "Hindi"}
+{"prompt": "[INST] Who directed the film \"Beks Days of Our Lives\"?  [/INST]", "generated": "Dwein Baltazar", "expected": "Chad Kinis"}
+{"prompt": "[INST] Who wrote the story for \"Beks Days of Our Lives\"?  [/INST]", "generated": "J. Kyle Manzay", "expected": "Chad Kinis and Norman Boquiren"}
+{"prompt": "[INST] What genre is \"Beks Days of Our Lives\"?  [/INST]", "generated": "Comedy-drama", "expected": "Drama comedy"}
+{"prompt": "[INST] Who directed \"The Sleeping Woman\"?  [/INST]", "generated": "Pablo Larra\u00edn", "expected": "Laura Alvea"}
+{"prompt": "[INST] What is the original title of \"The Sleeping Woman\" in Spanish?  [/INST]", "generated": "La mujer durmiente", "expected": "La mujer dormida"}
+{"prompt": "[INST] Who directed \"The Sweet East\"?  [/INST]", "generated": "Dane Clark", "expected": "Sean Price Williams"}
+{"prompt": "[INST] Who are the main stars in \"The Sweet East\"?  [/INST]", "generated": "Lily James, Joe Keery, Timothy Spall, Hugh Bonneville, Gemma Jones, and Richard E. Grant", "expected": "Talia Ryder, Earl Cave, Simon Rex, Ayo Edebiri, Jeremy O. Harris, Jacob Elordi, Rish Shah"}
+{"prompt": "[INST] Where did \"The Sweet East\" premiere?  [/INST]", "generated": "2023 Cannes Film Festival", "expected": "Cannes Film Festival"}
+{"prompt": "[INST] When is \"The Sweet East\" scheduled to be released?  [/INST]", "generated": "2023", "expected": "December 1, 2023"}
+{"prompt": "[INST] Who wrote and directed the film \"Missing\"?  [/INST]", "generated": "Christopher McQuarrie", "expected": "Will Merrick, Nick Johnson"}
+{"prompt": "[INST] Who produced the film \"Missing\"?  [/INST]", "generated": "Ramesh Taurani and Akshai Puri", "expected": "Sev Ohanian, Aneesh Chaganty, Natalie Qasabian"}
+{"prompt": "[INST] Which film is \"Missing\" a sequel to?  [/INST]", "generated": "The Disappearance of Shere Hite (2021)", "expected": "Searching (2018)"}
+{"prompt": "[INST] Where was \"Missing\" filmed?  [/INST]", "generated": "New Zealand", "expected": "Los Angeles"}
+{"prompt": "[INST] Who distributed \"Missing\" in the United States?  [/INST]", "generated": "Well Go USA Entertainment", "expected": "Sony Pictures Releasing"}
+{"prompt": "[INST] How was the reception of \"Missing\" by critics?  [/INST]", "generated": "Positive reviews", "expected": "Positive reviews"}
+{"prompt": "[INST] Who produced \"The Eken: Ruddhaswas Rajasthan\"?  [/INST]", "generated": "Ramesh Taurani, Akshai Puri, and Shabinaa Khan", "expected": "Shrikant Mohta and Mahendra Soni"}
+{"prompt": "[INST] Who wrote the screenplay for \"The Eken: Ruddhaswas Rajasthan\"?  [/INST]", "generated": "Shantanu Ray", "expected": "Padmanabha Dasgupta"}
+{"prompt": "[INST] Who wrote \"Luther: The Fallen Sun\"?  [/INST]", "generated": "Neil Cross", "expected": "Neil Cross"}
+{"prompt": "[INST] Who stars as police detective John Luther in \"Luther: The Fallen Sun\"?  [/INST]", "generated": "Idris Elba", "expected": "Idris Elba"}
+{"prompt": "[INST] Who are the other main actors in \"Luther: The Fallen Sun\"?  [/INST]", "generated": "Andy Serkis, Dermot Crowley, Michael Smiley, Cynthia Erivo, Jamie Clayton, and Lewis Hamilton", "expected": "Cynthia Erivo, Andy Serkis"}
+{"prompt": "[INST] When was \"Luther: The Fallen Sun\" released in select cinemas?  [/INST]", "generated": "10 February 2023", "expected": "24 February 2023"}
+{"prompt": "[INST] Who directed \"The Good Mother\"?  [/INST]", "generated": "Niki Caro", "expected": "Miles Joris-Peyrafitte"}
+{"prompt": "[INST] Who are the main stars in \"The Good Mother\"?  [/INST]", "generated": "Jennifer Garner, Annie Murphy, Jason O'Mara, Christopher Denham, Aidan Quinn", "expected": "Hilary Swank, Olivia Cooke, Jack Reynor, Hopper Penn"}
+{"prompt": "[INST] What genre is \"The Good Mother\"?  [/INST]", "generated": "Psychological thriller", "expected": "Crime thriller"}
+{"prompt": "[INST] When was \"The Engineer\" released?  [/INST]", "generated": "2023", "expected": "2023"}
+{"prompt": "[INST] Who directed \"The Engineer\"?  [/INST]", "generated": "Danny A. D'Cruz", "expected": "Danny A. Abeckaser"}
+{"prompt": "[INST] In which language is \"Mummies\" primarily spoken?  [/INST]", "generated": "Arabic", "expected": "English"}
+{"prompt": "[INST] Who directed \"Mummies\"?  [/INST]", "generated": "Ben Stassen and Jeremie Degruson", "expected": "Juan Jes\u00fas Garc\u00eda Galocha"}
+{"prompt": "[INST] When was \"Mummies\" released in Spain?  [/INST]", "generated": "2023", "expected": "February 24, 2023"}
+{"prompt": "[INST] When was the film \"Karungaapiyam\" released?  [/INST]", "generated": "2023", "expected": "19 May 2023"}
+{"prompt": "[INST] Who are the main actors in \"Karungaapiyam\"?  [/INST]", "generated": "Srikanth, Sai Dharam Tej, Sai Pallavi, Priya Bhavani Shankar, Varun Sandesh, Rao Ramesh, Srikanth's father, Srikanth's mother, Srikanth's sister, Srikanth's brother, Srikanth's grandmother, Srikanth's grandfather, Srikanth's uncle, Srikanth's aunt, Srikanth's cousin, Srikanth's cousin's wife, Srikanth's cousin's son, Srikanth's cousin's daughter, Srikanth's cousin's daughter-in-law, Srikanth's cousin's grandson, Srikanth's cousin's granddaughter, Srikanth's cousin's granddaughter's husband, Srikanth's cousin's granddaughter's son, Srikanth's cousin's granddaughter's daughter, Srikanth's cousin's granddaughter's daughter's husband, Srikanth's cousin's granddaughter's daughter's son, Srikanth's cousin's granddaughter's daughter's daughter, Srikanth's cousin's granddaughter's daughter's daughter's husband,", "expected": "Kajal Aggarwal, Regina Cassandra"}
+{"prompt": "[INST] What is the English translation of the film's title \"Karungaapiyam\"?  [/INST]", "generated": "The Light of the Lamp", "expected": "Black novel"}
+{"prompt": "[INST] Who are the lead actors in \"Beginning\"?  [/INST]", "generated": "Kang Ha-neul, Park So-dam, Kim Sang-ho", "expected": "Vinoth Kishan, Gouri Kishan, Rohini"}
+{"prompt": "[INST] When was \"Beginning\" released?  [/INST]", "generated": "2023", "expected": "26 January 2023"}
+{"prompt": "[INST] What is the genre of \"Chidiakhana\"?  [/INST]", "generated": "Coming-of-age drama", "expected": "Coming-of-age sports drama"}
+{"prompt": "[INST] What is the language of \"Chidiakhana\"?  [/INST]", "generated": "Igbo", "expected": "Hindi"}
+{"prompt": "[INST] When was \"Dilkhush\" released?  [/INST]", "generated": "2023", "expected": "2023"}
+{"prompt": "[INST] Who is the producer of \"Dilkhush\"?  [/INST]", "generated": "Ramesh Taurani", "expected": "Shrikant Mohta"}
+{"prompt": "[INST] Who are the main actors in \"Dilkhush\"?  [/INST]", "generated": "Shilpa Shetty, Shamita Shetty, Rajpal Yadav, Sharib Hashmi, Shubham Shetty, and Rohitashv Gaur", "expected": "Paran Bandopadhyay, Anashua Majumdar, Madhumita Sarcar, Soham Majumdar, Kharaj Mukherjee, Aparajita Auddy, Ujan Chatterjee, Aishwarya Sen"}
+{"prompt": "[INST] When is \"Nosso Lar 2: Os Mensageiros\" set to be released?  [/INST]", "generated": "2023", "expected": "2023"}
+{"prompt": "[INST] Who is the main character in \"Nosso Lar 2: Os Mensageiros\"?  [/INST]", "generated": "Jo\u00e3o Pedro Zappa", "expected": "Andr\u00e9 Luiz"}
+{"prompt": "[INST] Who are some of the other actors in \"Nosso Lar 2: Os Mensageiros\"?  [/INST]", "generated": "Paulo Vilhena, Thiago Lacerda, Ana Luiza Rios, Ana Luiza Rios, Ana Luiza Rios, Ana Luiza Rios, Ana Luiza Rios, Ana Luiza Rios, Ana Luiza Rios, Ana Luiza Rios, Ana Luiza Rios, Ana Luiza Rios, Ana Luiza Rios, Ana Luiza Rios, Ana Luiza Rios, Ana Luiza Rios, Ana Luiza Rios, Ana Luiza Rios, Ana Luiza Rios, Ana Luiza Rios, Ana Luiza Rios, Ana Luiza Rios, Ana Luiza Rios, Ana Luiza Rios, Ana Luiza Rios, Ana Luiza Rios, Ana Luiza Rios, Ana Luiza Rios, Ana Luiza Rios, Ana Luiza Rios, Ana Luiza Rios, Ana Luiza Rios, Ana Luiza Rios, Ana Luiza Rios, Ana Luiza Rios, Ana Luiza Rios, Ana Luiza Rios, Ana Luiza Rios, Ana Luiza Rios, Ana Luiza Rios, Ana Luiza Rios, Ana Luiza Rios, Ana Luiza Rios, Ana Luiza Rios, Ana Luiza Rios, Ana Luiza Rios, Ana Luiza Rios, Ana Luiza Rios, Ana Luiza Rios, Ana Luiza Rios,", "expected": "Edson Celulari, Mouhamed Harfouch, Vanessa Gerbelli, Fernanda Rodrigues, F\u00e1bio Lago, Felipe de Carolis"}
+{"prompt": "[INST] Who directed \"All Inclusive\"?  [/INST]", "generated": "Dani de la Orden", "expected": "Ani\u00eblle Webster"}
+{"prompt": "[INST] How many tickets did \"All Inclusive\" sell?  [/INST]", "generated": "1.1 million tickets", "expected": "100,000"}
+{"prompt": "[INST] Who wrote, directed, and produced \"Shot Boot Three\"?  [/INST]", "generated": "Michael J. Bailey", "expected": "Arun Vaidyanathan"}
+{"prompt": "[INST] In which language was \"Shot Boot Three\" made?  [/INST]", "generated": "Telugu", "expected": "Tamil"}
+{"prompt": "[INST] Who are the supporting actors in \"Shot Boot Three\"?  [/INST]", "generated": "Siddharth, Srikanth, Ravi Varma, Srinivasan, R. S. Manohar, Sathish, Sathish Krishnan, Sathish, and others", "expected": "Yogi Babu, Sivaangi Krishnakumar, Poovaiyar, Praniti, Kailash Heet, Vedanth Vasanth"}
+{"prompt": "[INST] Who is the director of \"Sam Bahadur\"?  [/INST]", "generated": "Meghna Gulzar", "expected": "Meghna Gulzar"}
+{"prompt": "[INST] Who is the producer of \"Sam Bahadur\"?  [/INST]", "generated": "Ronnie Screwvala", "expected": "Ronnie Screwvala"}
+{"prompt": "[INST] Who is playing the title role in \"Sam Bahadur\"?  [/INST]", "generated": "Vicky Kaushal", "expected": "Vicky Kaushal"}
+{"prompt": "[INST] What is \"Sam Bahadur\" based on?  [/INST]", "generated": "The 2013 biography of the same name by Sagarika Ghose", "expected": "The life of India's first field marshal, Sam Manekshaw"}
+{"prompt": "[INST] Who are the main actors in \"Cobweb\"?  [/INST]", "generated": "Kyle Gallner, Dylan McDermott, John Malkovich, Sissy Spacek, Emily Hampshire, Dermot Mulroney, and Richard Dreyfuss", "expected": "Song Kang-ho, Im Soo-jung, Oh Jung-se, Jeon Yeo-been, Krystal Jung"}
+{"prompt": "[INST] When was \"Cobweb\" released?  [/INST]", "generated": "2023", "expected": "September 27, 2023"}
+{"prompt": "[INST] Who directed Orchestra Mysuru?  [/INST]", "generated": "S. Kumaaravel", "expected": "Sunil Mysuru"}
+{"prompt": "[INST] Who composed the music for Orchestra Mysuru?  [/INST]", "generated": "Ramesh Babu B.R", "expected": "Raghu Dixit"}
+{"prompt": "[INST] Who directed the film \"Saandrithazh\"?  [/INST]", "generated": "S. K. Muralidharan", "expected": "Nawin Ghanesh"}
+{"prompt": "[INST] When was \"Saandrithazh\" released?  [/INST]", "generated": "2023", "expected": "4 August 2023"}
+{"prompt": "[INST] In what language is \"Shipibos Stories\"?  [/INST]", "generated": "Quechua", "expected": "Shipibo-language"}
+{"prompt": "[INST] When was \"Shipibos Stories\" released?  [/INST]", "generated": "2023", "expected": "2023"}
+{"prompt": "[INST] When was \"The Warrant: Breaker's Law\" released?  [/INST]", "generated": "2023", "expected": "April 2023"}
+{"prompt": "[INST] When was the trailer for \"The Warrant: Breaker's Law\" released?  [/INST]", "generated": "June 2023", "expected": "Early 2023"}
+{"prompt": "[INST] What award was \"The Warrant: Breaker's Law\" nominated for?  [/INST]", "generated": "Best Documentary Short Film", "expected": "Golden Nymph Award"}
+{"prompt": "[INST] Who directed the film \"Dada\"?  [/INST]", "generated": "Anurag Kashyap", "expected": "Ganesh K. Babu"}
+{"prompt": "[INST] What is the genre of the film \"Dada\"?  [/INST]", "generated": "Comedy-drama", "expected": "Coming-of-age romantic comedy drama"}
+{"prompt": "[INST] Who are the supporting actors in the film \"Dada\"?  [/INST]", "generated": "Siddharth Randeria, Rishi Shah, Rushabh Joshi, and others", "expected": "K. Bhagyaraj, Aishwariyaa Bhaskaran, VTV Ganesh"}
+{"prompt": "[INST] How was the film \"Dada\" received by critics?  [/INST]", "generated": "Mixed reviews", "expected": "Positive reviews"}
+{"prompt": "[INST] Who directed \"The Weapon\"?  [/INST]", "generated": "Kim Seong-hoon", "expected": "Tony Schiena"}
+{"prompt": "[INST] What genre is \"The Weapon\"?  [/INST]", "generated": "Action thriller", "expected": "Action thriller"}
+{"prompt": "[INST] Who directed the film \"Toby\"?  [/INST]", "generated": "Michael McKean", "expected": "Basil Alchalakkal"}
+{"prompt": "[INST] Who are the main actors in \"Toby\"?  [/INST]", "generated": "Jake Johnson, Aya Cash, Michael Cera, Judy Reyes, and Judah Lewis", "expected": "Raj B. Shetty, Samyukta Hornad, Chaitra Achar, Raj Deepak Shetty"}
+{"prompt": "[INST] Who handled the cinematography for \"Toby\"?  [/INST]", "generated": "Siddhartha Nuni", "expected": "Praveen Shriyan"}
+{"prompt": "[INST] Where is the film \"Toby\" based?  [/INST]", "generated": "The 2019 novel of the same name by Katherine Applegate", "expected": "Kumta region of Uttara Kannada district in Coastal Karnataka"}
+{"prompt": "[INST] How were the reviews for \"Toby\"?  [/INST]", "generated": "Mixed", "expected": "Highly positive"}
+{"prompt": "[INST] Who directed the film \"Last Wishes\"?  [/INST]", "generated": "Ahmad Alyaseer", "expected": "Joaqu\u00edn Carmona Hidalgo"}
+{"prompt": "[INST] What is the original title of \"Last Wishes\" in Spanish?  [/INST]", "generated": "\u00daltimas voluntades", "expected": "\u00daltimas voluntades"}
+{"prompt": "[INST] When was \"Love Marriage\" released?  [/INST]", "generated": "2023", "expected": "2023"}
+{"prompt": "[INST] Who directed \"Love Marriage\"?  [/INST]", "generated": "Siddharth Malhotra", "expected": "Premendu Bikash Chaki"}
+{"prompt": "[INST] Who are the main actors in \"Love Marriage\"?  [/INST]", "generated": "Saiyami Kher, Anant V Joshi, Shriya Pilgaonkar, Shivani Raghuvanshi, Shivani Raghuvanshi, Shivani Raghuvanshi, Shivani Raghuvanshi, Shivani Raghuvanshi, Shivani Raghuvanshi, Shivani Raghuvanshi, Shivani Raghuvanshi, Shivani Raghuvanshi, Shivani Raghuvanshi, Shivani Raghuvanshi, Shivani Raghuvanshi, Shivani Raghuvanshi, Shivani Raghuvanshi, Shivani Raghuvanshi, Shivani Raghuvanshi, Shivani Raghuvanshi, Shivani Raghuvanshi, Shivani Raghuvanshi, Shivani Raghuvanshi, Shivani Raghuvanshi, Shivani Raghuvanshi, Shivani Raghuvanshi, Shivani Raghuvanshi, Shivani Raghuvanshi, Shivani Raghuvanshi, Shivani Raghuvanshi, Shivani Raghuvanshi, Shivani Raghuvanshi, Shivani Raghuvanshi, Shivani Raghuvanshi,", "expected": "Ranjit Mallick, Ankush Hazra, Oindrila Sen, Aparajita Adhya"}
+{"prompt": "[INST] When was \"Memories\" released?  [/INST]", "generated": "2023", "expected": "2023"}
+{"prompt": "[INST] Who produced \"Memories\"?  [/INST]", "generated": "Rana Daggubati", "expected": "Shijuthameens"}
+{"prompt": "[INST] Who are the lead actors in \"Memories\"?  [/INST]", "generated": "Siddharth, Sai Pallavi, Varun Tej", "expected": "Vetri, Parvathy Arun, Dayyana, and Ramesh Thilak"}
+{"prompt": "[INST] Who directed the film \"Fanfic\"?  [/INST]", "generated": "Tina Satter", "expected": "Marta Karwowska"}
+{"prompt": "[INST] What genre is \"Fanfic\"?  [/INST]", "generated": "Comedy-drama", "expected": "Drama"}
+{"prompt": "[INST] What is the original title of \"Fanfic\" in Polish?  [/INST]", "generated": "Fanfik", "expected": "Fanfik"}
+{"prompt": "[INST] What is the theme of \"Fanfic\"?  [/INST]", "generated": "Fan fiction and the power of storytelling", "expected": "Coming-of-age, LGBT-related"}
+{"prompt": "[INST] When was \"Fanfic\" released internationally on Netflix?  [/INST]", "generated": "15 September 2023", "expected": "17 May 2023"}
+{"prompt": "[INST] Who are the main actors in \"The Ritual Killer\"?  [/INST]", "generated": "John Travolta, Morgan Freeman, Peter Sarsgaard, Famke Janssen, Billy Bob Thornton", "expected": "Cole Hauser, Morgan Freeman"}
+{"prompt": "[INST] What genre is \"The Ritual Killer\"?  [/INST]", "generated": "Crime thriller", "expected": "Action-thriller"}
+{"prompt": "[INST] Who directed \"Earth Mama\"?  [/INST]", "generated": "Nicole Riegel", "expected": "Savanah Leaf"}
+{"prompt": "[INST] When was \"Earth Mama\" released?  [/INST]", "generated": "2023", "expected": "July 7, 2023"}
+{"prompt": "[INST] Who directed the film \"Chang'an\"?  [/INST]", "generated": "Zhang Yimou", "expected": "Xie Junwei, Zou Jing"}
+{"prompt": "[INST] What is the main storyline of \"Chang'an\"?  [/INST]", "generated": "The story of a young woman who is kidnapped and sold into sexual slavery in the Tang Dynasty", "expected": "Decades-long friendship of Li Bai and Gao Shi, Tang dynasty's transition, rebellion led by An Lushan"}
+{"prompt": "[INST] When was \"Chang'an\" premiered in China?  [/INST]", "generated": "22 January 2023", "expected": "8 July 2023"}
+{"prompt": "[INST] How many poems from Tang period poets appeared in \"Chang'an\"?  [/INST]", "generated": "100", "expected": "48 poems"}
+{"prompt": "[INST] Who directed the film \"Americana\"?  [/INST]", "generated": "James Franco", "expected": "Tony Tost"}
+{"prompt": "[INST] What genre is \"Americana\"?  [/INST]", "generated": "Comedy-drama", "expected": "Crime thriller"}
+{"prompt": "[INST] Who directed the film \"Just the Two of Us\"?  [/INST]", "generated": "Jake Johnson", "expected": "Val\u00e9rie Donzelli"}
+{"prompt": "[INST] What is the original title of \"Just the Two of Us\" in French?  [/INST]", "generated": "Juste les deux d'entre nous", "expected": "L'Amour et les For\u00eats"}
+{"prompt": "[INST] When did \"Just the Two of Us\" have its world premiere?  [/INST]", "generated": "September 10, 2023", "expected": "24 May 2023"}
+{"prompt": "[INST] When was \"Just the Two of Us\" theatrically released in France?  [/INST]", "generated": "2023", "expected": "24 May 2023"}
+{"prompt": "[INST] Who is the director of the film \"UI\"?  [/INST]", "generated": "S. S. Rajamouli", "expected": "Upendra"}
+{"prompt": "[INST] Who is the lead actress in \"UI\"?  [/INST]", "generated": "Aishwarya Rajesh", "expected": "Reeshma Nanaiah"}
+{"prompt": "[INST] Who is producing the film \"UI\"?  [/INST]", "generated": "Zee Studios", "expected": "Lahari Films, Venus Enterrtainers"}
+{"prompt": "[INST] Who composed the music for \"UI\"?  [/INST]", "generated": "Siddharth Parashar", "expected": "B. Ajaneesh Loknath"}
+{"prompt": "[INST] Who wrote, directed, and produced \"Love All\"?  [/INST]", "generated": "Lee Byeong-heon", "expected": "Sudhanshu Sharma"}
+{"prompt": "[INST] When was \"Love All\" initially scheduled to be released?  [/INST]", "generated": "2020", "expected": "August 25, 2023"}
+{"prompt": "[INST] Who co-wrote \"Pet Sematary: Bloodlines\"?  [/INST]", "generated": "Jeff Buhler and Matt Greenberg", "expected": "Lindsey Anderson Beer, Jeff Buhler"}
+{"prompt": "[INST] What film does \"Pet Sematary: Bloodlines\" serve as a prequel to?  [/INST]", "generated": "Pet Sematary (2019)", "expected": "Pet Sematary (2019)"}
+{"prompt": "[INST] Who are some of the actors in \"Pet Sematary: Bloodlines\"?  [/INST]", "generated": "Mena Massoud, John Lithgow, Amy Seimetz, Alyssa Diaz, Levi Miller, and others", "expected": "Jackson White, Forrest Goodluck, Jack Mulhern, Henry Thomas, Natalie Alyn Lind, Isabella Star LaBlanc, Samantha Mathis, Pam Grier, David Duchovny"}
+{"prompt": "[INST] Who is the producer of \"Pet Sematary: Bloodlines\"?  [/INST]", "generated": "Jason Blum", "expected": "Lorenzo di Bonaventura"}
+{"prompt": "[INST] Where did \"Pet Sematary: Bloodlines\" premiere?  [/INST]", "generated": "South by Southwest Film Festival", "expected": "Fantastic Fest"}
+{"prompt": "[INST] Where was \"Pet Sematary: Bloodlines\" streamed?  [/INST]", "generated": "Paramount+", "expected": "Paramount+"}
+{"prompt": "[INST] Who wrote and directed the film \"Je\u02b9vida\"?  [/INST]", "generated": "Siddharth P. Kumar", "expected": "Katja Gauriloff"}
+{"prompt": "[INST] How many periods of Je\u02b9vida's life are depicted in the film?  [/INST]", "generated": "Four", "expected": "Three"}
+{"prompt": "[INST] Where did \"Je\u02b9vida\" have its world premiere?  [/INST]", "generated": "73rd Berlin International Film Festival in Berlinale Special Gala", "expected": "Tribeca Festival in New York"}
+{"prompt": "[INST] Who wrote the film \"I.S.S.\"?  [/INST]", "generated": "Michael Lesslie", "expected": "Nick Shafir"}
+{"prompt": "[INST] When did \"I.S.S.\" have its world premiere?  [/INST]", "generated": "18 March 2023", "expected": "June 12, 2023"}
+{"prompt": "[INST] Who produced and distributed \"Princess Principal: Crown Handler \u2013 Chapter 3\" series?  [/INST]", "generated": "Aniplex", "expected": "Produced by Actas and distributed by Showgate"}
+{"prompt": "[INST] Who wrote the script for \"Princess Principal: Crown Handler \u2013 Chapter 3\" series?  [/INST]", "generated": "Noboru Kimura", "expected": "Noboru Kimura"}
+{"prompt": "[INST] How much has \"Princess Principal: Crown Handler \u2013 Chapter 3\" series grossed in Japan?  [/INST]", "generated": "\u00a51.1 billion", "expected": "$1.8 million"}
+{"prompt": "[INST] Who wrote the screenplay for \"The Promised Land\"?  [/INST]", "generated": "Thomas McCarthy", "expected": "Nikolaj Arcel and Anders Thomas Jensen"}
+{"prompt": "[INST] Who else is in the cast of \"The Promised Land\"?  [/INST]", "generated": "Shailene Woodley, Miles Teller, John Malkovich, Jack O'Connell, Colson Baker, Gabrielle Carteris, Nolan Gould, and J. K. Simmons", "expected": "Kristine Kujath Thorp, Gustav Lindh, Jakob Lohmann, Morten Hee Andersen, Magnus Krepper, Felix Kramer"}
+{"prompt": "[INST] Which countries were involved in the co-production of \"The Promised Land\"?  [/INST]", "generated": "France, Belgium, Luxembourg", "expected": "Denmark, Germany, Sweden"}
+{"prompt": "[INST] What award did \"The Promised Land\" compete for at the 80th Venice International Film Festival?  [/INST]", "generated": "Golden Lion", "expected": "Golden Lion"}
+{"prompt": "[INST] Who wrote the screenplay for \"Fast Charlie\"?  [/INST]", "generated": "Scott Rosenberg", "expected": "Richard Wenk"}
+{"prompt": "[INST] Who are the main actors in \"Fast Charlie\"?  [/INST]", "generated": "Jake Johnson, Aya Cash, Judy Reyes, Joel Kim Booster, and Michael Cassidy", "expected": "Pierce Brosnan, James Caan, Morena Baccarin"}
+{"prompt": "[INST] Where did \"Fast Charlie\" premiere?  [/INST]", "generated": "2023 Toronto International Film Festival", "expected": "Mill Valley Film Festival"}
+{"prompt": "[INST] Who directed the film \"Aatmapamphlet\"?  [/INST]", "generated": "Srijit Mukherji", "expected": "Ashish Avinash Bende"}
+{"prompt": "[INST] Who was the cinematographer for \"Aatmapamphlet\"?  [/INST]", "generated": "Siddharth Parashar", "expected": "Satyajit Shobha Sriram"}
+{"prompt": "[INST] In which film festival was \"Aatmapamphlet\" screened?  [/INST]", "generated": "28th Busan International Film Festival", "expected": "73rd Berlin International Film Festival"}
+{"prompt": "[INST] When was the theatrical release date of \"Aatmapamphlet\"?  [/INST]", "generated": "22 September 2023", "expected": "6 October 2023"}
+{"prompt": "[INST] Who produced \"The Primevals\"?  [/INST]", "generated": "Michael Shannon", "expected": "Full Moon Entertainment"}
+{"prompt": "[INST] Who is the lead actress in \"The Primevals\"?  [/INST]", "generated": "Lily James", "expected": "Juliet Mills"}
+{"prompt": "[INST] What kind of project was \"The Primevals\" for David Allen?  [/INST]", "generated": "His feature directorial debut", "expected": "A passion project"}
+{"prompt": "[INST] When was \"Cocaine Shark\" released?  [/INST]", "generated": "2023", "expected": "2023"}
+{"prompt": "[INST] Why was \"Cocaine Shark\" renamed?  [/INST]", "generated": "To avoid confusion with the 2023 film Cocaine Bear", "expected": "To profit from the release of Cocaine Bear"}
+{"prompt": "[INST] Who are the main stars of \"A Good Person\"?  [/INST]", "generated": "Florence Pugh, Andrew Barth Feldman, Molly Shannon, Celeste O'Connor, Christopher Denham, Will Pullen, Michael Gandolfini, and Morgan Freeman", "expected": "Florence Pugh, Molly Shannon, Chinaza Uche, Celeste O'Connor, Morgan Freeman"}
+{"prompt": "[INST] How was the response from critics towards \"A Good Person\"?  [/INST]", "generated": "Mixed reviews", "expected": "Mixed response"}
+{"prompt": "[INST] Who co-wrote the screenplay for \"Rebel Moon\"?  [/INST]", "generated": "Zack Snyder, Kurt Johnstad", "expected": "Kurt Johnstad and Shay Hatten"}
+{"prompt": "[INST] Who are some of the actors in \"Rebel Moon\"?  [/INST]", "generated": "Zoe Salda\u00f1a, Sofia Boutella, Josh Hutcherson, Idris Elba, Ray Fisher, Dominic Monaghan, J.", "expected": "Sofia Boutella, Charlie Hunnam, Michiel Huisman, Djimon Hounsou, Doona Bae, Ray Fisher, Cleopatra Coleman, Jena Malone, Fra Fee, Ed Skrein, and Anthony Hopkins"}
+{"prompt": "[INST] Which production company is releasing \"Rebel Moon\"?  [/INST]", "generated": "Netflix", "expected": "Netflix"}
+{"prompt": "[INST] When is the sequel to \"Rebel Moon\" set to be released?  [/INST]", "generated": "2024", "expected": "April 19, 2024"}
+{"prompt": "[INST] Who produced the film \"Demon\"?  [/INST]", "generated": "Scott Rudin, Eli Bush, Adam McKay, Kevin Messick", "expected": "R. Somasundaram"}
+{"prompt": "[INST] Who are the supporting actors in the film \"Demon\"?  [/INST]", "generated": "Ajay Ghosh, Ajay Singh, Ajay Srivastava, Anil Chaudhary, Anuradha Patel, Anuradha Singh, Anuradha Singh, Anuradha Singh, Anuradha Singh, Anuradha Singh, Anuradha Singh, Anuradha Singh, Anuradha Singh, Anuradha Singh, Anuradha Singh, Anuradha Singh, Anuradha Singh, Anuradha Singh, Anuradha Singh, Anuradha Singh, Anuradha Singh, Anuradha Singh, Anuradha Singh, Anuradha Singh, Anuradha Singh, Anuradha Singh, Anuradha Singh, Anuradha Singh, Anuradha Singh, Anuradha Singh, Anuradha Singh, Anuradha Singh, Anuradha Singh, Anuradha Singh, Anuradha Singh, Anuradha Singh, Anuradha Singh, Anuradha Singh, Anuradha Singh, Anuradha Singh, Anuradha Singh, Anuradha Singh, Anuradha Singh, Anuradha Singh, Anuradha Singh, Anuradha Singh, Anuradha Singh, Anuradha Singh, Anuradha Singh, Anurad", "expected": "Suruthi Periyasamy, Kumki Aswin, Raveena Daha"}
+{"prompt": "[INST] Who handled the cinematography for the film \"Demon\"?  [/INST]", "generated": "Robert Richardson", "expected": "R. S. Anandakumar"}
+{"prompt": "[INST] When was \"Spider-Man: Across the Spider-Verse\" released?  [/INST]", "generated": "June 2, 2023", "expected": "June 2, 2023"}
+{"prompt": "[INST] Who produced \"Spider-Man: Across the Spider-Verse\"?  [/INST]", "generated": "Columbia Pictures, Marvel Entertainment, Sony Pictures Animation, Sony Pictures Imageworks", "expected": "Phil Lord, Christopher Miller"}
+{"prompt": "[INST] Who voices Miles Morales in \"Spider-Man: Across the Spider-Verse\"?  [/INST]", "generated": "Shameik Moore", "expected": "Shameik Moore"}
+{"prompt": "[INST] What is the setting of \"Spider-Man: Across the Spider-Verse\"?  [/INST]", "generated": "An unspecified point in the future of the Marvel Cinematic Universe", "expected": "The Spider-Verse, a shared multiverse of alternate universes"}
+{"prompt": "[INST] Why was the release date of \"Spider-Man: Across the Spider-Verse\" delayed?  [/INST]", "generated": "COVID-19 pandemic", "expected": "Due to the COVID-19 pandemic"}
+{"prompt": "[INST] When was GeGeGe no Kitar\u014d created?  [/INST]", "generated": "1968", "expected": "1960"}
+{"prompt": "[INST] What is the original name of GeGeGe no Kitar\u014d?  [/INST]", "generated": "Kitar\u014d of the Graveyard", "expected": "Hakaba Kitar\u014d"}
+{"prompt": "[INST] Who directed the film \"November\"?  [/INST]", "generated": "Anthony Chen", "expected": "Ali Shifau"}
+{"prompt": "[INST] Which production company is behind the film \"November\"?  [/INST]", "generated": "Amazon Studios", "expected": "Dark Rain Entertainment"}
+{"prompt": "[INST] Who directed \"Poolman\"?  [/INST]", "generated": "Michael Glover Smith", "expected": "Chris Pine"}
+{"prompt": "[INST] Who co-wrote \"Poolman\"?  [/INST]", "generated": "Michael Mohan, Michael J. Maurer", "expected": "Chris Pine"}
+{"prompt": "[INST] When was \"Poolman\" released?  [/INST]", "generated": "2023", "expected": "2023"}
+{"prompt": "[INST] Where did \"Poolman\" premiere?  [/INST]", "generated": "2023 Sundance Film Festival", "expected": "Toronto International Film Festival"}
+{"prompt": "[INST] What is the genre of the film \"Ghost\"?  [/INST]", "generated": "Supernatural horror", "expected": "Heist action thriller"}
+{"prompt": "[INST] Who are the main actors in the film \"Ghost\"?  [/INST]", "generated": "Deepika Padukone, Vikrant Massey, Vijay Sethupathi, Ramya Krishnan", "expected": "Shiva Rajkumar, Jayaram, Anupam Kher, Prashant Narayanan, Satya Prakash, Archana Jois"}
+{"prompt": "[INST] When was the film \"Dasara\" announced?  [/INST]", "generated": "2020", "expected": "October 2021"}
+{"prompt": "[INST] Who composed the soundtrack and film score for \"Dasara\"?  [/INST]", "generated": "Ravi Basrur", "expected": "Santhosh Narayanan"}
+{"prompt": "[INST] Who are the main actors in \"Dasara\"?  [/INST]", "generated": "Nani, Keerthy Suresh, Sai Kumar, Shriya Saran, Samuthirakani, Shatru, Sai Charan, Dheekshith Shetty, Samuthirakani, and others", "expected": "Nani, Keerthy Suresh, Dheekshith Shetty, Shine Tom Chacko, Samuthirakani, Sai Kumar, Shamna Kasim"}
+{"prompt": "[INST] Who wrote \"Diario de un viaje inesperado\"?  [/INST]", "generated": "Jos\u00e9 Ram\u00f3n Alama", "expected": "Paco Alvarez and Antonella Samaniego"}
+{"prompt": "[INST] What genre is \"Diario de un viaje inesperado\"?  [/INST]", "generated": "Road comedy", "expected": "Romantic comedy-drama road movie"}
+{"prompt": "[INST] Who is the writer and director of \"All Your Faces\"?  [/INST]", "generated": "Aaron Schimberg", "expected": "Jeanne Herry"}
+{"prompt": "[INST] What is the original French title of \"All Your Faces\"?  [/INST]", "generated": "Vous tous vos visages", "expected": "Je verrai toujours vos visages"}
+{"prompt": "[INST] Who wrote the screenplay for \"All Your Faces\"?  [/INST]", "generated": "J. D. Dillard, Alex Theurer", "expected": "Jeanne Herry"}
+{"prompt": "[INST] Who is the writer and director of \"T\u00f3tem\"?  [/INST]", "generated": "Carlos Caridad Montero", "expected": "Lila Avil\u00e9s"}
+{"prompt": "[INST] When did \"T\u00f3tem\" have its world premiere?  [/INST]", "generated": "17 February 2023", "expected": "20 February 2023"}
+{"prompt": "[INST] Which countries are involved in the co-production of \"T\u00f3tem\"?  [/INST]", "generated": "Mexico, France, Germany", "expected": "Mexico, Denmark, France"}
+{"prompt": "[INST] Who directed the film \"Jacir\"?  [/INST]", "generated": "Mohamed Diab", "expected": "Waheed AlQawasmi"}
+{"prompt": "[INST] What genre is \"Jacir\"?  [/INST]", "generated": "Coming-of-age drama", "expected": "Drama"}
+{"prompt": "[INST] What is the nationality of the film \"Jacir\"?  [/INST]", "generated": "Palestinian", "expected": "American"}
+{"prompt": "[INST] Who directed \"Wish of the Fairy Fish\"?  [/INST]", "generated": "Yim Soon-rye", "expected": "Alexandr Voytinsky"}
+{"prompt": "[INST] Who played the role of Emelya in \"Wish of the Fairy Fish\"?  [/INST]", "generated": "Mikhail Galustyan", "expected": "Nikita Kologrivy"}
+{"prompt": "[INST] Who played the King in \"Wish of the Fairy Fish\"?  [/INST]", "generated": "Chow Yun-fat", "expected": "Roman Madyanov"}
+{"prompt": "[INST] What are some other roles in \"Wish of the Fairy Fish\"?  [/INST]", "generated": "Actor, producer, screenwriter", "expected": "Alina Alekseeva, Yuri Kolokolnikov, Agrippina Steklova"}
+{"prompt": "[INST] When is the theatrical release date of \"Wish of the Fairy Fish\" in Russia?  [/INST]", "generated": "23 March 2023", "expected": "October 26, 2023"}
+{"prompt": "[INST] Who directed \"Poor Things\"?  [/INST]", "generated": "Joanna Arnow", "expected": "Yorgos Lanthimos"}
+{"prompt": "[INST] Who are the main actors in \"Poor Things\"?  [/INST]", "generated": "Lily James, Willem Dafoe, Richard E. Grant, Paul Mescal, and Cate Blanchett", "expected": "Emma Stone, Mark Ruffalo, Willem Dafoe, Ramy Youssef, Christopher Abbott, Jerrod Carmichael"}
+{"prompt": "[INST] What is the genre of \"Poor Things\"?  [/INST]", "generated": "Comedy-drama", "expected": "Black comedy fantasy"}
+{"prompt": "[INST] When did development on \"Poor Things\" begin?  [/INST]", "generated": "2018", "expected": "As early as 2009"}
+{"prompt": "[INST] When did \"Poor Things\" premiere at the Venice International Film Festival?  [/INST]", "generated": "8 September 2023", "expected": "September 1, 2023"}
+{"prompt": "[INST] When is the theatrical release date for \"Poor Things\" in the United States?  [/INST]", "generated": "October 27, 2023", "expected": "December 8, 2023"}
+{"prompt": "[INST] Who directed the film \"Cat Person\"?  [/INST]", "generated": "Susanna Fogel", "expected": "Susanna Fogel"}
+{"prompt": "[INST] What is \"Cat Person\" based on?  [/INST]", "generated": "The 2017 short story of the same name by Kristen Roupenian", "expected": "The 2017 short story of the same name by Kristen Roupenian"}
+{"prompt": "[INST] When did \"Cat Person\" premiere at the Sundance Film Festival?  [/INST]", "generated": "January 20, 2023", "expected": "January 21, 2023"}
+{"prompt": "[INST] Which production company released \"Cat Person\"?  [/INST]", "generated": "A24", "expected": "Rialto Pictures"}
+{"prompt": "[INST] Who wrote the film \"Kade Dade Diyan Kade Pote Diyan\"?  [/INST]", "generated": "Jagdeep Sidhu", "expected": "Karan Sandhu and Dheeraj Kumar"}
+{"prompt": "[INST] When was \"Kade Dade Diyan Kade Pote Diyan\" released?  [/INST]", "generated": "2023", "expected": "14 July 2023"}
+{"prompt": "[INST] Who produced \"Dhoomam\"?  [/INST]", "generated": "Suresh Babu", "expected": "Vijay Kiragandur"}
+{"prompt": "[INST] What genre does \"Dhoomam\" belong to?  [/INST]", "generated": "Action thriller", "expected": "Action thriller"}
+{"prompt": "[INST] When was \"Dhoomam\" released?  [/INST]", "generated": "2023", "expected": "23 June 2023"}
+{"prompt": "[INST] What was the initial title of \"Dhoomam\"?  [/INST]", "generated": "Dhoomam", "expected": "C10H14N2"}
+{"prompt": "[INST] What is the original title of \"The Man Who Stood in the Way\" in Czech?  [/INST]", "generated": "Ten, kdo st\u00e1l v cest\u011b", "expected": "Mu\u017e, kter\u00fd st\u00e1l v cest\u011b"}
+{"prompt": "[INST] Who is the main focus of \"The Man Who Stood in the Way\"?  [/INST]", "generated": "Juan Per\u00f3n", "expected": "Franti\u0161ek Kriegel"}
+{"prompt": "[INST] Who was originally set to direct \"The Man Who Stood in the Way\"?  [/INST]", "generated": "Pablo Larra\u00edn", "expected": "Ivan F\u00edla"}
+{"prompt": "[INST] When was \"WaaPaKe\" released?  [/INST]", "generated": "2023", "expected": "2023"}
+{"prompt": "[INST] Who provides testimony in \"WaaPaKe\"?  [/INST]", "generated": "Shivaji Rao Gaikwad", "expected": "Jules Arita Koostachin, her mother Rita, and her son Asivak"}
+{"prompt": "[INST] Where did \"WaaPaKe\" premiere?  [/INST]", "generated": "JioCinema", "expected": "Vancouver International Film Festival"}
+{"prompt": "[INST] Who directed \"Peter Pan & Wendy\"?  [/INST]", "generated": "David Lowery", "expected": "David Lowery"}
+{"prompt": "[INST] Who served as the producer for \"Peter Pan & Wendy\"?  [/INST]", "generated": "Walt Disney Pictures", "expected": "Jim Whitaker"}
+{"prompt": "[INST] What is \"Peter Pan & Wendy\" a live-action remake of?  [/INST]", "generated": "The 1953 animated film Peter Pan", "expected": "Walt Disney's 1953 animated feature film Peter Pan"}
+{"prompt": "[INST] Who plays Captain Hook in \"Peter Pan & Wendy\"?  [/INST]", "generated": "Jude Law", "expected": "Jude Law"}
+{"prompt": "[INST] When was \"Peter Pan & Wendy\"'s title announced?  [/INST]", "generated": "April 2021", "expected": "January 7, 2020"}
+{"prompt": "[INST] When did \"Peter Pan & Wendy\" premiere on Disney+?  [/INST]", "generated": "April 28, 2023", "expected": "April 28, 2023"}
+{"prompt": "[INST] When was \"Scrapper\" released?  [/INST]", "generated": "2023", "expected": "25 August 2023"}
+{"prompt": "[INST] Which production companies were involved in making \"Scrapper\"?  [/INST]", "generated": "Amazon Studios, Amazon Prime Original Films", "expected": "BBC Film, BFI, Great Point Media"}
+{"prompt": "[INST] In which film festival did \"Scrapper\" premiere?  [/INST]", "generated": "2023 Sundance Film Festival", "expected": "Sundance Film Festival"}
+{"prompt": "[INST] Who directed \"ONEMANSHOW: The Movie\"?  [/INST]", "generated": "Jake Szymanski", "expected": "Kamil Barto\u0161ek AKA Kazma Kazmitch, Andy Fehu"}
+{"prompt": "[INST] How many viewers did \"ONEMANSHOW: The Movie\" have at the start?  [/INST]", "generated": "1.1 million viewers", "expected": "More than 100,000 viewers"}
+{"prompt": "[INST] Who wrote the screenplay for \"Hidden Strike\"?  [/INST]", "generated": "Zhang Yimou, Yu Feihong, Yu Zheng", "expected": "Arash Amel"}
+{"prompt": "[INST] What is the alternative title for \"Hidden Strike\" in some markets?  [/INST]", "generated": "The Assassin", "expected": "Project X-Traction"}
+{"prompt": "[INST] How was \"Hidden Strike\" released internationally?  [/INST]", "generated": "On Netflix", "expected": "Via Netflix"}
+{"prompt": "[INST] Who directed \"The Animal Kingdom\"?  [/INST]", "generated": "David Mich\u00f4d", "expected": "Thomas Cailley"}
+{"prompt": "[INST] In which year was \"The Animal Kingdom\" released?  [/INST]", "generated": "2023", "expected": "2023"}
+{"prompt": "[INST] In which film festival did \"The Animal Kingdom\" have its world premiere?  [/INST]", "generated": "76th Cannes Film Festival", "expected": "76th Cannes Film Festival"}
+{"prompt": "[INST] In which section of the Cannes Film Festival did \"The Animal Kingdom\" premiere?  [/INST]", "generated": "Un Certain Regard", "expected": "Un Certain Regard"}
+{"prompt": "[INST] What genre does \"The Animal Kingdom\" belong to?  [/INST]", "generated": "Comedy-drama", "expected": "Science fiction adventure"}
+{"prompt": "[INST] Who directed \"Mixed by Erry\"?  [/INST]", "generated": "Erry Fajar", "expected": "Sydney Sibilia"}
+{"prompt": "[INST] What is \"Mixed by Erry\" based on?  [/INST]", "generated": "The 2019 novel of the same name by Yoon Ji-ho", "expected": "Real life events"}
+{"prompt": "[INST] When was the film \"Kannitheevu\" released?  [/INST]", "generated": "2023", "expected": "8 March 2023"}
+{"prompt": "[INST] Which language is the film \"Kannitheevu\" in?  [/INST]", "generated": "Tamil", "expected": "Tamil"}
+{"prompt": "[INST] Who are the supporting actors in the film \"Kannitheevu\"?  [/INST]", "generated": "Srikanth, Sai Dharam Tej, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth, Srikanth,", "expected": "Rajendran, Super Subbarayan, Livingston"}
+{"prompt": "[INST] How was the film \"Kannitheevu\" described prior to its release?  [/INST]", "generated": "As a \"feminist action thriller\"]", "expected": "A \"rare female friendship film\" in Tamil cinema"}
+{"prompt": "[INST] Who directed \"Prom Pact\"?  [/INST]", "generated": "Tosca Musk", "expected": "Anya Adams"}
+{"prompt": "[INST] When did \"Prom Pact\" premiere?  [/INST]", "generated": "April 14, 2023", "expected": "March 30, 2023"}
+{"prompt": "[INST] How was \"Prom Pact\" received by critics?  [/INST]", "generated": "Mixed reviews", "expected": "Generally positive reviews"}
+{"prompt": "[INST] Who is the producer of the film \"Yuva\"?  [/INST]", "generated": "Ramesh Taurani", "expected": "Vijay Kiragandur"}
+{"prompt": "[INST] Who is making his debut in the film \"Yuva\"?  [/INST]", "generated": "Rohit Suresh Thakur", "expected": "Yuva Rajkumar"}
+{"prompt": "[INST] When is the release date of the film \"Yuva\"?  [/INST]", "generated": "2023", "expected": "22 December 2023"}
+{"prompt": "[INST] Who animated \"Eternal Boys\"?  [/INST]", "generated": "Yoshiyuki Momose", "expected": "Liden Films"}
+{"prompt": "[INST] Who wrote \"Eternal Boys\"?  [/INST]", "generated": "Yukiko Motoya", "expected": "Kimiko Ueno"}
+{"prompt": "[INST] When did \"Eternal Boys\" air?  [/INST]", "generated": "2023", "expected": "October 2022 to March 2023"}
+{"prompt": "[INST] Who serialized the manga adaptation of \"Eternal Boys\"?  [/INST]", "generated": "Yoshikazu Yasuhiko", "expected": "Chansana"}
+{"prompt": "[INST] When was the manga adaptation of \"Eternal Boys\" serialized?  [/INST]", "generated": "2018\u20132020", "expected": "April 2022 to July 2023"}
+{"prompt": "[INST] When was the film \"Holiday\" released?  [/INST]", "generated": "2023", "expected": "2023"}
+{"prompt": "[INST] Where did the film \"Holiday\" premiere?  [/INST]", "generated": "2023 Toronto International Film Festival", "expected": "Toronto International Film Festival"}
+{"prompt": "[INST] Who directed the film \"Premadesam\"?  [/INST]", "generated": "S. K. Muralidharan", "expected": "Srikanth Siddham"}
+{"prompt": "[INST] In which language was \"Premadesam\" made?  [/INST]", "generated": "Tamil", "expected": "Telugu"}
+{"prompt": "[INST] Who are the supporting actors in \"Premadesam\"?  [/INST]", "generated": "Senthil, Sathish, Sathyan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, Sathish Krishnan, S", "expected": "Ajay Kathurvar, Maya, Madhubala, Shiva Ramachandra"}
+{"prompt": "[INST] Who is the director of the film \"Animal\"?  [/INST]", "generated": "David J. Stieve", "expected": "Sandeep Reddy Vanga"}
+{"prompt": "[INST] Who are the main actors in the film \"Animal\"?  [/INST]", "generated": "Joaquin Phoenix, Robert De Niro, Zazie Beetz, Frances Conroy, Brett Cullen, Edie Falco, Moises Arias, Chloe Coleman, Gabriel LaBelle, Cara Delevingne, and John Turturro", "expected": "Ranbir Kapoor, Anil Kapoor, Bobby Deol, Rashmika Mandanna, Tripti Dimri"}
+{"prompt": "[INST] Who is the production designer of the film \"Animal\"?  [/INST]", "generated": "Shabnam Sabwani", "expected": "Suresh Selvarajan"}
+{"prompt": "[INST] Why was the release date of the film \"Animal\" pushed?  [/INST]", "generated": "COVID-19 pandemic", "expected": "Extensive post-production work"}
+{"prompt": "[INST] Who directed \"Born to Fly\"?  [/INST]", "generated": "Sean McNamara", "expected": "Liu Xiaoshi"}
+{"prompt": "[INST] Who are the main stars in \"Born to Fly\"?  [/INST]", "generated": "Diane Kruger, Mila Kunis, Jennifer Coolidge, Matthew Modine, and Sean Penn", "expected": "Wang Yibo, Hu Jun, Yu Shi, Zhou Dongyu"}
+{"prompt": "[INST] What is the setting of \"Born to Fly\"?  [/INST]", "generated": "The 1930s", "expected": "People's Liberation Army Air Force"}
+{"prompt": "[INST] Who directed the film \"Photophobia\"?  [/INST]", "generated": "Dane Clark", "expected": "Ivan Ostrochovsk\u00fd, Pavol Pekar\u010d\u00edk"}
+{"prompt": "[INST] In which sidebar did \"Photophobia\" premiere at the Venice International Film Festival?  [/INST]", "generated": "Giornate degli Autori section", "expected": "Giornate degli Autori"}
+{"prompt": "[INST] Which countries were involved in the co-production of \"Photophobia\"?  [/INST]", "generated": "France, Belgium, Luxembourg", "expected": "Slovakia, Czech Republic, Ukraine"}
+{"prompt": "[INST] During what event was \"Photophobia\" shot in Ukraine?  [/INST]", "generated": "Russian invasion of Ukraine", "expected": "Russian invasion"}
+{"prompt": "[INST] Who is the director of the film \"Napoleon\"?  [/INST]", "generated": "Ridley Scott", "expected": "Ridley Scott"}
+{"prompt": "[INST] Who is the writer of the film \"Napoleon\"?  [/INST]", "generated": "Josh O'Connor", "expected": "David Scarpa"}
+{"prompt": "[INST] What is the film \"Napoleon\" based on?  [/INST]", "generated": "The 2002 biography Napoleon: A Life by Andrew Roberts", "expected": "True story of Napoleon Bonaparte"}
+{"prompt": "[INST] Who is also a producer of the film \"Napoleon\"?  [/INST]", "generated": "Ridley Scott", "expected": "Joaquin Phoenix"}
+{"prompt": "[INST] When is the release date of the film \"Napoleon\" in the United States and the United Kingdom?  [/INST]", "generated": "22 September 2023", "expected": "November 22, 2023"}
+{"prompt": "[INST] Where will the film \"Napoleon\" be available for streaming?  [/INST]", "generated": "Apple TV+", "expected": "Apple TV+"}
+{"prompt": "[INST] Who wrote \"Upon Open Sky\"?  [/INST]", "generated": "Jake Wachtel", "expected": "Guillermo Arriaga"}
+{"prompt": "[INST] Where did \"Upon Open Sky\" premiere?  [/INST]", "generated": "73rd Berlin International Film Festival", "expected": "80th edition of the Venice Film Festival"}
+{"prompt": "[INST] Who wrote \"Late Bloomers\"?  [/INST]", "generated": "Sharon Horgan and Dennis Kelly", "expected": "Anna Greenfield"}
+{"prompt": "[INST] Where was \"Late Bloomers\" filmed?  [/INST]", "generated": "New Zealand", "expected": "New York"}
+{"prompt": "[INST] At which festival was \"Late Bloomers\" shown?  [/INST]", "generated": "73rd Berlin International Film Festival", "expected": "SXSW Festival"}
+{"prompt": "[INST] When was the film \"Unicorns\" released?  [/INST]", "generated": "2023", "expected": "2023"}
+{"prompt": "[INST] What is Luke's profession in the film \"Unicorns\"?  [/INST]", "generated": "Musician", "expected": "mechanic"}
+{"prompt": "[INST] Where is \"Unicorns\" a coproduction of?  [/INST]", "generated": "France, Belgium, Luxembourg", "expected": "United Kingdom, United States, Sweden"}
+{"prompt": "[INST] What is James Krishna Floyd's role in the film \"Unicorns\"?  [/INST]", "generated": "The role of a police officer", "expected": "director"}
+{"prompt": "[INST] In which program did \"Unicorns\" premiere at the 2023 Toronto International Film Festival?  [/INST]", "generated": "Industry Selects program", "expected": "Special Presentations program"}
+{"prompt": "[INST] Who is the writer of \"Abraham Ozler\"?  [/INST]", "generated": "Eyal Rimmon", "expected": "Randheer Krishnan"}
+{"prompt": "[INST] Who are some of the other actors in \"Abraham Ozler\"?  [/INST]", "generated": "Shira Haas, Lior Ashkenazi, Efrat Ben Zur, Shmulik Cohen, Shlomi Elkabetz, Shmulik Cohen, Shmulik Cohen, Shmulik Cohen, Shmulik Cohen, Shmulik Cohen, Shmulik Cohen, Shmulik Cohen, Shmulik Cohen, Shmulik Cohen, Shmulik Cohen, Shmulik Cohen, Shmulik Cohen, Shmulik Cohen, Shmulik Cohen, Shmulik Cohen, Shmulik Cohen, Shmulik Cohen, Shmulik Cohen, Shmulik Cohen, Shmulik Cohen, Shmulik Cohen, Shmulik Cohen, Shmulik Cohen, Shmulik Cohen, Shmulik Cohen, Shmulik Cohen, Shmulik Cohen, Shmulik Cohen, Shmulik Cohen, Shmulik Cohen, Shmulik Cohen, Shmulik Cohen, Shmulik Cohen, Shmulik Cohen, Shmulik Cohen, Shmulik Cohen, Shmulik Cohen, Shmulik Cohen, Shmulik Cohen, Shmulik Cohen, Shmulik Cohen, Shmulik Cohen, Shmulik Cohen, Shmulik Cohen, Shmulik Cohen", "expected": "Anaswara Rajan, Arjun Ashokan, Senthil Krishna, Arya Salim, Anoop Menon, Jagadish, Dileesh Pothan"}
+{"prompt": "[INST] Who was the cinematographer for \"Abraham Ozler\"?  [/INST]", "generated": "Dani Rosenberg", "expected": "Theni Eswar"}
+{"prompt": "[INST] Who directed the film \"Chithha\"?  [/INST]", "generated": "Vishnu Dev", "expected": "S. U. Arun Kumar"}
+{"prompt": "[INST] Who are the lead actors in \"Chithha\"?  [/INST]", "generated": "Vijay Antony, Aishwarya Rajesh, Srikanth", "expected": "Siddharth, Nimisha Sajayan, Sahasra Shree"}
+{"prompt": "[INST] What genre does \"Chithha\" belong to?  [/INST]", "generated": "Romantic drama", "expected": "Drama, thriller"}
+{"prompt": "[INST] In which year was \"Lakadbaggha\" released?  [/INST]", "generated": "2023", "expected": "2023"}
+{"prompt": "[INST] Who produced \"Lakadbaggha\"?  [/INST]", "generated": "Zee Studios and Anandita Studios", "expected": "First Ray Films"}
+{"prompt": "[INST] Who wrote the screenplay for \"Lakadbaggha\"?  [/INST]", "generated": "Shashank Khaitan", "expected": "Alok Sharma"}
+{"prompt": "[INST] When was the theatrical release of \"Lakadbaggha\"?  [/INST]", "generated": "20 October 2023", "expected": "January 2023"}
+{"prompt": "[INST] When did \"Lakadbaggha\" have its world premiere?  [/INST]", "generated": "19 August 2023", "expected": "21 December 2022"}
+{"prompt": "[INST] When did \"Lakadbaggha\" have its international premiere?  [/INST]", "generated": "2023 Cannes Film Festival", "expected": "28 December 2022"}
+{"prompt": "[INST] What was \"Lakadbaggha\"'s European premiere?  [/INST]", "generated": "73rd Berlin International Film Festival", "expected": "Official selection at the 20th Indisches International Film Festival"}
+{"prompt": "[INST] Who is the director of \"Nango Gau\"?  [/INST]", "generated": "Siddharth Kumar Tiwary", "expected": "Dipendra Lama"}
+{"prompt": "[INST] When was \"Nango Gau\" released?  [/INST]", "generated": "2023", "expected": "September 15, 2023"}
+{"prompt": "[INST] What is the language of \"Nango Gau\"?  [/INST]", "generated": "Marathi", "expected": "Nepali"}
+{"prompt": "[INST] Who are the main actors in \"Puppy Love\"?  [/INST]", "generated": "Alyssa Milano, Dermot Mulroney, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula, Dylan Gelula", "expected": "Lucy Hale, Grant Gustin"}
+{"prompt": "[INST] Where was \"Puppy Love\" released?  [/INST]", "generated": "Netflix", "expected": "Amazon Freevee"}
+{"prompt": "[INST] Who produced \"Ennalum Ente Aliya\"?  [/INST]", "generated": "Sree Gokulam Movies", "expected": "Listin Stephen"}
+{"prompt": "[INST] Who are the lead actors in \"Ennalum Ente Aliya\"?  [/INST]", "generated": "Vijay Babu, Anu Sithara, Arya Salim, Arya Salim, Arya Salim, Arya Salim, Arya Salim, Arya Salim, Arya Salim, Arya Salim, Arya Salim, Arya Salim, Arya Salim, Arya Salim, Arya Salim, Arya Salim, Arya Salim, Arya Salim, Arya Salim, Arya Salim, Arya Salim, Arya Salim, Arya Salim, Arya Salim, Arya Salim, Arya Salim, Arya Salim, Arya Salim, Arya Salim, Arya Salim, Arya Salim, Arya Salim, Arya Salim, Arya Salim, Arya Salim, Arya Salim, Arya Salim, Arya Salim, Arya Salim, Arya Salim, Arya Salim, Arya Salim, Arya Salim, Arya Salim, Arya Salim, Arya Salim, Arya Salim, Arya Salim, Arya Salim, Arya Salim,", "expected": "Suraj Venjaramoodu, Gayatri Arun, Siddique, Lenaa"}
+{"prompt": "[INST] Who directed \"Barbie: Skipper and the Big Babysitting Adventure\"?  [/INST]", "generated": "Conrad Helten", "expected": "Steve Daye"}
+{"prompt": "[INST] When did \"Barbie: Skipper and the Big Babysitting Adventure\" premiere in the United States?  [/INST]", "generated": "July 14, 2023", "expected": "16 March"}
+{"prompt": "[INST] Who is Skipper's rival in \"Barbie: Skipper and the Big Babysitting Adventure\"?  [/INST]", "generated": "Barbie", "expected": "Tammy Bounceaway"}
+{"prompt": "[INST] When did \"Barbie: Skipper and the Big Babysitting Adventure\" air in the UK and Ireland?  [/INST]", "generated": "25 March 2023", "expected": "2 April"}
+{"prompt": "[INST] Which retailer released \"Barbie: Skipper and the Big Babysitting Adventure\" in Germany?  [/INST]", "generated": "Amazon Prime Video", "expected": "Weltbild"}
+{"prompt": "[INST] Who is the director of Mechamato Movie?  [/INST]", "generated": "Srijit Mukherji", "expected": "Nizam Razak"}
+{"prompt": "[INST] When was Mechamato Movie initially announced for release?  [/INST]", "generated": "2020", "expected": "2021"}
+{"prompt": "[INST] What was released before Mechamato Movie?  [/INST]", "generated": "Mechamato: The Movie (2023)", "expected": "The animated series Mechamato: The Animated Series"}
+{"prompt": "[INST] Where has Mechamato Movie been released?  [/INST]", "generated": "Amazon Prime Video", "expected": "Malaysia and Brunei"}
+{"prompt": "[INST] Who directed \"Hollywoodgate\"?  [/INST]", "generated": "Dinesh Kumaran", "expected": "Ibrahim Nash'at"}
+{"prompt": "[INST] Where did \"Hollywoodgate\" premiere?  [/INST]", "generated": "2023 Cannes Film Festival", "expected": "Venice Film Festival"}
+{"prompt": "[INST] What type of film is \"Hollywoodgate\"?  [/INST]", "generated": "Satirical black comedy", "expected": "Documentary"}
+{"prompt": "[INST] Who wrote \"Hollywoodgate\"?  [/INST]", "generated": "Ajith Vijayan", "expected": "Ibrahim Nash'at"}
+{"prompt": "[INST] Who directed \"The Road\"?  [/INST]", "generated": "David F. Macomber", "expected": "Arun Vaseegaran"}
+{"prompt": "[INST] Who are the main actors in \"The Road\"?  [/INST]", "generated": "Michael Fassbender, Katherine Waterston, Michael Shannon, Gretchen Mol, Sean Penn", "expected": "Trisha, Shabeer, Santhosh Prathap"}
+{"prompt": "[INST] What genre does \"The Road\" belong to?  [/INST]", "generated": "Post-apocalyptic drama", "expected": "Crime thriller"}
+{"prompt": "[INST] When was \"14+: Continued\" released?  [/INST]", "generated": "2023", "expected": "2023"}
+{"prompt": "[INST] What is the title of the prequel to \"14+: Continued\"?  [/INST]", "generated": "14+: Continued - The Prequel", "expected": "14+"}
+{"prompt": "[INST] In which year was \"Sirf Ek Bandaa Kaafi Hai\" released?  [/INST]", "generated": "2023", "expected": "2023"}
+{"prompt": "[INST] Who directed \"Sirf Ek Bandaa Kaafi Hai\"?  [/INST]", "generated": "Rohit Shetty", "expected": "Apoorv Singh Karki"}
+{"prompt": "[INST] Who is the lead actor in \"Sirf Ek Bandaa Kaafi Hai\"?  [/INST]", "generated": "Rajeev Khandelwal", "expected": "Manoj Bajpayee"}
+{"prompt": "[INST] Who directed the film \"Tamilarasan\"?  [/INST]", "generated": "Vijay Antony", "expected": "Babu Yogeswaran"}
+{"prompt": "[INST] Who are the main actors in \"Tamilarasan\"?  [/INST]", "generated": "Vijay Antony, Aishwarya Rajesh, Srikanth, Yogi Babu, Sathish, and others", "expected": "Vijay Antony, Suresh Gopi, Sonu Sood, Sangeetha"}
+{"prompt": "[INST] What film inspired \"Tamilarasan\"?  [/INST]", "generated": "Vedalam", "expected": "Nick Cassavetes' 2002 film John Q"}
+{"prompt": "[INST] When is \"Tamilarasan\" scheduled to be released on the OTT platform ZEE5?  [/INST]", "generated": "24 February 2023", "expected": "June 16, 2023"}
+{"prompt": "[INST] Who directed the film \"Ramabanam\"?  [/INST]", "generated": "Srikanth Odela", "expected": "Sriwass"}
+{"prompt": "[INST] Who are the main actors in \"Ramabanam\"?  [/INST]", "generated": "Nani, Sai Pallavi, Varun Tej, Samuthirakani, Murali Sharma, Sunil, Rao Ramesh, Brahmaji, and others", "expected": "Gopichand, Dimple Hayathi, Jagapathi Babu, Nassar, Vennela Kishore, Tarun Arora, Sachin Khedekar"}
+{"prompt": "[INST] When was \"Ramabanam\" released?  [/INST]", "generated": "2023", "expected": "5 May 2023"}
+{"prompt": "[INST] How did \"Ramabanam\" perform at the box office?  [/INST]", "generated": "Commercially successful", "expected": "Bombed"}
+{"prompt": "[INST] Who wrote the screenplay for \"Desperation Road\"?  [/INST]", "generated": "Michael J. Maurer", "expected": "Michael Farris Smith"}
+{"prompt": "[INST] Who are the main actors in \"Desperation Road\"?  [/INST]", "generated": "Thomas Jane, John Travolta, Toby Wallace, Kyle Gallner, Harriet Sansom Harris, Dylan Schmid, Dermot Mulroney, and Kiefer Sutherland", "expected": "Garrett Hedlund, Mel Gibson"}
+{"prompt": "[INST] Who directed \"Peddha Kapu 1\"?  [/INST]", "generated": "Srinivasu Kodali", "expected": "Srikanth Addala"}
+{"prompt": "[INST] In which language was \"Peddha Kapu 1\" made?  [/INST]", "generated": "Telugu", "expected": "Telugu"}
+{"prompt": "[INST] Which production company made \"Peddha Kapu 1\"?  [/INST]", "generated": "Zee Studios", "expected": "Dwaraka Creations"}
+{"prompt": "[INST] Who are the supporting actors in \"Peddha Kapu 1\"?  [/INST]", "generated": "Srikanth, Srinivas Avasarala, Sangeeth Shobhan, Sai Charan, Sai Prasanna, Sai Ronak, Sai Prasanna, Sai Charan, Sai Prasanna, Sai Charan, Sai Prasanna, Sai Charan, Sai Prasanna, Sai Charan, Sai Prasanna, Sai Charan, Sai Prasanna, Sai Charan, Sai Prasanna, Sai Charan, Sai Prasanna, Sai Charan, Sai Prasanna, Sai Charan, Sai Prasanna, Sai Charan, Sai Prasanna, Sai Charan, Sai Prasanna, Sai Charan, Sai Prasanna, Sai Charan, Sai Prasanna, Sai Charan, Sai Prasanna, Sai Charan, Sai Prasanna, Sai Charan, Sai Prasanna, Sai Charan, Sai Prasanna, Sai Charan, Sai Prasanna, Sai Charan, Sai Prasanna, Sai Charan, Sai Prasanna, Sai Charan, Sai Prasanna, Sai Charan, Sai Prasanna, Sai Charan, Sai Prasanna, Sai Charan, S", "expected": "Rao Ramesh and Tanikella Bharani"}
+{"prompt": "[INST] Who are the main actors in \"Junglemahal: The Awakening\"?  [/INST]", "generated": "Rohit Vikkram, Shivani Surve, Shivani Surve, Shivani Surve, Shivani Surve, Shivani Surve, Shivani Surve, Shivani Surve, Shivani Surve, Shivani Surve, Shivani Surve, Shivani Surve, Shivani Surve, Shivani Surve, Shivani Surve, Shivani Surve, Shivani Surve, Shivani Surve, Shivani Surve, Shivani Surve, Shivani Surve, Shivani Surve, Shivani Surve, Shivani Surve, Shivani Surve, Shivani Surve, Shivani Surve, Shivani Surve, Shivani Surve, Shivani Surve, Shivani Surve, Shivani Surve, Shivani Surve, Shivani Surve, Shivani Surve, Shivani Surve, Shivani Surve, Shivani Surve, Shivani Surve, Shivani Surve, Shivani Surve, Shivani Surve, Shivani Surve, Shivani Surve, Shivani Surve, Shivani Surve, Shivani Surve, Shivani Surve, Shivani Surve, Shivani Surve", "expected": "Masoomeh Ab, Amit Raina, Aditya Baliyan, Suraiya Parvin"}
+{"prompt": "[INST] Who directed \"Pretty Baby: Brooke Shields\"?  [/INST]", "generated": "Errol Morris", "expected": "Lana Wilson"}
+{"prompt": "[INST] What is the format of \"Pretty Baby: Brooke Shields\"?  [/INST]", "generated": "Documentary", "expected": "Two-part documentary"}
+{"prompt": "[INST] Who directed the film \"Pentagon\"?  [/INST]", "generated": "Kim Seong-hoon", "expected": "Chandra Mohan, Akash Srivatsa, Raghu Shivamogga, Kiran Kumar, Guru Deshpande"}
+{"prompt": "[INST] What is the genre of \"Pentagon\"?  [/INST]", "generated": "Action thriller", "expected": "Anthology drama"}
+{"prompt": "[INST] In which language is \"Pentagon\" made?  [/INST]", "generated": "Telugu", "expected": "Kannada"}
+{"prompt": "[INST] Who wrote the screenplay for \"Tumse Na Ho Payega\"?  [/INST]", "generated": "Shashank Kumar", "expected": "Nitesh Tiwari, Nikhil Mehrotra, Varun Agarwal"}
+{"prompt": "[INST] Who are the lead actors in \"Tumse Na Ho Payega\"?  [/INST]", "generated": "Nawazuddin Siddiqui, Sanya Malhotra, Raghubir Yadav", "expected": "Ishwak Singh, Mahima Makwana, Gaurav Pandey, Gurpreet Saini, Karan Jotwani"}
+{"prompt": "[INST] Where was the film \"Tumse Na Ho Payega\" released?  [/INST]", "generated": "Netflix", "expected": "Disney+ Hotstar"}
+{"prompt": "[INST] Who is featured in Plandemic?  [/INST]", "generated": "Judy Mikovits, David Martin, Mikki Willis", "expected": "Judy Mikovits, a discredited American researcher described as an anti-vaccine activist"}
+{"prompt": "[INST] Who released the second film of Plandemic?  [/INST]", "generated": "Mikki Willis", "expected": "Brian Rose's conspiracy distributor London Real"}
+{"prompt": "[INST] Where was the third film of Plandemic released?  [/INST]", "generated": "YouTube", "expected": "The Highwire, a conspiracy website run by anti-vaccine activist Del Bigtree"}
+{"prompt": "[INST] Who directed the film \"Sing Sing\"?  [/INST]", "generated": "Benny Boom", "expected": "Greg Kwedar"}
+{"prompt": "[INST] What is the film \"Sing Sing\" based on?  [/INST]", "generated": "The 2016 French film Sing Me a Song by Koen Mortier", "expected": "Rehabilitation Through the Arts program at Sing Sing maximum security prison"}
+{"prompt": "[INST] Who are the professional actors in the cast of \"Sing Sing\"?  [/INST]", "generated": "Siddharth, Srikanth, Sai Kumar, Rao Ramesh, Srikanth Iyengar, Sangeeth Shobhan, Srinivas Avasarala, Sai Charan, and others", "expected": "Colman Domingo, Paul Raci"}
+{"prompt": "[INST] Who directed \"Run Baby Run\"?  [/INST]", "generated": "Siddharth P. Kumar", "expected": "Jiyen Krishnakumar"}
+{"prompt": "[INST] What is the genre of \"Run Baby Run\"?  [/INST]", "generated": "Action thriller", "expected": "Action thriller"}
+{"prompt": "[INST] How was \"Run Baby Run\" received by critics?  [/INST]", "generated": "Mixed reviews", "expected": "Positive reviews"}
+{"prompt": "[INST] Who wrote the screenplay for \"Run Baby Run\"?  [/INST]", "generated": "Danny King", "expected": "Jiyen Krishnakumar"}
+{"prompt": "[INST] Who wrote and directed the film \"Paint\"?  [/INST]", "generated": "Brittany Snow", "expected": "Brit McAdams"}
+{"prompt": "[INST] When was \"Paint\" released in the United States?  [/INST]", "generated": "September 16, 2023", "expected": "April 7, 2023"}
+{"prompt": "[INST] Who directed \"The Portable Door\"?  [/INST]", "generated": "John McPhail", "expected": "Jeffrey Walker"}
+{"prompt": "[INST] What is the genre of \"The Portable Door\"?  [/INST]", "generated": "Fantasy, adventure", "expected": "Fantasy, adventure, comedy"}
+{"prompt": "[INST] Which production companies were involved in making \"The Portable Door\"?  [/INST]", "generated": "Amazon Studios, Amazon Prime Original Movies", "expected": "The Jim Henson Company, Story Bridge Films"}
+{"prompt": "[INST] When did \"The Portable Door\" start streaming on Stan?  [/INST]", "generated": "16 February 2023", "expected": "7 April 2023"}
+{"prompt": "[INST] Who wrote and directed the film \"Kalhaki\"?  [/INST]", "generated": "Siddharth P. Kumar", "expected": "Yoosuf Shafeeu"}
+{"prompt": "[INST] When was the film \"Kalhaki\" released?  [/INST]", "generated": "2023", "expected": "7 October 2023"}
+{"prompt": "[INST] Who are the main actors in the film \"Kalhaki\"?  [/INST]", "generated": "Siddharth, Sai Pallavi, Varun Tej, Naveen Chandra, Priya Vadlamani", "expected": "Yoosuf Shafeeu, Ali Seezan, Mohamed Manik, Aminath Rishfa, Washiya Mohamed, Aishath Lahufa"}
+{"prompt": "[INST] Who directed and produced \"The Mission\"?  [/INST]", "generated": "Robert Rodriguez", "expected": "Amanda McBaine, Jesse Moss"}
+{"prompt": "[INST] When did \"The Mission\" have its world premiere?  [/INST]", "generated": "17 February 2023", "expected": "August 31, 2023"}
+{"prompt": "[INST] When was \"The Mission\" released?  [/INST]", "generated": "2023", "expected": "October 13, 2023"}
+{"prompt": "[INST] Who directed \"My Extinction\"?  [/INST]", "generated": "Lola Quivoron", "expected": "Josh Appignanesi"}
+{"prompt": "[INST] What genre does \"My Extinction\" belong to?  [/INST]", "generated": "Science fiction, romantic drama", "expected": "Documentary"}
+{"prompt": "[INST] Who is the director of \"Jokaru\"?  [/INST]", "generated": "Siddharth Rao", "expected": "Yoosuf Shafeeu"}
+{"prompt": "[INST] When is \"Jokaru\" scheduled to be released?  [/INST]", "generated": "2023", "expected": "5 September 2023"}
+{"prompt": "[INST] Who are the main actors in \"Jokaru\"?  [/INST]", "generated": "Siddharth Randeria, Sonali Lele Desai, Rushabh Joshi, Rushabh Rajani", "expected": "Ahmed Nimal, Sheela Najeeb, Ahmed Saeed, Ali Azim, Nashidha Mohamed"}
+{"prompt": "[INST] What is the year of release for \"Jokaru\"?  [/INST]", "generated": "2023", "expected": "2023"}
+{"prompt": "[INST] When was \"Mob Land\" released?  [/INST]", "generated": "2023", "expected": "August 4, 2023"}
+{"prompt": "[INST] Who are the main actors in \"Mob Land\"?  [/INST]", "generated": "Aaron Eckhart, Seann William Scott, Paul Ben-Victor, Michael Rispoli, Vincent Laresca, Michael Rapaport, and Vincent Pastore", "expected": "Shiloh Fernandez, Stephen Dorff, Ashley Benson, Kevin Dillon, John Travolta"}
+{"prompt": "[INST] Who directed \"The Caine Mutiny Court-Martial\"?  [/INST]", "generated": "Billy Wilder", "expected": "William Friedkin"}
+{"prompt": "[INST] What is the genre of \"The Caine Mutiny Court-Martial\"?  [/INST]", "generated": "Legal drama", "expected": "Legal drama"}
+{"prompt": "[INST] Where did \"The Caine Mutiny Court-Martial\" premiere?  [/INST]", "generated": "The 80th Academy Awards", "expected": "80th Venice International Film Festival"}
+{"prompt": "[INST] In which language is \"Snow Leopard\" primarily spoken?  [/INST]", "generated": "Tibetan", "expected": "Tibetan"}
+{"prompt": "[INST] At which edition of the Venice International Film Festival did \"Snow Leopard\" premiere?  [/INST]", "generated": "80th edition", "expected": "80th"}
+{"prompt": "[INST] Who wrote the film \"Sitting in Bars with Cake\"?  [/INST]", "generated": "Kyle Thomas", "expected": "Audrey Shulman"}
+{"prompt": "[INST] Who are the main stars in \"Sitting in Bars with Cake\"?  [/INST]", "generated": "Kieran Culkin, Judy Reyes, Danny DeVito, Dylan Gelula, Danny Burstein, and Michael Cera", "expected": "Yara Shahidi, Odessa A'zion, Bette Midler"}
+{"prompt": "[INST] Where was \"Sitting in Bars with Cake\" released?  [/INST]", "generated": "Amazon Freevee", "expected": "Amazon Prime Video"}
+{"prompt": "[INST] Who is the director of \"Teen Adkun Sitaram\"?  [/INST]", "generated": "Shashank Shetty", "expected": "Hrishikesh Joshi"}
+{"prompt": "[INST] What is the genre of \"Teen Adkun Sitaram\"?  [/INST]", "generated": "Comedy-drama", "expected": "Comedy-drama"}
+{"prompt": "[INST] Which production companies are involved in \"Teen Adkun Sitaram\"?  [/INST]", "generated": "Zee Studios, Dharma Productions, Nadiadwala Grandson Entertainment", "expected": "Supreme Motion Pictures, Nitin Vaidya Productions"}
+{"prompt": "[INST] Who directed \"Truelove: The Film\"?  [/INST]", "generated": "Danny Boyle", "expected": "Phil Viardo"}
+{"prompt": "[INST] What award did \"Truelove: The Film\" win?  [/INST]", "generated": "Best Documentary Short Film at the 2023 Tribeca Film Festival", "expected": "Audience Choice Award: Best Documentary Feature Film at the 22nd Annual Beverly Hills Film Festival"}
+{"prompt": "[INST] Who are the main actors in \"The Wandering Earth 2\"?  [/INST]", "generated": "Li Xuejian, Zhou Dongyu, Qu Chuxiao, Yi Yang, Zhang Yi, and Zhang Yicong", "expected": "Andy Lau, Wu Jing, Li Xuejian"}
+{"prompt": "[INST] Is \"The Wandering Earth 2\" a prequel or sequel?  [/INST]", "generated": "Prequel", "expected": "Prequel"}
+{"prompt": "[INST] What is the ranking of \"The Wandering Earth 2\" in terms of highest-grossing films in 2023?  [/INST]", "generated": "Second-highest-grossing film in 2023", "expected": "Eighth"}
+{"prompt": "[INST] What is Liu Cixin's role in \"The Wandering Earth 2\"?  [/INST]", "generated": "Writer", "expected": "Producer"}
+{"prompt": "[INST] Who wrote the screenplay for \"Rye Lane\"?  [/INST]", "generated": "Nathan Bryon and Tom Melia", "expected": "Nathan Bryon and Tom Melia"}
+{"prompt": "[INST] What is \"Rye Lane\" titled after?  [/INST]", "generated": "The 2021 film of the same name", "expected": "Rye Lane Market"}
+{"prompt": "[INST] What is the plot of \"Rye Lane\"?  [/INST]", "generated": "Two strangers who meet on a day out in London", "expected": "Two strangers who have a chance encounter and spend the day getting to know each other"}
+{"prompt": "[INST] When was \"Rye Lane\" released in cinemas in the United Kingdom?  [/INST]", "generated": "10 March 2023", "expected": "17 March 2023"}
+{"prompt": "[INST] What were praised in \"Rye Lane\"?  [/INST]", "generated": "The performances of David Jonsson and Vivian Oparah", "expected": "Jonsson's and Oparah's performances, the film's direction, style, and originality"}
+{"prompt": "[INST] Who wrote the film \"Hey, Viktor!\"?  [/INST]", "generated": "Alexander Veledinsky", "expected": "Cody Lightning and Samuel Miller"}
+{"prompt": "[INST] What is the main character's background in \"Hey, Viktor!\"?  [/INST]", "generated": "A former child actor", "expected": "Fictionalized version of himself, 25 years after his breakthrough role as the young Victor in Smoke Signals"}
+{"prompt": "[INST] Who directed the film \"Sisi & I\"?  [/INST]", "generated": "Jessica Hausner", "expected": "Frauke Finsterwalder"}
+{"prompt": "[INST] Who stars as Empress Elisabeth of Austria in \"Sisi & I\"?  [/INST]", "generated": "Sophia Loren", "expected": "Susanne Wolff"}
+{"prompt": "[INST] What is the genre of \"Sisi & I\"?  [/INST]", "generated": "Biographical drama", "expected": "Historical black comedy"}
+{"prompt": "[INST] When did \"Sisi & I\" premiere at the Berlin Film Festival?  [/INST]", "generated": "17 February 2023", "expected": "19 February 2023"}
+{"prompt": "[INST] Who won the Bavarian Film Award for Best Director for \"Sisi & I\"?  [/INST]", "generated": "Sherry Hormann", "expected": "Frauke Finsterwalder"}
+{"prompt": "[INST] Which award did \"Sisi & I\" win at the German Film Award?  [/INST]", "generated": "Best International Feature Film", "expected": "Best Costume Design"}
+{"prompt": "[INST] When was \"Northern Comfort\" released?  [/INST]", "generated": "2023", "expected": "March 2023"}
+{"prompt": "[INST] Who co-wrote \"Northern Comfort\"?  [/INST]", "generated": "Michael Showalter, David Windsor, Ben Queen", "expected": "Halld\u00f3r Laxness Halld\u00f3rsson and Tobias Munthe"}
+{"prompt": "[INST] Where did \"Northern Comfort\" have its world premiere?  [/INST]", "generated": "Toronto International Film Festival", "expected": "SXSW Film Festival"}
+{"prompt": "[INST] Who wrote \"The Line\"?  [/INST]", "generated": "David Farr", "expected": "Ethan Berger and Alex Russek"}
+{"prompt": "[INST] Who are the main actors in \"The Line\"?  [/INST]", "generated": "Aidan Gillen, Aisling Franciosi, Tom Vaughan-Lawlor, Ciar\u00e1n Hinds, and Barry Keoghan", "expected": "Alex Wolff, Lewis Pullman, Halle Bailey, Austin Abrams, Scoot McNairy, John Malkovich"}
+{"prompt": "[INST] Who directed \"Godless: The Eastfield Exorcism\"?  [/INST]", "generated": "Michael Shannon", "expected": "Nick Kozakis"}
+{"prompt": "[INST] Who are the main actors in \"Godless: The Eastfield Exorcism\"?  [/INST]", "generated": "James Cosmo, Sean Pertwee, Jo Hartley, Shaun Dooley, and Shaun Thomas", "expected": "Georgia Eyers, Dan Ewing, Tim Pocock, Rosie Traynor, Eliza Matengu"}
+{"prompt": "[INST] Where did \"Godless: The Eastfield Exorcism\" have its world premiere?  [/INST]", "generated": "South by Southwest film festival", "expected": "2023 Overlook Film Festival"}
+{"prompt": "[INST] How was \"Godless: The Eastfield Exorcism\" received by critics?  [/INST]", "generated": "Mixed reviews", "expected": "Positive reviews"}
+{"prompt": "[INST] Who directed Miss Shetty Mr Polishetty?  [/INST]", "generated": "Vijay Krishna Acharya", "expected": "Mahesh Babu Pachigolla"}
+{"prompt": "[INST] Who are the lead actors in Miss Shetty Mr Polishetty?  [/INST]", "generated": "Rukshar Dhillon, Srikanth, and Ravi Krishna", "expected": "Anushka Shetty and Naveen Polishetty"}
+{"prompt": "[INST] Who handled the cinematography for Miss Shetty Mr Polishetty?  [/INST]", "generated": "Srinivas Reddy", "expected": "Nirav Shah"}
+{"prompt": "[INST] What was the box office gross of Miss Shetty Mr Polishetty?  [/INST]", "generated": "\u20b9100 crore", "expected": "Over 50 crores"}
+{"prompt": "[INST] How was Miss Shetty Mr Polishetty received by critics?  [/INST]", "generated": "Positively", "expected": "Positive reviews, praise for performances and direction"}
+{"prompt": "[INST] Who directed \"Richelieu\"?  [/INST]", "generated": "Denys Arcand", "expected": "Pier-Philippe Chevigny"}
+{"prompt": "[INST] Who is the main actress in \"Richelieu\"?  [/INST]", "generated": "L\u00e9a Drucker", "expected": "Ariane Castellanos"}
+{"prompt": "[INST] Where is \"Richelieu\" set?  [/INST]", "generated": "Quebec City", "expected": "Quebec"}
+{"prompt": "[INST] When did \"Richelieu\" premiere at the Tribeca Film Festival?  [/INST]", "generated": "June 10, 2023", "expected": "June 8, 2023"}
+{"prompt": "[INST] When is \"Richelieu\" scheduled for commercial release?  [/INST]", "generated": "2023", "expected": "Fall"}
+{"prompt": "[INST] What is the language of \"Road King\"?  [/INST]", "generated": "Telugu", "expected": "Kannada"}
+{"prompt": "[INST] Who directed \"Road King\"?  [/INST]", "generated": "S. R. Prabhu", "expected": "Randy Kent"}
+{"prompt": "[INST] Who wrote the film \"Road King\"?  [/INST]", "generated": "S. K. Rao", "expected": "Patricia Valenzuela Kent"}
+{"prompt": "[INST] What genre does \"Road King\" belong to?  [/INST]", "generated": "Action, crime, drama", "expected": "Action, thriller"}
+{"prompt": "[INST] Who are the main actors in \"The Chelsea Cowboy\"?  [/INST]", "generated": "Michael Caine, Liam Neeson, Dianne Wiest, John Lithgow, Lena Olin, Linda Lavin, Michael Cera, and Judith Light", "expected": "Alex Pettyfer, Poppy Delevingne, Lovi Poe, Charlie Creed-Miles"}
+{"prompt": "[INST] What genre is \"The Chelsea Cowboy\"?  [/INST]", "generated": "Comedy-drama", "expected": "Gangster biopic"}
+{"prompt": "[INST] Who wrote \"Bring Him to Me\"?  [/INST]", "generated": "Michael Petroni", "expected": "Tom Evans"}
+{"prompt": "[INST] Who stars in \"Bring Him to Me\"?  [/INST]", "generated": "Lily James, Sebastian Stan, Richard E. Grant, Daryl McCormack, and Richard Armitage", "expected": "Barry Pepper, Jamie Costa, Liam McIntyre, Rachel Griffiths, Sam Neill"}
+{"prompt": "[INST] Where is \"Bring Him to Me\" set?  [/INST]", "generated": "The fictional town of Cedar Bay, New Jersey", "expected": "Australia"}
+{"prompt": "[INST] Who wrote and directed \"Breakwater\"?  [/INST]", "generated": "Michael Pearce", "expected": "James Rowe"}
+{"prompt": "[INST] What genre is \"Breakwater\"?  [/INST]", "generated": "Drama", "expected": "Thriller"}
+{"prompt": "[INST] Who directed \"Killers of the Flower Moon\"?  [/INST]", "generated": "Martin Scorsese", "expected": "Martin Scorsese"}
+{"prompt": "[INST] What is the source material for \"Killers of the Flower Moon\"?  [/INST]", "generated": "The 2017 book of the same name by David Grann", "expected": "The 2017 book of the same name by David Grann"}
+{"prompt": "[INST] Who else is part of the ensemble cast of \"Killers of the Flower Moon\"?  [/INST]", "generated": "Leonardo DiCaprio, Lily Gladstone, Jesse Plemons, John Lithgow, Robert Patrick, Brendan Fraser, and J. Hairston", "expected": "Jesse Plemons, Tantoo Cardinal, John Lithgow, and Brendan Fraser"}
+{"prompt": "[INST] When did development for \"Killers of the Flower Moon\" begin?  [/INST]", "generated": "2016", "expected": "March 2016"}
+{"prompt": "[INST] When were Martin Scorsese and Leonardo DiCaprio attached to \"Killers of the Flower Moon\"?  [/INST]", "generated": "2016", "expected": "2017"}
+{"prompt": "[INST] Who financed and distributed \"Killers of the Flower Moon\"?  [/INST]", "generated": "Apple TV+, Apple Original Films", "expected": "Apple TV+ and Paramount Pictures"}
+{"prompt": "[INST] When did \"Killers of the Flower Moon\" premiere at the Cannes Film Festival?  [/INST]", "generated": "21 May 2023", "expected": "May 20, 2023"}
+{"prompt": "[INST] When was \"Circle Line\" released?  [/INST]", "generated": "2023", "expected": "2023"}
+{"prompt": "[INST] Who produced \"Circle Line\"?  [/INST]", "generated": "Siddharth Roy Kapur", "expected": "Taipan Films and mm2 Entertainment"}
+{"prompt": "[INST] Who are the main stars of \"Circle Line\"?  [/INST]", "generated": "Cheng Pei-pei, Tony Leung Ka-fai, Tony Leung Chiu-wai, Zhou Dongyu, Huang Bo, Xu Weizhou, Zhou Xun", "expected": "Jesseca Liu, Peter Yu, Andie Chen, Patrick Lee"}
+{"prompt": "[INST] When was \"Within Seconds\" released?  [/INST]", "generated": "2023", "expected": "2023"}
